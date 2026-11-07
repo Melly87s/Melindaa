@@ -8,6 +8,11 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.76 — Worldstone Shard tooltip and socket labels
+
+- The Worldstone Shard tooltip shows example corruption bonuses by item slot, the eligible socket outcome, the risk of turning gear into a random Rare, and examples of map effects.
+- Equipment tooltips show MAX SOCKETS with a gold count in brackets. Socketing methods highlight their counts or ranges in gold, and runeword recipes mark the exact requirement with a gold label such as [5s].
+
 ### v1.2.75 — Mercenary runeword colors
 
 - Mercenary runeword recommendations are orange on the ground and in item tooltips. Socket information uses teal.
@@ -256,6 +261,11 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.76 — Worldstone Shard aprašas ir socketų žymos
+
+- Worldstone Shard apraše rodomi korupcijos bonusų pavyzdžiai pagal daikto tipą, galimybė gauti socketų, rizika, kad įranga virs atsitiktiniu Rare daiktu, ir keli mapų efektų pavyzdžiai.
+- Įrangos aprašuose MAX SOCKETS skaičius rodomas auksine spalva ir laužtiniuose skliaustuose. Socketų metodų skaičiai bei intervalai taip pat auksiniai, o runeword receptai tikslų reikalavimą žymi, pavyzdžiui, [5s].
 
 ### v1.2.75 — Mercenary runeword spalvos
 
