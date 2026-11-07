@@ -1,10 +1,12 @@
-# Melindaa v1.2.78
+# Melindaa v1.2.79
 
 ## English
 
 Project Diablo 2 loot filter with our own equipment selection, dated HR/WSS estimates, supported ROLL ratings, actual ground bonuses, crafting help and class-aware runeword recommendations.
 
 **[Download ZIP](https://github.com/Melly87s/Melindaa/releases/latest/download/Melindaa.zip)** · **[Download RAR](https://github.com/Melly87s/Melindaa/releases/latest/download/Melindaa.rar)** · **[Changelog](./CHANGELOG.md)** · **[Full filter specification](./FILTER-SPECIFICATION.md)**
+
+Market price refresh runs every **Friday at 12:00 (Vilnius time)**. Each successful refresh creates a new filter version and records the market data date in [Changelog](./CHANGELOG.md).
 
 ### Choose your strictness
 
@@ -24,7 +26,7 @@ Project Diablo 2 loot filter with our own equipment selection, dated HR/WSS esti
 
 Farming/Endgame hide ordinary HP/MP potions, cold/gas/fire throwing potions and player ears. Endgame also hides ordinary chest keys. Both retain protected boss keys and special materials. Farming keeps all Set items; Endgame selects useful higher-tier candidates and handles ambiguous unidentified variants conservatively.
 
-### Latest changes, v1.2.63–v1.2.70
+### Earlier changes, v1.2.63–v1.2.70
 
 - Added Farming with Blue / Farming without Blue; Endgame is now level 7. Gold thresholds from Farming are 2,000 / 3,000 / 4,000. Existing Endgame selections migrate safely.
 - Pure Gold Find-only charms show no reliable price instead of a misleading numeric quote.
@@ -42,7 +44,7 @@ Farming/Endgame hide ordinary HP/MP potions, cold/gas/fire throwing potions and 
 
 Prices are dated **asking-price estimates**, not guaranteed sale prices. **Sellers may ask unrealistic amounts, which can distort estimates.** Supported charm/skiller/jewel/base/material/Rare/Crafted samples use a 120-hour listing/bump window. Missing supported samples mean no quote, not proof that no listings exist. Older baseline Unique/Set prices retain their original dates. NPC gold is separate.
 
-ROLL describes supported variable properties, not universal build value. Unknown/modified cases may show CHECK. Ground labels show actual identified bonuses. Socket method labels are light blue, their counts are gold, and class runeword recipes are green. Maximum socket capacity does not guarantee a socketing result. Superior bases do not use the normal-only random socket Cube recipe.
+ROLL describes supported variable properties, not universal build value.  Ground labels show actual identified bonuses. Socket method labels are light blue, their counts are gold, and class runeword recipes are green. Maximum socket capacity does not guarantee a socketing result. Superior bases do not use the normal-only random socket Cube recipe.
 
 The **[owned grail]** marker appears beside Unique/Set item names both on the ground and in inventory. It uses PD2's current Unique/Set collection state, not discovery history or an independent stash scan. Update timing after selling the last copy still needs in-game verification. Item level appears at the bottom of descriptions.
 
@@ -80,7 +82,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.78** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.79** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
 
 [MIT license notice](./MIT-NOTICE.txt)
@@ -90,6 +92,8 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 Project Diablo 2 filtras su mūsų sukurta įrangos atranka, datuotais HR/WSS kainų įverčiais, palaikomais ROLL vertinimais, tikrais bonusais ant žemės, craft pagalba ir klasei pritaikytomis runeword rekomendacijomis.
 
 **[Atsisiųsti ZIP](https://github.com/Melly87s/Melindaa/releases/latest/download/Melindaa.zip)** · **[Atsisiųsti RAR](https://github.com/Melly87s/Melindaa/releases/latest/download/Melindaa.rar)** · **[Pakeitimai](./CHANGELOG.md)** · **[Visa filtro specifikacija](./FILTER-SPECIFICATION.md)**
+
+Kainos automatiškai atnaujinamos kiekvieną **penktadienį 12:00 Lietuvos laiku**. Po sėkmingo atnaujinimo išleidžiama nauja filtro versija, o rinkos duomenų data įrašoma į [pakeitimų istoriją](./CHANGELOG.md).
 
 ### Pasirink strictness lygį
 
@@ -109,7 +113,7 @@ Project Diablo 2 filtras su mūsų sukurta įrangos atranka, datuotais HR/WSS ka
 
 Farming/Endgame slepia įprastus HP/MP, cold/gas/fire throwing potionus ir player ears. Endgame papildomai slepia įprastus chest keys. Boss raktai ir saugomos medžiagos išlieka. Farming rodo visus Set; Endgame atrenka naudingus aukštesnio lygio kandidatus, o neaiškius neidentifikuotus variantus vertina atsargiai.
 
-### Naujausi pakeitimai, v1.2.63–v1.2.70
+### Ankstesni pakeitimai, v1.2.63–v1.2.70
 
 - Pridėti Farming with Blue / Farming without Blue; Endgame dabar 7 lygis. Gold nuo Farming: 2 000 / 3 000 / 4 000. Ankstesnis Endgame pasirinkimas saugiai perkeliamas.
 - Tik Gold Find turintys charmai rodo, kad patikimos kainos nėra, vietoj klaidinančio skaičiaus.
@@ -127,7 +131,7 @@ Farming/Endgame slepia įprastus HP/MP, cold/gas/fire throwing potionus ir playe
 
 Kainos yra datuoti **pardavėjų prašomų kainų įverčiai**, ne garantuota pardavimo vertė. **Pardavėjai gali prašyti nerealių sumų, todėl įverčiai gali būti iškreipti.** Palaikomų charm/skiller/jewel/bazių/medžiagų/Rare/Crafted imtis naudoja 120 val. paskelbimo/atnaujinimo langą. Nepakankama imtis paliekama be kainos; tai nereiškia, kad nėra skelbimų. Senesni baziniai Unique/Set įverčiai išlaiko originalias datas. NPC gold atskiriamas.
 
-ROLL vertina palaikomas kintamas savybes, ne universalų tinkamumą build. Nežinomi/pakeisti atvejai gali rodyti CHECK. Ant žemės rašomi tikri identifikuoti bonusai. Socketų metodų žymos žydros, skaičiai auksiniai, o klasės runeword receptai žali. Maksimali socketų talpa negarantuoja socketinimo rezultato. Superior bazėms netaikomas tik normal kokybei skirtas random socket Cube receptas.
+ROLL vertina palaikomas kintamas savybes, ne universalų tinkamumą build. Ant žemės rašomi tikri identifikuoti bonusai. Socketų metodų žymos žydros, skaičiai auksiniai, o klasės runeword receptai žali. Maksimali socketų talpa negarantuoja socketinimo rezultato. Superior bazėms netaikomas tik normal kokybei skirtas random socket Cube receptas.
 
 **[owned grail]** rodoma prie Unique/Set daikto vardo ir ant žemės, ir inventoriuje. Ji naudoja dabartinę PD2 Unique/Set kolekcijos turėjimo būseną, ne atradimų istoriją ar savarankišką stash skenavimą. Atnaujinimo laikas pardavus paskutinę kopiją dar tikrinamas žaidime. Item level rašomas aprašymo apačioje.
 
@@ -165,7 +169,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.78**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.79**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
 [MIT licencijos įrašas](./MIT-NOTICE.txt)
@@ -191,17 +195,27 @@ Atsparumai ant žemės rašomi Fire res / Cold res / Light res / Poison res, kad
 
 ### Launcher metadata / Launcher metaduomenys
 
-[`filters.json`](./filters.json) contains our single registration entry for the official PD2 list. `filter_definitions.json` describes the single `Melindaa.filter` choice. The launcher registration uses the official `name`, `url`, `author` format with the repository contents API URL. Inclusion in the official launcher list still requires PD2 approval. Item tooltips show one “Check price on PD2 Trade” line for missing estimates and for baseline Unique and Set quotes. Baseline quotes still show the numeric estimate and its market data date.
+[`filters.json`](./filters.json) contains our single registration entry for the official PD2 list. `filter_definitions.json` describes the single `Melindaa.filter` choice. The launcher registration uses the official `name`, `url`, `author` format with the repository contents API URL. Inclusion in the official launcher list still requires PD2 approval. Item tooltips show one “Check price on PD2 Market” line for missing estimates and for baseline Unique and Set quotes. Baseline quotes still show the numeric estimate and its market data date.
 
-[`filters.json`](./filters.json) pateikia vienintelį mūsų registracijos įrašą oficialiam PD2 sąrašui. `filter_definitions.json` aprašo vienintelį `Melindaa.filter` pasirinkimą. Launcher registracijos įrašas naudoja oficialų `name`, `url`, `author` formatą ir repozitoriumo contents API adresą. Įtraukimui į oficialų launcher sąrašą dar reikalingas PD2 patvirtinimas. Kai kainos įverčio nėra arba rodomas bazinis Unique ar Set įvertis, daikto apraše rodoma viena eilutė „Check price on PD2 Trade“. Prie bazinių įverčių išlieka skaičiai ir rinkos duomenų data.
+[`filters.json`](./filters.json) pateikia vienintelį mūsų registracijos įrašą oficialiam PD2 sąrašui. `filter_definitions.json` aprašo vienintelį `Melindaa.filter` pasirinkimą. Launcher registracijos įrašas naudoja oficialų `name`, `url`, `author` formatą ir repozitoriumo contents API adresą. Įtraukimui į oficialų launcher sąrašą dar reikalingas PD2 patvirtinimas. Kai kainos įverčio nėra arba rodomas bazinis Unique ar Set įvertis, daikto apraše rodoma viena eilutė „Check price on PD2 Market“. Prie bazinių įverčių išlieka skaičiai ir rinkos duomenų data.
 
-Equipment tooltips use Max Sockt with a gold count in brackets. Larzuk quest, Puzzlebox or Puzzlepiece, and Malus results share one line. The Cube random socket range and ingredients share another line when applicable. Runeword recipes mark exact requirements with gold labels such as [5s].
+Socketing and Max Sockt share one line with the maximum in gold brackets. Larzuk quest, Puzzlebox or Puzzlepiece, and Malus results share another line. The Cube random socket range and ingredients appear when applicable. Runeword recipes mark exact requirements with gold labels such as [5s].
 
-Įrangos apraše Max Sockt skaičius rodomas auksine spalva laužtiniuose skliaustuose. Larzuk užduoties, Puzzlebox arba Puzzlepiece ir Malus rezultatai rodomi vienoje eilutėje. Kai tinka Cube receptas, jo intervalas ir ingredientai rodomi kitoje eilutėje. Tikslus runeword reikalavimas žymimas auksiniu skaičiumi, pvz., [5s].
+Socketing ir Max Sockt rodomi vienoje eilutėje, o maksimalus skaičius yra auksinis laužtiniuose skliaustuose. Larzuk užduoties, Puzzlebox arba Puzzlepiece ir Malus rezultatai rodomi kitoje eilutėje. Kai tinka Cube receptas, rodomas jo intervalas ir ingredientai. Tikslus runeword reikalavimas žymimas auksiniu skaičiumi, pvz., [5s].
 
-Wirt’s Leg and Stamina are visible at every strictness level. Stamina stays visible at every level and is orange on the ground. Identify and Town Portal scrolls have distinct ground colors. Socket recipes have a Socketing heading. Ground labels show Possible merc RW for eligible mixed-use bases too.
+Wirt’s Leg and Stamina are visible at every strictness level. Stamina stays visible at every level and is blue on the ground. Identify and Town Portal scrolls have distinct ground colors. Socket recipes have a Socketing heading. Ground labels show Possible merc RW for eligible mixed-use bases too.
 
-Wirt’s Leg ir Stamina matomi visuose strictness lygiuose. Stamina matoma visuose lygiuose ir ant žemės rodoma oranžine spalva. Identify ir Town Portal scrollai turi skirtingas spalvas. Socketų receptai turi antraštę Socketing. Žyma Possible merc RW rodoma ant žemės ir tinkamoms mišrios paskirties bazėms.
+Wirt’s Leg ir Stamina matomi visuose strictness lygiuose. Stamina matoma visuose lygiuose ir ant žemės rodoma mėlyna spalva. Identify ir Town Portal scrollai turi skirtingas spalvas. Socketų receptai turi antraštę Socketing. Žyma Possible merc RW rodoma ant žemės ir tinkamoms mišrios paskirties bazėms.
+
+Inventory runeword recipes stay available for eligible bases even when their ground drops are hidden in Endgame. Runeword names use Unique gold, with the rune sequence next to each name. Bind Increase Filter Level and Decrease Filter Level to Numpad + and − to compare recommendations while hovering.
+
+Tinkamos bazės inventoriuje rodo runeword receptus, net jei Endgame jų nerodo ant žemės. Runeword pavadinimas auksinis kaip Unique, o šalia jo rodoma runų seka. Priskirk Increase Filter Level ir Decrease Filter Level prie Numpad + ir −, tada užvedęs pelę keisk lygį ir palygink rekomendacijas.
+
+### PD2 item guides / PD2 daiktų paskirtis
+
+Hover over essences, boss materials, map orbs and other supported PD2 consumables in your inventory or stash to see their use, Cube ingredients and confirmed ways to obtain them.
+
+Inventoriuje ar stash užvedus pelę ant esencijų, boss medžiagų, mapų orbų ar kitų palaikomų PD2 vartojamų daiktų, aprašyme rodoma jų paskirtis, Cube ingredientai ir patvirtinti gavimo būdai.
 
 ### Worldstone Shard
 

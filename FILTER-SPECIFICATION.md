@@ -2,11 +2,11 @@
 
 ## English
 
-Current policy: **v1.2.73**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
+Current policy: **v1.2.79**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
 
 ### Permanent visibility
 
-All profiles show all uniques, including Endgame, so players can collect their unique-item grail. All runes, charms, jewels, jewel fragments and protected PD2 special drops remain visible regardless of equipment roll thresholds. These include maps, map-upgrade materials and orbs, corruption/socket tools, crafting materials, fragments, boss keys, organs and essences. Inventory items remain inspectable.
+All profiles show all uniques, including Endgame, so players can collect their unique-item grail. All runes, charms, jewels, jewel fragments and protected PD2 special drops remain visible regardless of equipment roll thresholds. These include maps, map-upgrade materials and orbs, corruption/socket tools, crafting materials, fragments, boss keys, organs and essences. Inventory items remain inspectable. Supported special materials show a short guide with their purpose and Cube ingredients.
 
 ### Rare equipment and identification
 
@@ -28,13 +28,13 @@ Craft-only blue bases stop after Baal Runs. Farming with Blue uses Melindaa's in
 
 From Farming, a base must suit Melindaa's advanced-recipe selection and meet its relevant quality requirements. Advanced recipes here use a Pul-or-later rune; this is a selection boundary, not a market-value claim. Starter-only bases, including those only useful for Lore, no longer qualify. Selected low-requirement caster/buff bases remain useful exceptions, including CTA swords and HOTO flails.
 
-Endgame additionally requires maximum relevant base bonuses and actual recipe-compatible sockets. Relevant maxima depend on the item: enhanced damage/defense, class-skill properties or Paladin automagic where applicable. This does not promise a perfect combination of every possible stat. A high item level alone does not qualify a base.
+Endgame additionally requires maximum relevant base bonuses and either no sockets or the exact count for an approved recipe. Relevant maxima depend on the item: enhanced damage/defense, class-skill properties or Paladin automagic where applicable. This does not promise a perfect combination of every possible stat. A high item level alone does not qualify a base.
 
-Class recommendations and required runes are green; generic compatible options are gray. The filter recognizes class, not the player's exact build. Unsocketed bases still need the stated socket count.
+Runeword names use Unique gold, with the ordered runes alongside. The inventory shows practical recipes even when Endgame hides the drop. Socketing and Max Sockt share one line. The filter recognizes the character class. Unsocketed bases still need the stated socket count.
 
 ### Progression and consumables
 
-Normal/Nightmare show all items. Hell/Baal use cautious equipment guidance without a universal item-level-85 cutoff and show Flawless/Perfect gems. Farming/Endgame show only Perfect gems. Gold minimums are 2,000 and 3,000 respectively. Hell hides loose ID/TP scrolls and Stamina/Thawing/Oil potions. Farming also hides ordinary HP/MP, Antidote and cold/gas/fire throwing potions; both rejuvenation sizes remain.
+Normal/Nightmare show all items. Hell/Baal use cautious equipment guidance without a universal item-level-85 cutoff and show Flawless/Perfect gems. Farming/Endgame show only Perfect gems. Gold minimums at levels 5–7 are 2,000, 3,000 and 4,000. Hell hides loose ID/TP scrolls, Thawing and Oil. Farming also hides ordinary HP/MP and cold/gas/fire throwing potions. Both Rejuvenation sizes, Antidote and Stamina remain visible.
 
 Stack labels appear only for quantities above one, e.g. `5x Worldstone Shard`. Item level appears as plain text at the bottom of descriptions. Charm/skiller, magic-jewel and supported RW-base quotes use a five-day (120-hour) listing/bump window and five-day snapshot validity at build/update time. Exact matches take priority over approximate pooled-roll mod groups. Supported RW-base quotes distinguish base, socket count, ETH, Normal/Superior and ED/durability bands, pooling base-defense rolls; they do not price filled/corrupted bases. Unknown quotes are stated explicitly, never inferred from NPC gold. Baseline unique/set data retains its original date.
 
@@ -44,11 +44,11 @@ Repeated expressions are compiled through shared named formulas; RW eligibility 
 
 ## Lietuviškai
 
-Dabartinė politika: **v1.2.73**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
+Dabartinė politika: **v1.2.79**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
 
 ### Kas visada matoma
 
-Visuose profiliuose, įskaitant Endgame, rodomi visi unique, kad būtų galima rinkti unique grail kolekciją. Visada lieka runos, charmai, jewels, jewel fragmentai ir saugomi PD2 specialūs daiktai: mapai, jų upgrade medžiagos ir orbai, corruption/socket įrankiai, craft medžiagos, fragmentai, boss keys, organai ir essences. Įrangos roll ribos jų neslepia. Inventoriaus daiktus galima apžiūrėti.
+Visuose profiliuose, įskaitant Endgame, rodomi visi unique, kad būtų galima rinkti unique grail kolekciją. Visada lieka runos, charmai, jewels, jewel fragmentai ir saugomi PD2 specialūs daiktai: mapai, jų upgrade medžiagos ir orbai, corruption/socket įrankiai, craft medžiagos, fragmentai, boss keys, organai ir essences. Įrangos roll ribos jų neslepia. Inventoriaus daiktus galima apžiūrėti. Palaikomų specialių medžiagų aprašuose rodoma jų paskirtis ir Cube ingredientai.
 
 ### Rare ir identifikavimas
 
@@ -58,25 +58,25 @@ Identifikavus Farming vertina kategorijai naudingus derinius, ne universalų sav
 
 ### Set daiktai
 
-- **Farming Strict rodo visus set.**
+- **Abu Farming profiliai rodo visus set.**
 - **Endgame atrenka aukštesnio lygio/naudingus set.** Žinomi žemos vertės šablonai slepiami. Palaikomiems ir patikimai vertinamiems kintamiems roll reikia 90%; atrinkti fiksuotų savybių set neturi kintamo procento.
 - Neidentifikuotos bendros bazės paliekamos, jeigu jose gali būti tinkamas set. Bazę, kuri turi tik atmestus set, galima slėpti. Neaiški tapatybė ir nepalaikomi/pakeisti roll vertinami atsargiau; tai nėra bendras leidimas visiems prastiems set.
 
 ### Magic įranga ir pagaminti craft
 
-Mėlynų bazių rodymas vien craftinimui baigiasi po Baal Runs. Farming slepia visus Magic ginklus, šalmus/circlet/klasių šalmus, diržus, batus, pirštines ir skydus, ID ir unID nepaisant bonusų. Atrinkti Magic žiedai, amuletai, kūno šarvai ir quiver lieka. Endgame slepia visus Magic žiedus, amuletus, skydus, ginklus, diržus, pirštines, batus ir šalmus, įskaitant circlet ir klasių šalmus, ID ir unID, nepaisant bonusų. Magic kūno šarvų ir quiver atranka išlieka atskira. Vien craft potencialas atrankos neapeina. Charmai, jewels ir saugomi magic PD2 mapai/medžiagos lieka. Visi jau pagaminti oranžiniai crafted daiktai matomi visuose lygiuose; jie gali būti naudingi ir Endgame, o mėlyna craft bazė yra kitas dalykas.
+Mėlynų bazių rodymas vien craftinimui baigiasi po Baal Runs. Farming with Blue atrenka naudingus Magic derinius ir perspektyvias neidentifikuotas bazes. Farming without Blue ir Endgame slepia įprastą Magic įrangą bei juvelyriką. Charmai, jewels ir saugomi PD2 daiktai lieka matomi. Abu Farming profiliai naudoja tą pačią Rare, Set ir RW bazių atranką. Visi pagaminti oranžiniai crafted daiktai matomi visuose lygiuose.
 
 ### Runeword bazės
 
 Nuo Farming bazė turi tikti mūsų pažangių receptų atrankai ir atitikti aktualią kokybę. Šiai atrankai pažangus receptas naudoja Pul arba vėlesnę runą; tai atrankos riba, ne rinkos kainos teiginys. Tik starter receptams, pvz., Lore, tinkamos bazės neberodomos. Paliekamos naudingos žemų reikalavimų caster/buff išimtys, įskaitant CTA kardus ir HOTO flailus.
 
-Endgame papildomai reikia maksimalių aktualių bazės bonusų ir tikrų receptui tinkamų socketų. Aktualūs maksimumai priklauso nuo bazės: enhanced damage/defense, klasės skill ar Paladin automagic. Tai nereiškia tobulo visų galimų savybių derinio. Vien aukštas item level bazės neišsaugo.
+Endgame papildomai reikia maksimalių aktualių bazės bonusų. Tinka bazės be socketų arba su tiksliu atrinktam receptui reikalingu socketų skaičiumi. Aktualūs maksimumai priklauso nuo bazės: enhanced damage/defense, klasės skill ar Paladin automagic. Tai nereiškia tobulo visų galimų savybių derinio. Vien aukštas item level bazės neišsaugo.
 
-Klasei rekomenduojami RW ir runos žali, bendri tinkami variantai pilki. Atpažįstama klasė, ne tikslus build. Bazei be socketų vis dar reikia nurodyto jų skaičiaus.
+Runeword pavadinimai auksiniai kaip Unique, šalia rodoma runų seka. Inventoriuje praktiniai receptai matomi ir tada, kai Endgame paslepia bazę ant žemės. Socketing ir Max Sockt rodomi vienoje eilutėje. Filtras atpažįsta veikėjo klasę. Bazei be socketų vis dar reikia nurodyto jų skaičiaus.
 
 ### Progresas ir vartojami daiktai
 
-Normal/Nightmare rodo viską. Hell/Baal naudoja atsargias įrangos gaires be bendros item level 85 ribos; rodo Flawless/Perfect gemus. Farming/Endgame rodo tik Perfect gemus. Gold minimumai atitinkamai 2 000 ir 3 000. Hell slepia palaidus ID/TP scrolls ir Stamina/Thawing/Oil potionus. Farming papildomai slepia įprastus HP/MP, Antidote ir cold/gas/fire throwing potionus; abu rejuvenation dydžiai lieka.
+Normal/Nightmare rodo viską. Hell/Baal naudoja atsargias įrangos gaires be bendros item level 85 ribos; rodo Flawless/Perfect gemus. Farming/Endgame rodo tik Perfect gemus. Gold minimumai 5–7 lygiuose yra 2 000, 3 000 ir 4 000. Hell slepia palaidus ID/TP scrollus, Thawing ir Oil. Farming papildomai slepia įprastus HP/MP ir cold/gas/fire throwing potionus. Abu Rejuvenation dydžiai, Antidote ir Stamina lieka matomi.
 
 Kiekis rodomas tik krūvelėms nuo 2 vnt., pvz., `5x Worldstone Shard`. Item level rašomas paprastu tekstu aprašymo apačioje. Charmų/skillerių, magic jewels ir palaikomų RW bazių kainos naudoja 5 parų (120 val.) skelbimų/atnaujinimų langą bei 5 parų įverčio galiojimą kūrimo/atnaujinimo metu. Tikslūs deriniai turi pirmenybę prieš apytiksles modų grupes. RW bazėms atskiriama bazė, socketai, ETH, Normal/Superior ir ED/durability ribos, sujungiami defense roll; užpildytoms/corrupted bazėms šis įvertis netaikomas. Nežinomas įvertis pažymimas aiškiai, ne išvedamas iš NPC gold. Bazinės unique/set kainos išlaiko pradinę datą.
 
@@ -133,17 +133,21 @@ Atsparumai ant žemės rašomi Fire res / Cold res / Light res / Poison res, kad
 
 ### Launcher metadata / Launcher metaduomenys
 
-[`filters.json`](./filters.json) contains our single registration entry for the official PD2 list. `filter_definitions.json` describes the single `Melindaa.filter` choice. The launcher registration uses the official `name`, `url`, `author` format with the repository contents API URL. Inclusion in the official launcher list still requires PD2 approval. Item tooltips show one “Check price on PD2 Trade” line for missing estimates and for baseline Unique and Set quotes. Baseline quotes still show the numeric estimate and its market data date.
+[`filters.json`](./filters.json) contains our single registration entry for the official PD2 list. `filter_definitions.json` describes the single `Melindaa.filter` choice. The launcher registration uses the official `name`, `url`, `author` format with the repository contents API URL. Inclusion in the official launcher list still requires PD2 approval. Item tooltips show one “Check price on PD2 Market” line for missing estimates and for baseline Unique and Set quotes. Baseline quotes still show the numeric estimate and its market data date.
 
-[`filters.json`](./filters.json) pateikia vienintelį mūsų registracijos įrašą oficialiam PD2 sąrašui. `filter_definitions.json` aprašo vienintelį `Melindaa.filter` pasirinkimą. Launcher registracijos įrašas naudoja oficialų `name`, `url`, `author` formatą ir repozitoriumo contents API adresą. Įtraukimui į oficialų launcher sąrašą dar reikalingas PD2 patvirtinimas. Kai kainos įverčio nėra arba rodomas bazinis Unique ar Set įvertis, daikto apraše rodoma viena eilutė „Check price on PD2 Trade“. Prie bazinių įverčių išlieka skaičiai ir rinkos duomenų data.
+[`filters.json`](./filters.json) pateikia vienintelį mūsų registracijos įrašą oficialiam PD2 sąrašui. `filter_definitions.json` aprašo vienintelį `Melindaa.filter` pasirinkimą. Launcher registracijos įrašas naudoja oficialų `name`, `url`, `author` formatą ir repozitoriumo contents API adresą. Įtraukimui į oficialų launcher sąrašą dar reikalingas PD2 patvirtinimas. Kai kainos įverčio nėra arba rodomas bazinis Unique ar Set įvertis, daikto apraše rodoma viena eilutė „Check price on PD2 Market“. Prie bazinių įverčių išlieka skaičiai ir rinkos duomenų data.
 
 Equipment tooltips use Max Sockt with a gold count in brackets. Larzuk quest, Puzzlebox or Puzzlepiece, and Malus results share one line. The Cube random socket range and ingredients share another line when applicable. Runeword recipes mark exact requirements with gold labels such as [5s].
 
 Įrangos apraše Max Sockt skaičius rodomas auksine spalva laužtiniuose skliaustuose. Larzuk užduoties, Puzzlebox arba Puzzlepiece ir Malus rezultatai rodomi vienoje eilutėje. Kai tinka Cube receptas, jo intervalas ir ingredientai rodomi kitoje eilutėje. Tikslus runeword reikalavimas žymimas auksiniu skaičiumi, pvz., [5s].
 
-Wirt’s Leg and Stamina are visible at every strictness level. Stamina stays visible at every level and is orange on the ground. Identify and Town Portal scrolls have distinct ground colors. Socket recipes have a Socketing heading. Ground labels show Possible merc RW for eligible mixed-use bases too.
+Wirt’s Leg and Stamina are visible at every strictness level. Stamina stays visible at every level and is blue on the ground. Identify and Town Portal scrolls have distinct ground colors. Socket recipes have a Socketing heading. Ground labels show Possible merc RW for eligible mixed-use bases too.
 
-Wirt’s Leg ir Stamina matomi visuose strictness lygiuose. Stamina matoma visuose lygiuose ir ant žemės rodoma oranžine spalva. Identify ir Town Portal scrollai turi skirtingas spalvas. Socketų receptai turi antraštę Socketing. Žyma Possible merc RW rodoma ant žemės ir tinkamoms mišrios paskirties bazėms.
+Wirt’s Leg ir Stamina matomi visuose strictness lygiuose. Stamina matoma visuose lygiuose ir ant žemės rodoma mėlyna spalva. Identify ir Town Portal scrollai turi skirtingas spalvas. Socketų receptai turi antraštę Socketing. Žyma Possible merc RW rodoma ant žemės ir tinkamoms mišrios paskirties bazėms.
+
+Inventory runeword recipes stay available for eligible bases even when their ground drops are hidden in Endgame. Bind Increase Filter Level and Decrease Filter Level to Numpad + and − to compare recommendations while hovering. Stamina has a blue ground label.
+
+Tinkamos bazės inventoriuje rodo runeword receptus, net jei Endgame jų nerodo ant žemės. Priskirk Increase Filter Level ir Decrease Filter Level prie Numpad + ir −, tada užvedęs pelę keisk lygį ir palygink rekomendacijas. Stamina ant žemės rodoma mėlynai.
 
 ### Worldstone Shard
 

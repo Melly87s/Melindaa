@@ -8,6 +8,13 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.79 — Runewords, PD2 item guides and market notes
+
+- Price tooltips use “Check price on PD2 Trade Site”. Available HR/WSS estimates retain their data date. Removed placeholder roll labels. Runeword tooltips show rune order beside each displayed recipe.
+- Inventory runeword recipes stay available for eligible bases even when their ground drops are hidden in Endgame. Bind Increase Filter Level and Decrease Filter Level to Numpad + and − to compare recommendations while hovering. Stamina has a blue ground label.
+- Runeword names use Unique gold. The socketing heading and maximum socket count share one line. Socket instructions take priority within the tooltip limit at every strictness.
+- Added short inventory guides for essences, boss keys and materials, map orbs, socket tools and other PD2 consumables, with confirmed ways to obtain them.
+
 ### v1.2.78 — Shorter trade notes
 
 - Item tooltips show one “Check price on PD2 Trade” line for missing estimates and for baseline Unique and Set quotes. Baseline quotes still show the numeric estimate and its market data date.
@@ -271,6 +278,13 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.79 — Runeword aprašai, PD2 daiktų paskirtis ir kainos
+
+- Kainų aprašuose naudojama „Check price on PD2 Trade Site“. Turimi HR/WSS įverčiai išlaiko duomenų datą. Pašalintos ROLL vietaženklio žymos. Runeword apraše runų seka rodoma šalia kiekvieno pateikiamo recepto.
+- Tinkamos bazės inventoriuje rodo runeword receptus, net jei Endgame jų nerodo ant žemės. Priskirk Increase Filter Level ir Decrease Filter Level prie Numpad + ir −, tada užvedęs pelę keisk lygį ir palygink rekomendacijas. Stamina ant žemės rodoma mėlynai.
+- Runeword pavadinimai rodomi auksine Unique spalva. Socketing antraštė ir maksimalus socketų skaičius telpa vienoje eilutėje. Visuose profiliuose socketinimo instrukcijoms teikiama pirmenybė, kai apraše trūksta vietos.
+- Inventoriuje trumpai aprašyta esencijų, boss raktų ir medžiagų, mapų orbų, socketinimo įrankių bei kitų PD2 vartojamų daiktų paskirtis ir patvirtinti gavimo būdai.
 
 ### v1.2.78 — Trumpesnės kainų pastabos
 
