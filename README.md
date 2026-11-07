@@ -1,4 +1,4 @@
-# Melindaa v1.2.76
+# Melindaa v1.2.77
 
 ## English
 
@@ -80,7 +80,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.76** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.77** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
 
 [MIT license notice](./MIT-NOTICE.txt)
@@ -165,7 +165,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.76**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.77**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
 [MIT licencijos įrašas](./MIT-NOTICE.txt)
@@ -195,9 +195,9 @@ Atsparumai ant žemės rašomi Fire res / Cold res / Light res / Poison res, kad
 
 [`filters.json`](./filters.json) pateikia vienintelį mūsų registracijos įrašą oficialiam PD2 sąrašui. `filter_definitions.json` aprašo vienintelį `Melindaa.filter` pasirinkimą. Launcher registracijos įrašas naudoja oficialų `name`, `url`, `author` formatą ir repozitoriumo contents API adresą. Įtraukimui į oficialų launcher sąrašą dar reikalingas PD2 patvirtinimas. Kai palaikomo įverčio nėra, rodoma **Estimated price: in development**; esamų skaitinių įverčių duomenų datos išlieka.
 
-Equipment tooltips show MAX SOCKETS with a gold count in brackets. Socketing methods highlight their counts or ranges in gold, and runeword recipes mark the exact requirement with a gold label such as [5s].
+Equipment tooltips use Max Sockt with a gold count in brackets. Larzuk quest, Puzzlebox or Puzzlepiece, and Malus results share one line. The Cube random socket range and ingredients share another line when applicable. Runeword recipes mark exact requirements with gold labels such as [5s].
 
-Įrangos aprašuose MAX SOCKETS skaičius rodomas auksine spalva ir laužtiniuose skliaustuose. Socketų metodų skaičiai bei intervalai taip pat auksiniai, o runeword receptai tikslų reikalavimą žymi, pavyzdžiui, [5s].
+Įrangos apraše Max Sockt skaičius rodomas auksine spalva laužtiniuose skliaustuose. Larzuk užduoties, Puzzlebox arba Puzzlepiece ir Malus rezultatai rodomi vienoje eilutėje. Kai tinka Cube receptas, jo intervalas ir ingredientai rodomi kitoje eilutėje. Tikslus runeword reikalavimas žymimas auksiniu skaičiumi, pvz., [5s].
 
 ### Worldstone Shard
 

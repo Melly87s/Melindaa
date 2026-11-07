@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.77 — Compact socket help
+
+- Equipment tooltips use Max Sockt with a gold count in brackets. Larzuk quest, Puzzlebox or Puzzlepiece, and Malus results share one line. The Cube random socket range and ingredients share another line when applicable.
+
 ### v1.2.76 — Worldstone Shard tooltip and socket labels
 
 - The Worldstone Shard tooltip shows example corruption bonuses by item slot, the eligible socket outcome, the risk of turning gear into a random Rare, and examples of map effects.
@@ -261,6 +265,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.77 — Trumpesnė socketų pagalba
+
+- Įrangos apraše Max Sockt skaičius rodomas auksine spalva laužtiniuose skliaustuose. Larzuk užduoties, Puzzlebox arba Puzzlepiece ir Malus rezultatai rodomi vienoje eilutėje. Kai tinka Cube receptas, jo intervalas ir ingredientai rodomi kitoje eilutėje.
 
 ### v1.2.76 — Worldstone Shard aprašas ir socketų žymos
 

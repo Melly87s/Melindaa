@@ -137,9 +137,9 @@ Atsparumai ant žemės rašomi Fire res / Cold res / Light res / Poison res, kad
 
 [`filters.json`](./filters.json) pateikia vienintelį mūsų registracijos įrašą oficialiam PD2 sąrašui. `filter_definitions.json` aprašo vienintelį `Melindaa.filter` pasirinkimą. Launcher registracijos įrašas naudoja oficialų `name`, `url`, `author` formatą ir repozitoriumo contents API adresą. Įtraukimui į oficialų launcher sąrašą dar reikalingas PD2 patvirtinimas. Kai palaikomo įverčio nėra, rodoma **Estimated price: in development**; esamų skaitinių įverčių duomenų datos išlieka.
 
-Equipment tooltips show MAX SOCKETS with a gold count in brackets. Socketing methods highlight their counts or ranges in gold, and runeword recipes mark the exact requirement with a gold label such as [5s].
+Equipment tooltips use Max Sockt with a gold count in brackets. Larzuk quest, Puzzlebox or Puzzlepiece, and Malus results share one line. The Cube random socket range and ingredients share another line when applicable. Runeword recipes mark exact requirements with gold labels such as [5s].
 
-Įrangos aprašuose MAX SOCKETS skaičius rodomas auksine spalva ir laužtiniuose skliaustuose. Socketų metodų skaičiai bei intervalai taip pat auksiniai, o runeword receptai tikslų reikalavimą žymi, pavyzdžiui, [5s].
+Įrangos apraše Max Sockt skaičius rodomas auksine spalva laužtiniuose skliaustuose. Larzuk užduoties, Puzzlebox arba Puzzlepiece ir Malus rezultatai rodomi vienoje eilutėje. Kai tinka Cube receptas, jo intervalas ir ingredientai rodomi kitoje eilutėje. Tikslus runeword reikalavimas žymimas auksiniu skaičiumi, pvz., [5s].
 
 ### Worldstone Shard
 
