@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.82 — Cleaner item descriptions
+
+- Removed “Good for” and “Useful for” class suggestions from item tooltips.
+
 ### v1.2.81 — Worldstone Shard tooltip
 
 - Worldstone Shard guidance appears in gray and labels the listed bonuses as examples of possible corruption outcomes.
@@ -286,6 +290,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.82 — Trumpesni daiktų aprašai
+
+- Iš daiktų aprašų pašalintos klasę siūlančios „Good for“ ir „Useful for“ eilutės.
 
 ### v1.2.81 — Worldstone Shard aprašas
 

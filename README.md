@@ -1,4 +1,4 @@
-# Melindaa v1.2.81
+# Melindaa v1.2.82
 
 ## English
 
@@ -26,11 +26,9 @@ Market price refresh runs every **Friday at 12:00 (Vilnius time)**. Each success
 
 Farming/Endgame hide ordinary HP/MP potions, cold/gas/fire throwing potions and player ears. Endgame also hides ordinary chest keys. Both retain protected boss keys and special materials. Farming keeps all Set items; Endgame selects useful higher-tier candidates and handles ambiguous unidentified variants conservatively.
 
-### How Melindaa started
-
-We started with Steven Obst’s PD2 Price Filter tool and adapted rules from Kassahi’s loot filter. From v1.2.46, we rebuilt the selection rules with our own generator. Today’s Melindaa is an original filter with our own item-selection logic and HR/WSS pricing pipeline, using PD2 market data.
-
 ### Prices, rolls and help
+
+Item tooltips show the item’s bonuses and supported ROLL scores without “Good for” or “Useful for” class labels.
 
 Prices are dated **asking-price estimates**, not guaranteed sale prices. **Sellers may ask unrealistic amounts, which can distort estimates.** Supported charm/skiller/jewel/base/material/Rare/Crafted samples use a 120-hour listing/bump window. Missing supported samples mean no quote, not proof that no listings exist. Older baseline Unique/Set prices retain their original dates. NPC gold is separate.
 
@@ -72,7 +70,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.81** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.82** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
 
 ## Lietuviškai
@@ -101,11 +99,9 @@ Kainos automatiškai atnaujinamos kiekvieną **penktadienį 12:00 Lietuvos laiku
 
 Farming/Endgame slepia įprastus HP/MP, cold/gas/fire throwing potionus ir player ears. Endgame papildomai slepia įprastus chest keys. Boss raktai ir saugomos medžiagos išlieka. Farming rodo visus Set; Endgame atrenka naudingus aukštesnio lygio kandidatus, o neaiškius neidentifikuotus variantus vertina atsargiai.
 
-### Kaip atsirado „Melindaa“
-
-Pradžioje rėmėmės Steveno Obsto „PD2 Price Filter“ įrankiu ir pritaikėme Kassahi filtro taisykles. Nuo v1.2.46 daiktų atrankos taisykles perrašėme savo generatoriumi. Dabartinė „Melindaa“ yra originalus filtras su mūsų sukurta daiktų atranka ir HR/WSS kainų sistema, kuri remiasi PD2 rinkos duomenimis.
-
 ### Kainos, roll ir pagalba
+
+Daiktų aprašuose rodomi jų bonusai ir palaikomi ROLL įverčiai. Klasę žaidėjas pasirenka pagal matomus bonusus.
 
 Kainos yra datuoti **pardavėjų prašomų kainų įverčiai**, ne garantuota pardavimo vertė. **Pardavėjai gali prašyti nerealių sumų, todėl įverčiai gali būti iškreipti.** Palaikomų charm/skiller/jewel/bazių/medžiagų/Rare/Crafted imtis naudoja 120 val. paskelbimo/atnaujinimo langą. Nepakankama imtis paliekama be kainos; tai nereiškia, kad nėra skelbimų. Senesni baziniai Unique/Set įverčiai išlaiko originalias datas. NPC gold atskiriamas.
 
@@ -147,7 +143,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.81**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.82**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
 
@@ -245,3 +241,11 @@ Copy this entry into the official PD2 `filters.json` when submitting a pull requ
 ```json
 {"name": "Melindaa", "url": "https://api.github.com/repos/Melly87s/Melindaa/contents", "author": "Melindaa"}
 ```
+
+## How Melindaa started
+
+We started with Steven Obst’s PD2 Price Filter tool and adapted rules from Kassahi’s loot filter. From v1.2.46, we rebuilt the selection rules with our own generator. Today’s Melindaa is an original filter with our own item-selection logic and HR/WSS pricing pipeline, using PD2 market data.
+
+### Kaip atsirado „Melindaa“
+
+Pradžioje rėmėmės Steveno Obsto „PD2 Price Filter“ įrankiu ir pritaikėme Kassahi filtro taisykles. Nuo v1.2.46 daiktų atrankos taisykles perrašėme savo generatoriumi. Dabartinė „Melindaa“ yra originalus filtras su mūsų sukurta daiktų atranka ir HR/WSS kainų sistema, kuri remiasi PD2 rinkos duomenimis.
