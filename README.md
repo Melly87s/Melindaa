@@ -4,7 +4,7 @@
 
 Project Diablo 2 loot filter with our own equipment selection, dated HR/WSS estimates, supported ROLL ratings, actual ground bonuses, crafting help and class-aware runeword recommendations.
 
-**[Download ZIP](https://github.com/Melly87s/Melindaa/releases/latest/download/Melindaa.zip)** · **[Download RAR](https://github.com/Melly87s/Melindaa/releases/latest/download/Melindaa.rar)** · **[Changelog](./CHANGELOG.md)** · **[Full filter specification](./FILTER-SPECIFICATION.md)**
+**[Download ZIP](https://github.com/Melly87s/Melindaa/releases/latest/download/Melindaa.zip)** · **[Download RAR](https://github.com/Melly87s/Melindaa/releases/latest/download/Melindaa.rar)** · **[Changelog](./CHANGELOG.md)** · **[Full filter specification](./FILTER-SPECIFICATION.md)** · **[Screenshots](#screenshots)**
 
 Market price refresh runs every **Friday at 12:00 (Vilnius time)**. Each successful refresh creates a new filter version and records the market data date in [Changelog](./CHANGELOG.md).
 
@@ -79,7 +79,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 Project Diablo 2 filtras su mūsų sukurta įrangos atranka, datuotais HR/WSS kainų įverčiais, palaikomais ROLL vertinimais, tikrais bonusais ant žemės, craft pagalba ir klasei pritaikytomis runeword rekomendacijomis.
 
-**[Atsisiųsti ZIP](https://github.com/Melly87s/Melindaa/releases/latest/download/Melindaa.zip)** · **[Atsisiųsti RAR](https://github.com/Melly87s/Melindaa/releases/latest/download/Melindaa.rar)** · **[Pakeitimai](./CHANGELOG.md)** · **[Visa filtro specifikacija](./FILTER-SPECIFICATION.md)**
+**[Atsisiųsti ZIP](https://github.com/Melly87s/Melindaa/releases/latest/download/Melindaa.zip)** · **[Atsisiųsti RAR](https://github.com/Melly87s/Melindaa/releases/latest/download/Melindaa.rar)** · **[Pakeitimai](./CHANGELOG.md)** · **[Visa filtro specifikacija](./FILTER-SPECIFICATION.md)** · **[Ekrano nuotraukos](#screenshots)**
 
 Kainos automatiškai atnaujinamos kiekvieną **penktadienį 12:00 Lietuvos laiku**. Po sėkmingo atnaujinimo išleidžiama nauja filtro versija, o rinkos duomenų data įrašoma į [pakeitimų istoriją](./CHANGELOG.md).
 
@@ -199,6 +199,44 @@ Inventoriuje ar stash užvedus pelę ant esencijų, boss medžiagų, mapų orbų
 The Worldstone Shard tooltip uses gray text for corruption guidance. The listed bonuses and map effects are a few of the possible outcomes. The tooltip also explains when gear can gain sockets and the risk of turning it into a random Rare.
 
 Worldstone Shard paaiškinimai rodomi pilkai. Išvardyti bonusai ir mapų efektai yra tik keli iš daugelio galimų rezultatų. Apraše taip pat paaiškinta, kada įranga gali gauti socketų ir kada gali virsti atsitiktiniu Rare daiktu.
+
+## Screenshots
+
+Examples from earlier Melindaa builds. The prices shown are dated estimates.
+
+Ankstesnių „Melindaa“ versijų ekrano nuotraukos. Rodomos kainos yra tų versijų įverčiai.
+
+### Loot on the ground / Daiktai ant žemės
+
+See the HR/WSS estimate beside Sigon’s Guard and the socket count and runeword suggestions beside Wrist Spike.
+
+Šalia „Sigon’s Guard“ matyti HR/WSS įvertis, o šalia „Wrist Spike“ – socketų skaičius ir galimi runewordai.
+
+![Sigon’s Guard price estimate and Wrist Spike runeword suggestions on the ground](https://raw.githubusercontent.com/Melly87s/Melindaa/main/screenshots/loot-on-the-ground.jpg)
+
+### Estimated price and ROLL / Kainos įvertis ir ROLL
+
+Silks of the Victor shows its estimated market value, 66% ROLL, and socketing options in one tooltip.
+
+„Silks of the Victor“ apraše kartu matyti rinkos kainos įvertis, 66 % ROLL ir socketinimo būdai.
+
+![Silks of the Victor tooltip with estimated price, 66% ROLL and socketing options](https://raw.githubusercontent.com/Melly87s/Melindaa/main/screenshots/price-and-roll.jpg)
+
+### Runeword guide / Runeword pagalba
+
+Archon Plate shows Enigma’s three-socket requirement and Jah–Ith–Ber rune order. Mercenary options are highlighted separately.
+
+„Archon Plate“ apraše matyti, kad „Enigma“ reikia trijų socketų ir runų Jah–Ith–Ber. Variantai mercui pažymėti atskirai.
+
+![Archon Plate tooltip with Enigma rune order and mercenary runeword options](https://raw.githubusercontent.com/Melly87s/Melindaa/main/screenshots/runeword-guide.jpg)
+
+### Charm ROLL and reroll recipe / Charmo ROLL ir perridenimas
+
+Shimmering Small Charm shows 100% ROLL alongside +5 All Resistances on a 3–5 range and the three-Perfect-Gem reroll recipe.
+
+„Shimmering Small Charm“ turi 100 % ROLL, nes gavo +5 visų atsparumų iš galimo 3–5 intervalo. Apačioje matyti perridenimo receptas su trimis „Perfect Gems“.
+
+![Shimmering Small Charm tooltip with maximum resistance roll and reroll recipe](https://raw.githubusercontent.com/Melly87s/Melindaa/main/screenshots/charm-roll-and-reroll.jpg)
 
 ## PD2 Launcher registration
 
