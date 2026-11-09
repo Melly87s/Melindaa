@@ -1,4 +1,4 @@
-# Melindaa v1.2.79
+# Melindaa v1.2.80
 
 ## English
 
@@ -26,19 +26,9 @@ Market price refresh runs every **Friday at 12:00 (Vilnius time)**. Each success
 
 Farming/Endgame hide ordinary HP/MP potions, cold/gas/fire throwing potions and player ears. Endgame also hides ordinary chest keys. Both retain protected boss keys and special materials. Farming keeps all Set items; Endgame selects useful higher-tier candidates and handles ambiguous unidentified variants conservatively.
 
-### Earlier changes, v1.2.63–v1.2.70
+### How Melindaa started
 
-- Added Farming with Blue / Farming without Blue; Endgame is now level 7. Gold thresholds from Farming are 2,000 / 3,000 / 4,000. Existing Endgame selections migrate safely.
-- Pure Gold Find-only charms show no reliable price instead of a misleading numeric quote.
-- Ingredients use Crafting material; gem recipes use their gem colors; socketed items show Sockets: N/M.
-- [owned grail] appears beside Unique/Set names on the ground and in inventory.
-- Antidote potions are visible at every level again.
-- Supported charm ROLL information now survives crafting help and price descriptions.
-- Added poison damage and duration to identified Magic/Rare/Crafted ground labels. A poison-only charm can show **[GC] [Psn 11/2s]**.
-- Arrows, bolts and throwing weapons (including javelins) no longer show legacy quantity numbers. Real consumable/material stacks still show counts from 2 items upward.
-- Removed the FIXED label for items without variable rolls. Socket-method help uses the same light-blue TEAL as ground socket markers.
-- Charm and Magic-jewel prices prioritize the complete matching modifier set, pooling numeric rolls while keeping skill identities separate. One-mod Gold charms and skiller + Gold charms are separate comparisons. Rare/Crafted comparisons retain core mods and strongest support roll bands.
-- Cube/tome help now preserves all accumulated information across short continuing actions: version, update time, price date, profile and visibility summary. The Cube warns that asking prices may be unrealistic.
+We started with Steven Obst’s PD2 Price Filter tool and adapted rules from Kassahi’s loot filter. From v1.2.46, we rebuilt the selection rules with our own generator. Today’s Melindaa is an original filter with our own item-selection logic and HR/WSS pricing pipeline, using PD2 market data.
 
 ### Prices, rolls and help
 
@@ -82,10 +72,8 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.79** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.80** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
-
-[MIT license notice](./MIT-NOTICE.txt)
 
 ## Lietuviškai
 
@@ -113,19 +101,9 @@ Kainos automatiškai atnaujinamos kiekvieną **penktadienį 12:00 Lietuvos laiku
 
 Farming/Endgame slepia įprastus HP/MP, cold/gas/fire throwing potionus ir player ears. Endgame papildomai slepia įprastus chest keys. Boss raktai ir saugomos medžiagos išlieka. Farming rodo visus Set; Endgame atrenka naudingus aukštesnio lygio kandidatus, o neaiškius neidentifikuotus variantus vertina atsargiai.
 
-### Ankstesni pakeitimai, v1.2.63–v1.2.70
+### Kaip atsirado „Melindaa“
 
-- Pridėti Farming with Blue / Farming without Blue; Endgame dabar 7 lygis. Gold nuo Farming: 2 000 / 3 000 / 4 000. Ankstesnis Endgame pasirinkimas saugiai perkeliamas.
-- Tik Gold Find turintys charmai rodo, kad patikimos kainos nėra, vietoj klaidinančio skaičiaus.
-- Ingredientai žymimi Crafting material; gemų receptams naudojamos jų spalvos; socketinti daiktai rodo Sockets: N/M.
-- [owned grail] rodoma prie Unique/Set vardų ant žemės ir inventoriuje.
-- Antidote vėl rodomi visuose lygiuose.
-- Palaikoma charmų ROLL informacija išlieka pridėjus craft pagalbą ir kainas.
-- Identifikuotų Magic/Rare/Crafted žymose ant žemės pridėta poison žala ir trukmė, pvz., **[GC] [Psn 11/2s]**.
-- Arrows, bolts ir mėtomiems ginklams, įskaitant javelin, neberodomi seni kiekio skaičiai. Tikrų sunaudojamų daiktų/medžiagų krūvelių kiekiai rodomi nuo 2 vnt.
-- Daiktams be kintamų roll neberodoma FIXED. Socketų metodų pagalba šviesiai mėlyna TEAL, kaip socketų žymos ant žemės.
-- Charmų ir Magic jewel kainai pirmiausia lyginamas visas modų derinys, sujungiant skaitinius roll ir atskiriant skill tapatybes. Vien Gold turintys charmai ir skiller + Gold vertinami atskirai. Rare/Crafted palyginimuose išlaikomi pagrindiniai modai ir stipriausių papildomų modų roll intervalai.
-- Kubo/tome pagalba išlaiko visą informaciją tarp trumpų tęstinių taisyklių: versiją, atnaujinimo laiką, kainų datą, profilį ir matomumo santrauką. Kube įspėjama, kad pardavėjų prašomos kainos gali būti nerealios.
+Pradžioje rėmėmės Steveno Obsto „PD2 Price Filter“ įrankiu ir pritaikėme Kassahi filtro taisykles. Nuo v1.2.46 daiktų atrankos taisykles perrašėme savo generatoriumi. Dabartinė „Melindaa“ yra originalus filtras su mūsų sukurta daiktų atranka ir HR/WSS kainų sistema, kuri remiasi PD2 rinkos duomenimis.
 
 ### Kainos, roll ir pagalba
 
@@ -169,10 +147,9 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.79**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.80**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
-[MIT licencijos įrašas](./MIT-NOTICE.txt)
 
 ### Practical runeword bases / Praktiškos runeword bazės
 

@@ -1,30 +1,7 @@
-// Melindaa v1.2.79 | softcore ladder
+// Melindaa v1.2.80 | softcore ladder
 // Copyright (c) 2026 Melinda Kiela. Original Melindaa contributions only.
 // Official release: https://github.com/Melly87s/Melindaa
-// License notice: MIT-NOTICE.txt.
 // Melindaa selection engine; recipes derived from installed PD2 game tables.
-// MIT license notice follows.
-// MIT License
-// 
-// Copyright (c) 2026 Steven Obst
-// 
-// Permission is hereby granted, free of charge, to any person obtaining a copy
-// of this software and associated documentation files (the "Software"), to deal
-// in the Software without restriction, including without limitation the rights
-// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-// copies of the Software, and to permit persons to whom the Software is
-// furnished to do so, subject to the following conditions:
-// 
-// The above copyright notice and this permission notice shall be included in all
-// copies or substantial portions of the Software.
-// 
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-// SOFTWARE.
 Alias[KB47C7355984CAE]: %GOLD%Ancient's Pledge%WHITE%:Ral-Ort-Tal
 Alias[K8A45A4FCDA866F]: %GOLD%Black%WHITE%:Thul-Io-Nef
 Alias[K756068A68365E6]: %GOLD%Fury%WHITE%:Jah-Gul-Eth
@@ -126,7 +103,7 @@ Alias[K95601675FE413E]: %GRAY%%GOLD%[4s]
 Alias[K93D4197CD103C4]: %GRAY%%GOLD%[5s]
 Alias[KE67270F410D1C7]: %GRAY%%GOLD%[6s]
 Alias[K4EE53F763F6EE4]: RW needs the exact socket count.
-Alias[K587A6DA53AD384]: PD2 Trader | 2026-10-29 | Melindaa v1.2.79
+Alias[K587A6DA53AD384]: PD2 Trader | 2026-10-29 | Melindaa v1.2.80
 ItemDisplayFilterName[]: Normal (all items)
 ItemDisplayFilterName[]: Nightmare (all items)
 ItemDisplayFilterName[]: Hell (Magic/Rare: broad; all Unique/Set; Flawless+Perf gems)
@@ -734,8 +711,8 @@ ItemDisplay[GROUND vps]: %BLUE%Stamina{%NAME%}%CONTINUE%
 ItemDisplay[GROUND isc]: %YELLOW%Identify Scroll{%NAME%}%CONTINUE%
 ItemDisplay[GROUND tsc]: %TEAL%Town Portal Scroll{%NAME%}%CONTINUE%
 ItemDisplay[GROUND !(GOLD>0) !(7b8 OR 7bk OR 7gl OR 7ja OR 7pi OR 7s7 OR 7ta OR 7tk OR 7ts OR 9b8 OR 9bk OR 9gl OR 9ja OR 9pi OR 9s9 OR 9ta OR 9tk OR 9ts OR QUIVER OR am5 OR ama OR amf OR aqv OR aqv2 OR aqv3 OR bal OR bkf OR cqv OR cqv2 OR cqv3 OR glv OR jav OR pil OR ssp OR tax OR tkf OR tsp) QTY>1]: %GRAY%%QTY%x %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GOLD%Melindaa filter loaded v1.2.79}%CONTINUE%
-ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GREEN%Filter updated: 2026-11-07 18:52 LT}%CONTINUE%
+ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GOLD%Melindaa filter loaded v1.2.80}%CONTINUE%
+ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GREEN%Filter updated: 2026-11-09 18:04 LT}%CONTINUE%
 ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%WHITE%Baseline prices: 2026-10-29}%CONTINUE%
 ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GRAY%Asking prices may be unrealistic; not guaranteed sales.}%CONTINUE%
 ItemDisplay[box FILTLVL=1]: %NAME%{%NAME%%NL%%GOLD%Profile: 1. Normal}%CONTINUE%

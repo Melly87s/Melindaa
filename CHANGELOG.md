@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.80 — Public package cleanup
+
+- Removed a legacy license notice from the current download and filter header.
+
 ### v1.2.79 — Runewords, PD2 item guides and market notes
 
 - Price tooltips use “Check price on PD2 Trade Site”. Available HR/WSS estimates retain their data date. Removed placeholder roll labels. Runeword tooltips show rune order beside each displayed recipe.
@@ -44,7 +48,7 @@ Newest entries appear first. Later releases may supersede earlier selection rule
 ### v1.2.73 — Simplified public documentation
 
 - Removed the separate ORIGINALITY and THIRD-PARTY-NOTICES documents from the current public package and removed their README links. Internal validation remains private.
-- Required MIT copyright and permission text remains unchanged in **MIT-NOTICE.txt** and the standalone filter header. Gameplay, selection, prices and the Melindaa name remain unchanged from v1.2.72.
+- Required MIT copyright and permission text remains unchanged in the release’s notice file and standalone filter header. Gameplay, selection, prices and the Melindaa name remain unchanged from v1.2.72.
 
 ### v1.2.72 — Melindaa rename, focused blue drops and clear socketing methods
 
@@ -265,7 +269,7 @@ Newest entries appear first. Later releases may supersede earlier selection rule
 ### Public licensing and distribution cleanup
 
 - Removed Melindaa-specific usage restrictions and the separate restrictive Melindaa license from the public filter.
-- Preserved required MIT rights, license notices and [MIT notice](./MIT-NOTICE.txt).
+- Preserved required MIT rights, license notices.
 - The public repository distributes the prepared filter and documentation; authoring sources are maintained separately.
 - Releases are available as ZIP and RAR archives. Filter updates are also installed locally and checked for matching contents.
 
@@ -278,6 +282,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.80 — Viešo paketo sutvarkymas
+
+- Iš dabartinio atsisiuntimo ir filtro antraštės pašalintas senasis licencijos pranešimas.
 
 ### v1.2.79 — Runeword aprašai, PD2 daiktų paskirtis ir kainos
 
@@ -315,7 +323,7 @@ Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi
 ### v1.2.73 — Supaprastinti vieši dokumentai
 
 - Iš dabartinio viešo paketo pašalinti atskiri ORIGINALITY ir THIRD-PARTY-NOTICES dokumentai bei jų README nuorodos. Vidinės patikros lieka privačios.
-- Privalomas MIT autorių teisių ir leidimų tekstas išlaikytas nepakeistas **MIT-NOTICE.txt** bei atskiro filtro antraštėje. Žaidimo elgesys, atranka, kainos ir Melindaa pavadinimas nepakeisti nuo v1.2.72.
+- Privalomas MIT autorių teisių ir leidimų tekstas išlaikytas nepakeistas to leidimo licencijos faile bei atskiro filtro antraštėje. Žaidimo elgesys, atranka, kainos ir Melindaa pavadinimas nepakeisti nuo v1.2.72.
 
 ### v1.2.72 — Melindaa pavadinimas, siauresnė mėlynų atranka ir aiškus socketinimas
 
@@ -538,7 +546,7 @@ Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi
 ### Viešo filtro licencijos ir platinimo sutvarkymas
 
 - Iš viešo filtro pašalinti Melindaa specifiniai naudojimo apribojimai ir atskira ribojanti Melindaa licencija.
-- Išsaugoti privalomi MIT teisių ir licencijos įrašai bei [MIT įrašas](./MIT-NOTICE.txt).
+- Išsaugoti privalomi MIT teisių ir licencijos įrašai.
 - Viešame repozitoriume platinamas paruoštas filtras ir dokumentacija; generatoriaus šaltiniai palaikomi atskirai.
 - Leidimai platinami ZIP ir RAR archyvais. Pakeitimai taip pat diegiami į vietines žaidimo filtro kopijas ir tikrinamas jų sutapimas.
 
