@@ -1,4 +1,4 @@
-# Melindaa v1.2.84
+# Melindaa v1.2.85
 
 ## English
 
@@ -30,7 +30,7 @@ Farming/Endgame hide ordinary HP/MP potions, cold/gas/fire throwing potions and 
 
 Exact single-mod charm quotes name the roll and count matching listings, e.g. **+40 Life only; 5 listings**. Skillers with Life use a separate price sample.
 
-Every profile shows and labels selected Magic bases for Perfect-gem recipes. **[Craft Base]** appears on the ground and in inventory for eligible ilvl 85+ jewelry, circlets, caster weapons, and selected Exceptional/Elite equipment. The craft roll depends on the base and character level.
+Every profile shows and labels selected Magic bases for Perfect-gem recipes. An orange **[Perf Gem craft base]** tag appears on the ground and in the inventory tooltip for eligible ilvl 85+ jewelry, circlets, caster weapons, and selected Exceptional/Elite equipment. The tooltip lists the Perfect gem and rune pairs for that item type. Cube the item with a Jewel and one of the listed pairs. The craft roll depends on the base and character level.
 
 Item tooltips show the item’s bonuses and supported ROLL scores without “Good for” or “Useful for” class labels.
 
@@ -74,7 +74,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.84** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.85** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
 
 ## Lietuviškai
@@ -107,7 +107,7 @@ Farming/Endgame slepia įprastus HP/MP, cold/gas/fire throwing potionus ir playe
 
 Tiksliame vieno modo charmo įvertyje rodomas modas ir sutampančių skelbimų skaičius, pvz. **+40 Life only; 5 listings**. Charmai su skillų šaka ir Life vertinami atskirai.
 
-Visi profiliai rodo atrinktas mėlynas bazes Perfect gemų receptams. Žyma **[Craft Base]** matoma ant žemės ir inventoriuje prie tinkamos ilvl 85+ juvelyrikos, circletų, caster ginklų ir atrinktos Exceptional/Elite įrangos. Craft roll priklauso nuo bazės ir veikėjo lygio.
+Visi profiliai rodo atrinktas mėlynas bazes Perfect gemų receptams. Oranžinė žyma **[Perf Gem craft base]** matoma ant žemės ir inventoriaus apraše prie tinkamos ilvl 85+ juvelyrikos, circletų, caster ginklų ir atrinktos Exceptional/Elite įrangos. Apraše išvardyti tam daikto tipui tinkami Perfect gemo ir runos deriniai. Į Cube dėk daiktą, Jewel ir vieną iš nurodytų porų. Craft roll priklauso nuo bazės ir veikėjo lygio.
 
 Daiktų aprašuose rodomi jų bonusai ir palaikomi ROLL įverčiai. Klasę žaidėjas pasirenka pagal matomus bonusus.
 
@@ -151,7 +151,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.84**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.85**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
 

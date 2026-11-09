@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.85 — Perfect Gem craft recipes on items
+
+- Renamed the tag to [Perf Gem craft base] and used the orange Crafted color. Item tooltips list the applicable Perfect gem and rune pairs.
+
 ### v1.2.84 — Exact charm listing counts
 
 - Single-mod charm quotes show the exact roll and matching listing count. Skillers and other extra-mod listings use separate price samples.
@@ -300,6 +304,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.85 — Perfect Gem craft receptai ant daiktų
+
+- Žyma pervadinta į [Perf Gem craft base] ir nuspalvinta crafted daiktų oranžine. Daiktų aprašuose rodomos tinkamos Perfect gemo ir runos poros.
 
 ### v1.2.84 — Tikslių charm skelbimų skaičius
 
