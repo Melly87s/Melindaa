@@ -1,4 +1,4 @@
-# Melindaa v1.2.83
+# Melindaa v1.2.84
 
 ## English
 
@@ -27,6 +27,8 @@ Market price refresh runs every **Friday at 12:00 (Vilnius time)**. Each success
 Farming/Endgame hide ordinary HP/MP potions, cold/gas/fire throwing potions and player ears. Endgame also hides ordinary chest keys. Both retain protected boss keys and special materials. Farming keeps all Set items; Endgame selects useful higher-tier candidates and handles ambiguous unidentified variants conservatively.
 
 ### Prices, rolls and help
+
+Exact single-mod charm quotes name the roll and count matching listings, e.g. **+40 Life only; 5 listings**. Skillers with Life use a separate price sample.
 
 Every profile shows and labels selected Magic bases for Perfect-gem recipes. **[Craft Base]** appears on the ground and in inventory for eligible ilvl 85+ jewelry, circlets, caster weapons, and selected Exceptional/Elite equipment. The craft roll depends on the base and character level.
 
@@ -72,7 +74,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.83** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.84** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
 
 ## Lietuviškai
@@ -102,6 +104,8 @@ Kainos automatiškai atnaujinamos kiekvieną **penktadienį 12:00 Lietuvos laiku
 Farming/Endgame slepia įprastus HP/MP, cold/gas/fire throwing potionus ir player ears. Endgame papildomai slepia įprastus chest keys. Boss raktai ir saugomos medžiagos išlieka. Farming rodo visus Set; Endgame atrenka naudingus aukštesnio lygio kandidatus, o neaiškius neidentifikuotus variantus vertina atsargiai.
 
 ### Kainos, roll ir pagalba
+
+Tiksliame vieno modo charmo įvertyje rodomas modas ir sutampančių skelbimų skaičius, pvz. **+40 Life only; 5 listings**. Charmai su skillų šaka ir Life vertinami atskirai.
 
 Visi profiliai rodo atrinktas mėlynas bazes Perfect gemų receptams. Žyma **[Craft Base]** matoma ant žemės ir inventoriuje prie tinkamos ilvl 85+ juvelyrikos, circletų, caster ginklų ir atrinktos Exceptional/Elite įrangos. Craft roll priklauso nuo bazės ir veikėjo lygio.
 
@@ -147,7 +151,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.83**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.84**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
 

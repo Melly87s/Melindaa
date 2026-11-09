@@ -2,7 +2,7 @@
 
 ## English
 
-Current policy: **v1.2.83**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
+Current policy: **v1.2.84**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
 
 ### Permanent visibility
 
@@ -36,7 +36,7 @@ Runeword names use Unique gold, with the ordered runes alongside. The inventory 
 
 Normal/Nightmare show all items. Hell/Baal use cautious equipment guidance without a universal item-level-85 cutoff and show Flawless/Perfect gems. Farming/Endgame show only Perfect gems. Gold minimums at levels 5–7 are 2,000, 3,000 and 4,000. Hell hides loose ID/TP scrolls, Thawing and Oil. Farming also hides ordinary HP/MP and cold/gas/fire throwing potions. Both Rejuvenation sizes, Antidote and Stamina remain visible.
 
-Item descriptions omit “Good for” and “Useful for” class labels. Stack labels appear only for quantities above one, e.g. `5x Worldstone Shard`. Item level appears as plain text at the bottom of descriptions. Charm/skiller, magic-jewel and supported RW-base quotes use a five-day (120-hour) listing/bump window and five-day snapshot validity at build/update time. Exact matches take priority over approximate pooled-roll mod groups. Supported RW-base quotes distinguish base, socket count, ETH, Normal/Superior and ED/durability bands, pooling base-defense rolls; they do not price filled/corrupted bases. Unknown quotes are stated explicitly, never inferred from NPC gold. Baseline unique/set data retains its original date.
+Plain Vita Grand Charms and Shimmering Small Charms use exact one-mod roll samples and display the matching listing count. Item descriptions omit “Good for” and “Useful for” class labels. Stack labels appear only for quantities above one, e.g. `5x Worldstone Shard`. Item level appears as plain text at the bottom of descriptions. Charm/skiller, magic-jewel and supported RW-base quotes use a five-day (120-hour) listing/bump window and five-day snapshot validity at build/update time. Exact matches take priority over approximate pooled-roll mod groups. Supported RW-base quotes distinguish base, socket count, ETH, Normal/Superior and ED/durability bands, pooling base-defense rolls; they do not price filled/corrupted bases. Unknown quotes are stated explicitly, never inferred from NPC gold. Baseline unique/set data retains its original date.
 
 ### Initialization and validation
 
@@ -44,7 +44,7 @@ Repeated expressions are compiled through shared named formulas; RW eligibility 
 
 ## Lietuviškai
 
-Dabartinė politika: **v1.2.83**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
+Dabartinė politika: **v1.2.84**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
 
 ### Kas visada matoma
 
@@ -78,7 +78,7 @@ Runeword pavadinimai auksiniai kaip Unique, šalia rodoma runų seka. Inventoriu
 
 Normal/Nightmare rodo viską. Hell/Baal naudoja atsargias įrangos gaires be bendros item level 85 ribos; rodo Flawless/Perfect gemus. Farming/Endgame rodo tik Perfect gemus. Gold minimumai 5–7 lygiuose yra 2 000, 3 000 ir 4 000. Hell slepia palaidus ID/TP scrollus, Thawing ir Oil. Farming papildomai slepia įprastus HP/MP ir cold/gas/fire throwing potionus. Abu Rejuvenation dydžiai, Antidote ir Stamina lieka matomi.
 
-Iš daiktų aprašų pašalintos klasę siūlančios „Good for“ ir „Useful for“ žymos. Kiekis rodomas tik krūvelėms nuo 2 vnt., pvz., `5x Worldstone Shard`. Item level rašomas paprastu tekstu aprašymo apačioje. Charmų/skillerių, magic jewels ir palaikomų RW bazių kainos naudoja 5 parų (120 val.) skelbimų/atnaujinimų langą bei 5 parų įverčio galiojimą kūrimo/atnaujinimo metu. Tikslūs deriniai turi pirmenybę prieš apytiksles modų grupes. RW bazėms atskiriama bazė, socketai, ETH, Normal/Superior ir ED/durability ribos, sujungiami defense roll; užpildytoms/corrupted bazėms šis įvertis netaikomas. Nežinomas įvertis pažymimas aiškiai, ne išvedamas iš NPC gold. Bazinės unique/set kainos išlaiko pradinę datą.
+Vita Grand Charm ir Shimmering Small Charm su vienu modu naudoja tikslaus roll skelbimus ir rodo jų skaičių. Iš daiktų aprašų pašalintos klasę siūlančios „Good for“ ir „Useful for“ žymos. Kiekis rodomas tik krūvelėms nuo 2 vnt., pvz., `5x Worldstone Shard`. Item level rašomas paprastu tekstu aprašymo apačioje. Charmų/skillerių, magic jewels ir palaikomų RW bazių kainos naudoja 5 parų (120 val.) skelbimų/atnaujinimų langą bei 5 parų įverčio galiojimą kūrimo/atnaujinimo metu. Tikslūs deriniai turi pirmenybę prieš apytiksles modų grupes. RW bazėms atskiriama bazė, socketai, ETH, Normal/Superior ir ED/durability ribos, sujungiami defense roll; užpildytoms/corrupted bazėms šis įvertis netaikomas. Nežinomas įvertis pažymimas aiškiai, ne išvedamas iš NPC gold. Bazinės unique/set kainos išlaiko pradinę datą.
 
 ### Inicializavimas ir patikra
 
