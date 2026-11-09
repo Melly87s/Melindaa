@@ -2,7 +2,7 @@
 
 ## English
 
-Current policy: **v1.2.80**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
+Current policy: **v1.2.81**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
 
 ### Permanent visibility
 
@@ -44,7 +44,7 @@ Repeated expressions are compiled through shared named formulas; RW eligibility 
 
 ## Lietuviškai
 
-Dabartinė politika: **v1.2.80**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
+Dabartinė politika: **v1.2.81**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
 
 ### Kas visada matoma
 
@@ -151,6 +151,6 @@ Tinkamos bazės inventoriuje rodo runeword receptus, net jei Endgame jų nerodo 
 
 ### Worldstone Shard
 
-The Worldstone Shard tooltip shows example corruption bonuses by item slot, the eligible socket outcome, the risk of turning gear into a random Rare, and examples of map effects.
+The Worldstone Shard tooltip uses gray text for corruption guidance. The listed bonuses and map effects are a few of the possible outcomes. The tooltip also explains when gear can gain sockets and the risk of turning it into a random Rare.
 
-Worldstone Shard apraše rodomi korupcijos bonusų pavyzdžiai pagal daikto tipą, galimybė gauti socketų, rizika, kad įranga virs atsitiktiniu Rare daiktu, ir keli mapų efektų pavyzdžiai.
+Worldstone Shard paaiškinimai rodomi pilkai. Išvardyti bonusai ir mapų efektai yra tik keli iš daugelio galimų rezultatų. Apraše taip pat paaiškinta, kada įranga gali gauti socketų ir kada gali virsti atsitiktiniu Rare daiktu.

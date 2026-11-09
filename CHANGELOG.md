@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.81 — Worldstone Shard tooltip
+
+- Worldstone Shard guidance appears in gray and labels the listed bonuses as examples of possible corruption outcomes.
+
 ### v1.2.80 — Public package cleanup
 
 - Removed a legacy license notice from the current download and filter header.
@@ -282,6 +286,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.81 — Worldstone Shard aprašas
+
+- Worldstone Shard paaiškinimai rodomi pilkai. Prie bonusų aiškiai pažymėta, kad tai tik keli iš galimų korupcijos rezultatų.
 
 ### v1.2.80 — Viešo paketo sutvarkymas
 

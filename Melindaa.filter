@@ -1,4 +1,4 @@
-// Melindaa v1.2.80 | softcore ladder
+// Melindaa v1.2.81 | softcore ladder
 // Copyright (c) 2026 Melinda Kiela. Original Melindaa contributions only.
 // Official release: https://github.com/Melly87s/Melindaa
 // Melindaa selection engine; recipes derived from installed PD2 game tables.
@@ -103,7 +103,7 @@ Alias[K95601675FE413E]: %GRAY%%GOLD%[4s]
 Alias[K93D4197CD103C4]: %GRAY%%GOLD%[5s]
 Alias[KE67270F410D1C7]: %GRAY%%GOLD%[6s]
 Alias[K4EE53F763F6EE4]: RW needs the exact socket count.
-Alias[K587A6DA53AD384]: PD2 Trader | 2026-10-29 | Melindaa v1.2.80
+Alias[K587A6DA53AD384]: PD2 Trader | 2026-10-29 | Melindaa v1.2.81
 ItemDisplayFilterName[]: Normal (all items)
 ItemDisplayFilterName[]: Nightmare (all items)
 ItemDisplayFilterName[]: Hell (Magic/Rare: broad; all Unique/Set; Flawless+Perf gems)
@@ -711,8 +711,8 @@ ItemDisplay[GROUND vps]: %BLUE%Stamina{%NAME%}%CONTINUE%
 ItemDisplay[GROUND isc]: %YELLOW%Identify Scroll{%NAME%}%CONTINUE%
 ItemDisplay[GROUND tsc]: %TEAL%Town Portal Scroll{%NAME%}%CONTINUE%
 ItemDisplay[GROUND !(GOLD>0) !(7b8 OR 7bk OR 7gl OR 7ja OR 7pi OR 7s7 OR 7ta OR 7tk OR 7ts OR 9b8 OR 9bk OR 9gl OR 9ja OR 9pi OR 9s9 OR 9ta OR 9tk OR 9ts OR QUIVER OR am5 OR ama OR amf OR aqv OR aqv2 OR aqv3 OR bal OR bkf OR cqv OR cqv2 OR cqv3 OR glv OR jav OR pil OR ssp OR tax OR tkf OR tsp) QTY>1]: %GRAY%%QTY%x %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GOLD%Melindaa filter loaded v1.2.80}%CONTINUE%
-ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GREEN%Filter updated: 2026-11-09 18:04 LT}%CONTINUE%
+ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GOLD%Melindaa filter loaded v1.2.81}%CONTINUE%
+ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GREEN%Filter updated: 2026-11-09 18:19 LT}%CONTINUE%
 ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%WHITE%Baseline prices: 2026-10-29}%CONTINUE%
 ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GRAY%Asking prices may be unrealistic; not guaranteed sales.}%CONTINUE%
 ItemDisplay[box FILTLVL=1]: %NAME%{%NAME%%NL%%GOLD%Profile: 1. Normal}%CONTINUE%
@@ -4044,7 +4044,7 @@ ItemDisplay[!GROUND cm2f]: %NAME%{%NAME%%NL%%GOLD%Made in the Cube by breaking d
 ItemDisplay[!GROUND rtma]: %NAME%{%NAME%%NL%%GOLD%Made in the Cube from the three Rathma ingredients.}%CONTINUE%
 ItemDisplay[!GROUND (lucb OR lucc OR lucd)]: %NAME%{%NAME%%NL%%GOLD%Possible drop: Outer Void bosses.}%CONTINUE%
 ItemDisplay[!GROUND luca]: %NAME%{%NAME%%NL%%GOLD%Made in the Cube from the three Lucion ingredients.}%CONTINUE%
-ItemDisplay[!GROUND wss]: %NAME%{%NAME%%NL%%GOLD%Drop: monsters, including in maps.}%CONTINUE%
+ItemDisplay[!GROUND wss]: %NAME%{%NAME%%NL%%GRAY%Drop: monsters, including in maps.}%CONTINUE%
 ItemDisplay[!GROUND cwss]: %NAME%{%NAME%%NL%%GOLD%Drop: Rathma.}%CONTINUE%
 ItemDisplay[!GROUND iwss]: %NAME%{%NAME%%NL%%GOLD%Drop: Altar of the Catalyst map event.}%CONTINUE%
 ItemDisplay[!GROUND (imma OR imra OR upma OR rera OR scou OR upmp OR fort)]: %NAME%{%NAME%%NL%%GOLD%Vendor: Anya in Harrogath.}%CONTINUE%
@@ -4109,11 +4109,12 @@ ItemDisplay[!GROUND rkey]: %NAME%{%NAME%%NL%%GOLD%Reusable key for locked chests
 ItemDisplay[!GROUND jewf]: %NAME%{%NAME%%NL%%GOLD%Use in place of a jewel in crafting recipes.}%CONTINUE%
 ItemDisplay[!GROUND (crfb OR crfc OR crfs OR crfh OR crfv OR crfu OR crfp)]: %NAME%{%NAME%%NL%%GOLD%Cube this ingredient with eligible Magic or Rare gear to craft it.}%CONTINUE%
 ItemDisplay[!GROUND (t61 OR t62)]: %NAME%{%NAME%%NL%%GOLD%PvP map. Use to enter the arena.}%CONTINUE%
-ItemDisplay[wss]: %NAME%{%NAME%%NL%%GOLD%Cube: WSS + eligible uncorrupted gear or map.}%CONTINUE%
-ItemDisplay[wss]: %NAME%{%NAME%%NL%%GRAY%Gear: random bonus, sockets, or a random Rare (brick).}%CONTINUE%
-ItemDisplay[wss]: %NAME%{%NAME%%NL%%GRAY%Sockets require an eligible unsocketed item.}%CONTINUE%
-ItemDisplay[wss]: %NAME%{%NAME%%NL%%GREEN%Amulet: +1 All Skills | Ring: +10% FCR}%CONTINUE%
-ItemDisplay[wss]: %NAME%{%NAME%%NL%%GREEN%Gloves: +10% IAS | Weapon: +40-80% ED}%CONTINUE%
+ItemDisplay[wss]: %NAME%{%NAME%%NL%%GRAY%Cube: WSS + eligible uncorrupted gear or map.}%CONTINUE%
+ItemDisplay[wss]: %NAME%{%NAME%%NL%%GRAY%Gear: bonus, sockets, or random Rare (brick).}%CONTINUE%
+ItemDisplay[wss]: %NAME%{%NAME%%NL%%GRAY%Only eligible unsocketed gear can gain sockets.}%CONTINUE%
+ItemDisplay[wss]: %NAME%{%NAME%%NL%%GRAY%Amulet: +1 All Skills | Ring: +10% FCR}%CONTINUE%
+ItemDisplay[wss]: %NAME%{%NAME%%NL%%GRAY%Gloves: +10% IAS | Weapon: +40-80% ED}%CONTINUE%
+ItemDisplay[wss]: %NAME%{%NAME%%NL%%GRAY%Examples only. Many outcomes possible.}%CONTINUE%
 ItemDisplay[wss]: %NAME%{%NAME%%NL%%GRAY%Maps: e.g. more density, XP, or tougher monsters.}%CONTINUE%
 ItemDisplay[(gcv OR gfv OR gsv OR gzv OR gpv OR gcy OR gfy OR gsy OR gly OR gpy OR gcb OR gfb OR gsb OR glb OR gpb OR gcg OR gfg OR gsg OR glg OR gpg OR gcr OR gfr OR gsr OR glr OR gpr OR gcw OR gfw OR gsw OR glw OR gpw OR skc OR skf OR sku OR skl OR skz OR r01 OR r02 OR r03 OR r04 OR r05 OR r06 OR r07 OR r08 OR r09 OR r10 OR r11 OR r12 OR r13 OR r14 OR r15 OR r16 OR r17 OR r18 OR r19 OR r20 OR r21 OR r22 OR r23 OR r24 OR r25 OR r26 OR r27 OR r28 OR r29 OR r30 OR r31 OR r32 OR r33 OR r01s OR r02s OR r03s OR r04s OR r05s OR r06s OR r07s OR r08s OR r09s OR r10s OR r11s OR r12s OR r13s OR r14s OR r15s OR r16s OR r17s OR r18s OR r19s OR r20s OR r21s OR r22s OR r23s OR r24s OR r25s OR r26s OR r27s OR r28s OR r29s OR r30s OR r31s OR r32s OR r33s OR jewf OR crfb OR crfc OR crfs OR crfh OR crfv OR crfu OR crfp) !UNI !SET]: %NAME%{%NAME%%NL%%GOLD%Crafting material}%CONTINUE%
 ItemDisplay[(bhm OR cap OR crn OR fhl OR ghm OR hlm OR msk OR skp OR uap OR uh9 OR uhl OR uhm OR ukp OR ulm OR urn OR usk OR xap OR xh9 OR xhl OR xhm OR xkp OR xlm OR xrn OR xsk)]: %NAME%{%NAME%%NL%%GRAY%Item class: Helm}%CONTINUE%
