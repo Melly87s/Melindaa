@@ -8,6 +8,12 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.83 — Perfect-gem craft bases and market estimates
+
+- Every profile shows selected ilvl 85+ Magic craft bases and labels them [Craft Base] on the ground and in inventory.
+- Added exact single-mod charm matching for Grand Charm of Vita and Shimmering Small Charm when listings support a quote. Refreshed baseline HR/WSS estimates from November 9 market data. Bare decimal listings below 1 count as HR. Newly supported groups show their average asking price.
+- Shortened the runeword socket reminder to “Match sockets.”
+
 ### v1.2.82 — Cleaner item descriptions
 
 - Removed “Good for” and “Useful for” class suggestions from item tooltips.
@@ -290,6 +296,12 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.83 — Perfect gemų craft bazės ir rinkos įverčiai
+
+- Visi profiliai rodo atrinktas ilvl 85+ mėlynas craft bazes. Žyma [Craft Base] rodoma ant žemės ir inventoriuje.
+- Pridėtas tikslus vieno modo Grand Charm of Vita ir Shimmering Small Charm įvertinimas, kai pakanka skelbimų. Baziniai HR/WSS įverčiai atnaujinti pagal lapkričio 9 d. rinkos duomenis. Dešimtainės kainos iki 1 be valiutos laikomos HR, o naujai įvertintoms grupėms rodomas prašomų kainų vidurkis.
+- Sutrumpintas runeword socketų priminimas į „Match sockets.“
 
 ### v1.2.82 — Trumpesni daiktų aprašai
 

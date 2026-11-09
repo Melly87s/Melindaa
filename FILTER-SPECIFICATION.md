@@ -2,7 +2,7 @@
 
 ## English
 
-Current policy: **v1.2.82**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
+Current policy: **v1.2.83**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
 
 ### Permanent visibility
 
@@ -22,7 +22,7 @@ After identification, Farming requires relevant combinations for the equipment s
 
 ### Magic equipment and completed crafts
 
-Craft-only blue bases stop after Baal Runs. Farming with Blue uses Melindaa's independent useful skill/speed, caster, physical and socket/life/block signatures plus unidentified affix-potential candidates. Farming without Blue and Endgame hide all ordinary Magic equipment/jewelry, identified or not. Charms, jewels and protected PD2 specials remain visible. All completed orange crafts stay visible at every level. The two Farming modes share Rare/Set/RW selection. Gold: 2000 / 3000 / 4000 at levels 5 / 6 / 7.
+All profiles keep selected ilvl 85+ Magic bases for Perfect-gem crafting. Gold [Craft Base] tags appear on the ground and in inventory. Farming with Blue uses Melindaa's independent useful skill/speed, caster, physical and socket/life/block signatures plus unidentified affix-potential candidates. Farming without Blue and Endgame show the tagged craft bases among Magic equipment/jewelry. Charms, jewels and protected PD2 specials remain visible. All completed orange crafts stay visible at every level. The two Farming modes share Rare/Set/RW selection. Gold: 2000 / 3000 / 4000 at levels 5 / 6 / 7.
 
 ### Runeword bases
 
@@ -44,7 +44,7 @@ Repeated expressions are compiled through shared named formulas; RW eligibility 
 
 ## Lietuviškai
 
-Dabartinė politika: **v1.2.82**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
+Dabartinė politika: **v1.2.83**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
 
 ### Kas visada matoma
 
@@ -64,7 +64,7 @@ Identifikavus Farming vertina kategorijai naudingus derinius, ne universalų sav
 
 ### Magic įranga ir pagaminti craft
 
-Mėlynų bazių rodymas vien craftinimui baigiasi po Baal Runs. Farming with Blue atrenka naudingus Magic derinius ir perspektyvias neidentifikuotas bazes. Farming without Blue ir Endgame slepia įprastą Magic įrangą bei juvelyriką. Charmai, jewels ir saugomi PD2 daiktai lieka matomi. Abu Farming profiliai naudoja tą pačią Rare, Set ir RW bazių atranką. Visi pagaminti oranžiniai crafted daiktai matomi visuose lygiuose.
+Visi profiliai rodo atrinktas ilvl 85+ mėlynas bazes Perfect gemų receptams. Auksinė [Craft Base] žyma matoma ant žemės ir inventoriuje. Farming with Blue atrenka naudingus Magic derinius ir perspektyvias neidentifikuotas bazes. Farming without Blue ir Endgame iš Magic įrangos bei juvelyrikos rodo pažymėtas craft bazes. Charmai, jewels ir saugomi PD2 daiktai lieka matomi. Abu Farming profiliai naudoja tą pačią Rare, Set ir RW bazių atranką. Visi pagaminti oranžiniai crafted daiktai matomi visuose lygiuose.
 
 ### Runeword bazės
 

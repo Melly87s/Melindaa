@@ -1,4 +1,4 @@
-# Melindaa v1.2.82
+# Melindaa v1.2.83
 
 ## English
 
@@ -16,9 +16,9 @@ Market price refresh runs every **Friday at 12:00 (Vilnius time)**. Each success
 | 2 | Nightmare | Shows all items. |
 | 3 | Hell | Broad useful Magic/Rare candidates and cautious unidentified potential. Flawless and Perfect gems. Hides Thawing, Oil and loose ID/TP scrolls. |
 | 4 | Baal Runs | Tighter equipment and plain-base selection than Hell. Flawless and Perfect gems. Useful crafting candidates can still appear. |
-| 5 | Farming with Blue | Selected useful Magic combinations and unidentified candidates: skill + speed/cast, socket/block/life and strong weapons. Unidentified throwing knives/axes/javelins require ETH elite bases; non-ETH or normal/exceptional blue throwing drops are hidden. Useful Rare; all Unique/Set/Craft. Good advanced RW bases and CTA/HOTO exceptions. Perfect gems; gold 2,000+. |
-| 6 | Farming without Blue | Hides all ordinary Magic equipment and jewelry, identified or not. Charms, jewels and PD2 specials remain. Same Rare/Set/RW selection as Farming with Blue. Perfect gems; gold 3,000+. |
-| 7 | Endgame | Hides ordinary Magic gear/jewelry. Stronger identified Rare; selected useful Set; supported Rare/Set roll 90%+. All Unique/Craft and unidentified Rare kept. Perfect relevant RW bonuses; unsocketed or matching existing sockets. Perfect gems; gold 4,000+. |
+| 5 | Farming with Blue | Selected craft bases, useful Magic combinations and unidentified candidates: skill + speed/cast, socket/block/life and strong weapons. Unidentified throwing knives/axes/javelins require ETH elite bases; non-ETH or normal/exceptional blue throwing drops are hidden. Useful Rare; all Unique/Set/Craft. Good advanced RW bases and CTA/HOTO exceptions. Perfect gems; gold 2,000+. |
+| 6 | Farming without Blue | Shows selected Magic craft bases and hides other Magic equipment and jewelry. Charms, jewels and PD2 specials remain. Same Rare/Set/RW selection as Farming with Blue. Perfect gems; gold 3,000+. |
+| 7 | Endgame | Shows selected Magic craft bases. Stronger identified Rare; selected useful Set; supported Rare/Set roll 90%+. All Unique/Craft and unidentified Rare kept. Perfect relevant RW bonuses; unsocketed or matching existing sockets. Perfect gems; gold 4,000+. |
 
 **Always visible at every level:** Wirt’s Leg, all Unique items for grail collecting, completed orange Crafted items, runes, charms, jewels, protected PD2 maps/materials/fragments/boss ingredients/socket tools, both Rejuvenation potions and **Antidote potions**. Inventory items remain inspectable.
 
@@ -27,6 +27,8 @@ Market price refresh runs every **Friday at 12:00 (Vilnius time)**. Each success
 Farming/Endgame hide ordinary HP/MP potions, cold/gas/fire throwing potions and player ears. Endgame also hides ordinary chest keys. Both retain protected boss keys and special materials. Farming keeps all Set items; Endgame selects useful higher-tier candidates and handles ambiguous unidentified variants conservatively.
 
 ### Prices, rolls and help
+
+Every profile shows and labels selected Magic bases for Perfect-gem recipes. **[Craft Base]** appears on the ground and in inventory for eligible ilvl 85+ jewelry, circlets, caster weapons, and selected Exceptional/Elite equipment. The craft roll depends on the base and character level.
 
 Item tooltips show the item’s bonuses and supported ROLL scores without “Good for” or “Useful for” class labels.
 
@@ -70,7 +72,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.82** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.83** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
 
 ## Lietuviškai
@@ -89,9 +91,9 @@ Kainos automatiškai atnaujinamos kiekvieną **penktadienį 12:00 Lietuvos laiku
 | 2 | Nightmare | Rodo visus daiktus. |
 | 3 | Hell | Platesnė naudingų Magic/Rare ir neidentifikuotų kandidatų atranka. Flawless ir Perfect gemai. Slepia Thawing, Oil ir palaidus ID/TP scrolls. |
 | 4 | Baal Runs | Griežtesnė įrangos ir paprastų bazių atranka negu Hell. Flawless ir Perfect gemai. Naudingi craft kandidatai dar gali būti rodomi. |
-| 5 | Farming with Blue | Atrinkti naudingi Magic deriniai ir neidentifikuoti kandidatai: skill + speed/cast, socket/block/life bei stiprūs ginklai. Neidentifikuoti mėlyni throwing knives/axes/javelins paliekami tik ETH elite bazėse; ne-ETH bei normal/exceptional throwing slepiami. Naudingi Rare; visi Unique/Set/Craft. Geros pažangių RW bazės ir CTA/HOTO išimtys. Tik Perfect gemai; gold nuo 2 000. |
-| 6 | Farming without Blue | Slepia visą įprastą Magic įrangą ir jewelry, ID ir unID. Charmai, jewels ir PD2 specialūs daiktai lieka. Rare/Set/RW atranka tokia pati kaip Farming with Blue. Tik Perfect gemai; gold nuo 3 000. |
-| 7 | Endgame | Slepia įprastą Magic įrangą/jewelry. Stipresni identifikuoti Rare ir atrinkti naudingi Set; palaikomas Rare/Set roll 90%+. Visi Unique/Craft ir neidentifikuoti Rare lieka. RW: maksimalūs aktualūs bonusai; be socketų arba su tinkamais esamais socketais. Tik Perfect gemai; gold nuo 4 000. |
+| 5 | Farming with Blue | Atrinktos craft bazės, naudingi Magic deriniai ir neidentifikuoti kandidatai: skill + speed/cast, socket/block/life bei stiprūs ginklai. Neidentifikuoti mėlyni throwing knives/axes/javelins paliekami tik ETH elite bazėse; ne-ETH bei normal/exceptional throwing slepiami. Naudingi Rare; visi Unique/Set/Craft. Geros pažangių RW bazės ir CTA/HOTO išimtys. Tik Perfect gemai; gold nuo 2 000. |
+| 6 | Farming without Blue | Rodo atrinktas Magic craft bazes, kitą Magic įrangą ir jewelry slepia. Charmai, jewels ir PD2 specialūs daiktai lieka. Rare/Set/RW atranka tokia pati kaip Farming with Blue. Tik Perfect gemai; gold nuo 3 000. |
+| 7 | Endgame | Rodo atrinktas Magic craft bazes, kitą Magic įrangą ir jewelry slepia. Stipresni identifikuoti Rare ir atrinkti naudingi Set; palaikomas Rare/Set roll 90%+. Visi Unique/Craft ir neidentifikuoti Rare lieka. RW: maksimalūs aktualūs bonusai; be socketų arba su tinkamais esamais socketais. Tik Perfect gemai; gold nuo 4 000. |
 
 **Visuose lygiuose rodomi:** visi Unique grail kolekcijai, jau pagaminti oranžiniai Crafted, runos, charmai, jewels, saugomi PD2 mapai/medžiagos/fragmentai/boss ingredientai/socket įrankiai, abu Rejuvenation ir **Antidote potionai**. Inventoriuje daiktai neslepiami.
 
@@ -100,6 +102,8 @@ Kainos automatiškai atnaujinamos kiekvieną **penktadienį 12:00 Lietuvos laiku
 Farming/Endgame slepia įprastus HP/MP, cold/gas/fire throwing potionus ir player ears. Endgame papildomai slepia įprastus chest keys. Boss raktai ir saugomos medžiagos išlieka. Farming rodo visus Set; Endgame atrenka naudingus aukštesnio lygio kandidatus, o neaiškius neidentifikuotus variantus vertina atsargiai.
 
 ### Kainos, roll ir pagalba
+
+Visi profiliai rodo atrinktas mėlynas bazes Perfect gemų receptams. Žyma **[Craft Base]** matoma ant žemės ir inventoriuje prie tinkamos ilvl 85+ juvelyrikos, circletų, caster ginklų ir atrinktos Exceptional/Elite įrangos. Craft roll priklauso nuo bazės ir veikėjo lygio.
 
 Daiktų aprašuose rodomi jų bonusai ir palaikomi ROLL įverčiai. Klasę žaidėjas pasirenka pagal matomus bonusus.
 
@@ -143,7 +147,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.82**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.83**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
 
