@@ -722,17 +722,17 @@ ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GRAY%Strong blues and tagged craft
 ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GRAY%All Set; useful Rare.}%CONTINUE%
 ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GRAY%Good RW. Perf gems. Gold 2000+.}%CONTINUE%
 ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GRAY%All Unique/Craft, runes, charms, jewels, PD2 specials and anti kept.}%CONTINUE%
-ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GRAY%Unidentified Rare kept, except Normal physical weapons.}%CONTINUE%
+ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GRAY%UnID Rare: skip Normal phys. weapons.}%CONTINUE%
 ItemDisplay[box FILTLVL=6]: %NAME%{%NAME%%NL%%GOLD%Profile: 6. Farming without Blue}%CONTINUE%
 ItemDisplay[box FILTLVL=6]: %NAME%{%NAME%%NL%%GRAY%Magic gear hidden. Charms/jewels kept.}%CONTINUE%
 ItemDisplay[box FILTLVL=6]: %NAME%{%NAME%%NL%%GRAY%All Set; useful Rare. Good RW. Perf gems. Gold 3000+.}%CONTINUE%
 ItemDisplay[box FILTLVL=6]: %NAME%{%NAME%%NL%%GRAY%All Unique/Craft, runes, charms, jewels, PD2 specials and anti kept.}%CONTINUE%
-ItemDisplay[box FILTLVL=6]: %NAME%{%NAME%%NL%%GRAY%Unidentified Rare kept, except Normal physical weapons.}%CONTINUE%
+ItemDisplay[box FILTLVL=6]: %NAME%{%NAME%%NL%%GRAY%UnID Rare: skip Normal phys. weapons.}%CONTINUE%
 ItemDisplay[box FILTLVL=7]: %NAME%{%NAME%%NL%%GOLD%Profile: 7. Endgame}%CONTINUE%
 ItemDisplay[box FILTLVL=7]: %NAME%{%NAME%%NL%%GRAY%Magic gear hidden.}%CONTINUE%
 ItemDisplay[box FILTLVL=7]: %NAME%{%NAME%%NL%%GRAY%Rare/Set: supported 90%+. Perf RW: 0 sockets or matching recipe. Perf gems. Gold 4000+.}%CONTINUE%
 ItemDisplay[box FILTLVL=7]: %NAME%{%NAME%%NL%%GRAY%All Unique/Craft, runes, charms, jewels, PD2 specials and anti kept.}%CONTINUE%
-ItemDisplay[box FILTLVL=7]: %NAME%{%NAME%%NL%%GRAY%Unidentified Rare kept, except Normal physical weapons.}%CONTINUE%
+ItemDisplay[box FILTLVL=7]: %NAME%{%NAME%%NL%%GRAY%UnID Rare: skip Normal phys. weapons.}%CONTINUE%
 ItemDisplay[box FILTLVL=0]: %NAME%{%NAME%%NL%%WHITE%Show all items}%CONTINUE%
 ItemDisplay[(hp1 OR hp2 OR hp3 OR hp4 OR hp5)]: %RED%%NAME%{%WHITE%Cube: 3 HP + 3 Mana + Chipped Gem = Rejuvenation.%NL%Cube: 3 HP + 3 Mana + Normal Gem = FULL.%NL%Any HP/Mana grade; normal gem means middle gem tier.%NL%%GRAY%Higher HP tiers: buy/find; no 3-pot tier-up recipe.}%CONTINUE%
 ItemDisplay[(mp1 OR mp2 OR mp3 OR mp4 OR mp5)]: %BLUE%%NAME%{%WHITE%Cube: 3 HP + 3 Mana + Chipped Gem = Rejuvenation.%NL%Cube: 3 HP + 3 Mana + Normal Gem = FULL.%NL%Any HP/Mana grade; normal gem means middle gem tier.%NL%%GRAY%Higher Mana tiers: buy/find; no 3-pot tier-up recipe.}%CONTINUE%
