@@ -1,4 +1,4 @@
-# Melindaa v1.2.97
+# Melindaa v1.2.98
 
 ## English
 
@@ -18,11 +18,11 @@ Market price refresh runs every **Friday at 12:00 (Vilnius time)**. Each success
 | 4 | Baal Runs | Tighter equipment and plain-base selection than Hell. Flawless and Perfect gems. Useful crafting candidates can still appear. |
 | 5 | Farming with Blue | Selected craft bases, useful Magic combinations and unidentified candidates: skill + speed/cast, socket/block/life and strong weapons. Unidentified throwing knives/axes/javelins require ETH elite bases; non-ETH or normal/exceptional blue throwing drops are hidden. Useful Rare; all Unique/Set/Craft. Good advanced RW bases and CTA/HOTO exceptions. Perfect gems; gold 2,000+. |
 | 6 | Farming without Blue | Hides Magic equipment and jewelry, including craft bases. All charms, jewels and PD2 specials remain. Same Rare/Set/RW selection as Farming with Blue. Perfect gems; gold 3,000+. |
-| 7 | Endgame | Hides Magic equipment and jewelry, including craft bases. Stronger identified Rare and selected useful Set with supported rolls of 90%+. All Unique/Craft and unidentified Rare remain. Runeword bases need perfect relevant bonuses and may be unsocketed or have matching sockets. Perfect gems and gold 4,000+. |
+| 7 | Endgame | Hides Magic equipment and jewelry, including craft bases. Stronger identified Rare and selected useful Set with supported rolls of 90%+. All Unique and Crafted items remain. Most unidentified Rare equipment remains. Runeword bases need perfect relevant bonuses and may be unsocketed or have matching sockets. Perfect gems and gold 4,000+. |
 
 **Always visible at every level:** Wirt’s Leg, all Unique items for grail collecting, completed orange Crafted items, runes, charms, jewels, protected PD2 maps/materials/fragments/boss ingredients/socket tools, both Rejuvenation potions and **Antidote potions**. Inventory items remain inspectable.
 
-**Farming and Endgame keep all unidentified Rare equipment.** Hidden affixes are not graded. After identification, selection depends on relevant combinations for the equipment category. Unsupported or modified rolls are not assigned an invented percentage. Endgame's 90% requirement applies only where reliable grading is supported.
+Farming and Endgame show unidentified Rare equipment except Short Bow, Hunter’s Bow, Long Bow and Composite Bow. Once identified, items are selected by relevant combinations for their category. Endgame applies its 90% requirement when the filter can grade the roll reliably.
 
 Farming/Endgame hide ordinary HP/MP potions, cold/gas/fire throwing potions and player ears. Endgame also hides ordinary chest keys. Both retain protected boss keys and special materials. Farming keeps all Set items; Endgame selects useful higher-tier candidates and handles ambiguous unidentified variants conservatively.
 
@@ -80,7 +80,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.97** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.98** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
 
 ## Lietuviškai
@@ -101,11 +101,11 @@ Kainos automatiškai atnaujinamos kiekvieną **penktadienį 12:00 Lietuvos laiku
 | 4 | Baal Runs | Griežtesnė įrangos ir paprastų bazių atranka negu Hell. Flawless ir Perfect gemai. Naudingi craft kandidatai dar gali būti rodomi. |
 | 5 | Farming with Blue | Atrinktos craft bazės, naudingi Magic deriniai ir neidentifikuoti kandidatai: skill + speed/cast, socket/block/life bei stiprūs ginklai. Neidentifikuoti mėlyni throwing knives/axes/javelins paliekami tik ETH elite bazėse; ne-ETH bei normal/exceptional throwing slepiami. Naudingi Rare; visi Unique/Set/Craft. Geros pažangių RW bazės ir CTA/HOTO išimtys. Tik Perfect gemai; gold nuo 2 000. |
 | 6 | Farming without Blue | Slepia Magic įrangą ir juvelyriką, įskaitant craft bazes. Visi charmai, jewels ir PD2 specialūs daiktai lieka. Rare/Set/RW atranka tokia pati kaip Farming with Blue. Perfect gemai ir gold nuo 3 000. |
-| 7 | Endgame | Slepia Magic įrangą ir juvelyriką, įskaitant craft bazes. Stipresni identifikuoti Rare ir atrinkti naudingi Set su palaikomu 90 % ar aukštesniu roll. Visi Unique/Craft ir neidentifikuoti Rare lieka. RW bazėms reikia maksimalių aktualių bonusų ir tinkamo lizdų skaičiaus, jei jos jau turi lizdų. Perfect gemai ir gold nuo 4 000. |
+| 7 | Endgame | Slepia Magic įrangą ir juvelyriką, įskaitant craft bazes. Stipresni identifikuoti Rare ir atrinkti naudingi Set su palaikomu 90 % ar aukštesniu roll. Visi Unique ir Crafted bei dauguma neidentifikuotų Rare lieka. RW bazėms reikia maksimalių aktualių bonusų ir tinkamo lizdų skaičiaus, jei jos jau turi lizdų. Perfect gemai ir gold nuo 4 000. |
 
 **Visuose lygiuose rodomi:** visi Unique grail kolekcijai, jau pagaminti oranžiniai Crafted, runos, charmai, jewels, saugomi PD2 mapai/medžiagos/fragmentai/boss ingredientai/socket įrankiai, abu Rejuvenation ir **Antidote potionai**. Inventoriuje daiktai neslepiami.
 
-**Farming ir Endgame palieka visą neidentifikuotą Rare įrangą.** Paslėpti modai nevertinami. Identifikavus tikrinami įrangos kategorijai naudingi deriniai. Nepalaikomiems ar pakeistiems roll neišgalvojamas procentas. Endgame 90% riba taikoma tik patikimai palaikomam vertinimui.
+Farming ir Endgame rodo neidentifikuotą Rare įrangą, išskyrus Short Bow, Hunter’s Bow, Long Bow ir Composite Bow. Identifikavus atrenkami įrangos kategorijai naudingi bonusų deriniai. Endgame 90 % riba taikoma, kai filtras gali patikimai įvertinti roll.
 
 Farming/Endgame slepia įprastus HP/MP, cold/gas/fire throwing potionus ir player ears. Endgame papildomai slepia įprastus chest keys. Boss raktai ir saugomos medžiagos išlieka. Farming rodo visus Set; Endgame atrenka naudingus aukštesnio lygio kandidatus, o neaiškius neidentifikuotus variantus vertina atsargiai.
 
@@ -163,7 +163,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.97**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.98**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
 

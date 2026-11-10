@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.98 — Low damage Normal bows
+
+- Farming and Endgame hide unidentified Rare Short Bows, Hunter’s Bows, Long Bows and Composite Bows. Identified bows are assessed by their bonuses.
+
 ### v1.2.97 — Blue craft bases through level 5
 
 - Farming without Blue and Endgame hide blue craft bases on the ground. All blue charms and jewels remain visible. Gem Crafting recipes stay available in inventory.
@@ -356,6 +360,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.98 — Silpnos Normal lankų bazės
+
+- Farming ir Endgame slepia neidentifikuotus Rare Short Bow, Hunter’s Bow, Long Bow ir Composite Bow. Identifikuoti lankai vertinami pagal bonusus.
 
 ### v1.2.97 — Mėlynos craft bazės iki 5 lygio
 

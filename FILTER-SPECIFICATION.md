@@ -2,7 +2,7 @@
 
 ## English
 
-Current policy: **v1.2.97**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
+Current policy: **v1.2.98**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
 
 ### Permanent visibility
 
@@ -10,7 +10,7 @@ All profiles show all uniques, including Endgame, so players can collect their u
 
 ### Rare equipment and identification
 
-Farming and Endgame preserve **all unidentified rare equipment**, including lower-level bases. Their actual hidden properties cannot be evaluated before identification. Melindaa intentionally accepts more ground clutter to reduce the risk of missing an item that becomes valuable when identified. Some stricter approaches hide more unidentified rare bases and accept that risk; this is not a claim about every filter or a guarantee of value.
+Farming and Endgame show unidentified Rare equipment except the four Normal bow bases with at most 10 maximum base damage. These are Short Bow, Hunter’s Bow, Long Bow and Composite Bow. The exception applies before the actual bonuses are known.
 
 After identification, Farming requires relevant combinations for the equipment slot, rather than a universal count of property lines. Endgame requires stronger combinations and **at least 90% when the owned rare ROLL model supports reliable grading**. A property line is not an affix slot. Unsupported or modified rolls do not receive an invented percentage; conservative exceptions remain. Charms and jewels are exempt.
 
@@ -48,7 +48,7 @@ Repeated expressions are compiled through shared named formulas; RW eligibility 
 
 ## Lietuviškai
 
-Dabartinė politika: **v1.2.97**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
+Dabartinė politika: **v1.2.98**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
 
 ### Kas visada matoma
 
@@ -56,7 +56,7 @@ Visuose profiliuose, įskaitant Endgame, rodomi visi unique, kad būtų galima r
 
 ### Rare ir identifikavimas
 
-Farming ir Endgame palieka **visą neidentifikuotą rare įrangą**, taip pat žemesnio lygio bazes. Tikrų paslėptų savybių prieš identifikavimą įvertinti negalime. Sąmoningai rodome daugiau daiktų, kad sumažintume vertingo rare praradimo riziką. Kai kurie griežtesni atrankos būdai slepia daugiau neidentifikuotų rare bazių ir priima šią riziką; tai nėra teiginys apie kiekvieną filtrą ar garantuota daikto vertė.
+Farming ir Endgame rodo neidentifikuotą Rare įrangą, išskyrus keturias Normal lankų bazes, kurių didžiausia bazinė žala yra 10 arba mažesnė. Tai Short Bow, Hunter’s Bow, Long Bow ir Composite Bow. Išimtis taikoma dar nežinant daikto bonusų.
 
 Identifikavus Farming vertina kategorijai naudingus derinius, ne universalų savybių eilučių skaičių. Endgame reikalauja stipresnių derinių ir **bent 90%, kai mūsų rare ROLL modelis leidžia patikimai įvertinti rezultatą**. Savybės eilutė nėra tas pats kaip affix vieta. Nepalaikomiems ar pakeistiems roll procento neišgalvojame; paliekamos atsargios išimtys. Charmai ir jewels nuo šių ribų apsaugoti.
 
@@ -110,7 +110,7 @@ Baltos/pilkos bazės Farming/Endgame lygiuose turi atitikti RW atranką net tur�
 
 ## v1.2.73 current update / Dabartinis atnaujinimas
 
-**English:** Seven profiles; the two Farming modes differ in ordinary blue gear and gold pickup threshold. Both show all Set, all unidentified Rare and completed Craft. Endgame is level 7 with supported identified Rare/selected Set 90% and perfect RW bases (unsocketed or with matching sockets). Prior six-profile Endgame selections migrate once to 7. Gold-only Magic charms have no numeric quote; sparse seller offers are not reliable value evidence. Craft ingredients use Gem Crafting Material, gem recipe lines use their gem colors, socket counts use Sockets: N/M. Existing ownership and protections remain.
+**English:** Seven profiles; the two Farming modes differ in ordinary blue gear and gold pickup threshold. Both show all Set and completed Craft, plus unidentified Rare equipment subject to the Normal bow exception. Endgame is level 7 with supported identified Rare/selected Set 90% and perfect RW bases (unsocketed or with matching sockets). Prior six-profile Endgame selections migrate once to 7. Gold-only Magic charms have no numeric quote; sparse seller offers are not reliable value evidence. Craft ingredients use Gem Crafting Material, gem recipe lines use their gem colors, socket counts use Sockets: N/M. Existing ownership and protections remain.
 
 **Lietuviškai:** Septyni profiliai; abu Farming skiriasi įprastos mėlynos įrangos matomumu ir gold riba. Abu rodo visus Set, neidentifikuotus Rare ir pagamintus Craft. Endgame yra 7 lygis su palaikomų identifikuotų Rare/atrinktų Set 90% ir perf RW bazėmis (be socketų arba su tinkamais socketais). Ankstesnis šešių profilių Endgame vieną kartą perkeliamas į 7. Tik Gold turintiems Magic charmams skaitinė kaina nerodoma: keli pardavėjų pasiūlymai neįrodo vertės. Ingredientai žymimi Gem Crafting Material, gemų receptai jų spalvomis, socketai Sockets: N/M. Ankstesnės owned žymos ir apsaugos išlieka.
 
