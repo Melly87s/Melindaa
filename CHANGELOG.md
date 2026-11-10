@@ -8,6 +8,11 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.90 — Gem Crafting and compact armor recipes
+
+- Uses Gem Crafting across the base tag, profile 6, ingredients and recipe hints.
+- Unsocketed body armor shows one runeword recipe per socket count to keep the full recipe visible alongside socketing help and the market estimate.
+
 ### v1.2.89 — Clearer Farming profile and charm labels
 
 - Renamed level 6 to Farming Craft Bases. Both Farming profiles keep selected Magic craft bases, while level 5 also shows strong Magic gear.
@@ -321,6 +326,11 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.90 — Gem Crafting ir trumpesni šarvų receptai
+
+- Gem Crafting naudojama bazių žymoje, 6 profilyje, ingredientų ir receptų aprašuose.
+- Šarvams be lizdų rodoma po vieną runeword receptą kiekvienam lizdų skaičiui, kad receptai tilptų šalia lizdų informacijos ir rinkos įverčio.
 
 ### v1.2.89 — Aiškesnis Farming profilis ir charmų žymos
 

@@ -2,7 +2,7 @@
 
 ## English
 
-Current policy: **v1.2.89**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming Craft Bases and Endgame. See the [profile table and installation guide](./README.md).
+Current policy: **v1.2.90**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming Gem Crafting and Endgame. See the [profile table and installation guide](./README.md).
 
 ### Permanent visibility
 
@@ -22,7 +22,7 @@ After identification, Farming requires relevant combinations for the equipment s
 
 ### Magic equipment and completed crafts
 
-All profiles keep selected ilvl 85+ Magic bases for Perfect-gem crafting. Orange [Gem Craft Base] tags appear on the ground and in inventory tooltips. Each tooltip lists the seven Perfect gem and rune pairs for the item type, plus the item and Jewel required for each recipe. Farming with Blue uses Melindaa's independent useful skill/speed, caster, physical and socket/life/block signatures plus unidentified affix-potential candidates. Farming Craft Bases and Endgame show the tagged craft bases among Magic equipment/jewelry. Charms, jewels and protected PD2 specials remain visible. All completed orange crafts stay visible at every level. The two Farming modes share Rare/Set/RW selection. Gold: 2000 / 3000 / 4000 at levels 5 / 6 / 7.
+All profiles keep selected ilvl 85+ Magic bases for Perfect-gem crafting. Orange [Gem Crafting Base] tags appear on the ground and in inventory tooltips. Each tooltip lists the seven Perfect gem and rune pairs for the item type, plus the item and Jewel required for each recipe. Farming with Blue uses Melindaa's independent useful skill/speed, caster, physical and socket/life/block signatures plus unidentified affix-potential candidates. Farming Gem Crafting and Endgame show the tagged craft bases among Magic equipment/jewelry. Charms, jewels and protected PD2 specials remain visible. All completed orange crafts stay visible at every level. The two Farming modes share Rare/Set/RW selection. Gold: 2000 / 3000 / 4000 at levels 5 / 6 / 7.
 
 ### Runeword bases
 
@@ -44,7 +44,7 @@ Repeated expressions are compiled through shared named formulas; RW eligibility 
 
 ## Lietuviškai
 
-Dabartinė politika: **v1.2.89**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming Craft Bases ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
+Dabartinė politika: **v1.2.90**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming Gem Crafting ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
 
 ### Kas visada matoma
 
@@ -64,7 +64,7 @@ Identifikavus Farming vertina kategorijai naudingus derinius, ne universalų sav
 
 ### Magic įranga ir pagaminti craft
 
-Visi profiliai rodo atrinktas ilvl 85+ mėlynas bazes Perfect gemų receptams. Oranžinė [Gem Craft Base] žyma matoma ant žemės ir inventoriaus apraše. Apraše pateiktos septynios Perfect gemo ir runos poros tam daikto tipui. Kiekvienam receptui dar reikia daikto ir Jewel. Farming with Blue atrenka naudingus Magic derinius ir perspektyvias neidentifikuotas bazes. Farming Craft Bases ir Endgame iš Magic įrangos bei juvelyrikos rodo pažymėtas craft bazes. Charmai, jewels ir saugomi PD2 daiktai lieka matomi. Abu Farming profiliai naudoja tą pačią Rare, Set ir RW bazių atranką. Visi pagaminti oranžiniai crafted daiktai matomi visuose lygiuose.
+Visi profiliai rodo atrinktas ilvl 85+ mėlynas bazes Perfect gemų receptams. Oranžinė [Gem Crafting Base] žyma matoma ant žemės ir inventoriaus apraše. Apraše pateiktos septynios Perfect gemo ir runos poros tam daikto tipui. Kiekvienam receptui dar reikia daikto ir Jewel. Farming with Blue atrenka naudingus Magic derinius ir perspektyvias neidentifikuotas bazes. Farming Gem Crafting ir Endgame iš Magic įrangos bei juvelyrikos rodo pažymėtas craft bazes. Charmai, jewels ir saugomi PD2 daiktai lieka matomi. Abu Farming profiliai naudoja tą pačią Rare, Set ir RW bazių atranką. Visi pagaminti oranžiniai crafted daiktai matomi visuose lygiuose.
 
 ### Runeword bazės
 
@@ -102,9 +102,9 @@ Baltos/pilkos bazės Farming/Endgame lygiuose turi atitikti RW atranką net tur�
 
 ## v1.2.73 current update / Dabartinis atnaujinimas
 
-**English:** Seven profiles; the two Farming modes differ in ordinary blue gear and gold pickup threshold. Both show all Set, all unidentified Rare and completed Craft. Endgame is level 7 with supported identified Rare/selected Set 90% and perfect RW bases (unsocketed or with matching sockets). Prior six-profile Endgame selections migrate once to 7. Gold-only Magic charms have no numeric quote; sparse seller offers are not reliable value evidence. Craft ingredients use Crafting material, gem recipe lines use their gem colors, socket counts use Sockets: N/M. Existing ownership and protections remain.
+**English:** Seven profiles; the two Farming modes differ in ordinary blue gear and gold pickup threshold. Both show all Set, all unidentified Rare and completed Craft. Endgame is level 7 with supported identified Rare/selected Set 90% and perfect RW bases (unsocketed or with matching sockets). Prior six-profile Endgame selections migrate once to 7. Gold-only Magic charms have no numeric quote; sparse seller offers are not reliable value evidence. Craft ingredients use Gem Crafting Material, gem recipe lines use their gem colors, socket counts use Sockets: N/M. Existing ownership and protections remain.
 
-**Lietuviškai:** Septyni profiliai; abu Farming skiriasi įprastos mėlynos įrangos matomumu ir gold riba. Abu rodo visus Set, neidentifikuotus Rare ir pagamintus Craft. Endgame yra 7 lygis su palaikomų identifikuotų Rare/atrinktų Set 90% ir perf RW bazėmis (be socketų arba su tinkamais socketais). Ankstesnis šešių profilių Endgame vieną kartą perkeliamas į 7. Tik Gold turintiems Magic charmams skaitinė kaina nerodoma: keli pardavėjų pasiūlymai neįrodo vertės. Ingredientai žymimi Crafting material, gemų receptai jų spalvomis, socketai Sockets: N/M. Ankstesnės owned žymos ir apsaugos išlieka.
+**Lietuviškai:** Septyni profiliai; abu Farming skiriasi įprastos mėlynos įrangos matomumu ir gold riba. Abu rodo visus Set, neidentifikuotus Rare ir pagamintus Craft. Endgame yra 7 lygis su palaikomų identifikuotų Rare/atrinktų Set 90% ir perf RW bazėmis (be socketų arba su tinkamais socketais). Ankstesnis šešių profilių Endgame vieną kartą perkeliamas į 7. Tik Gold turintiems Magic charmams skaitinė kaina nerodoma: keli pardavėjų pasiūlymai neįrodo vertės. Ingredientai žymimi Gem Crafting Material, gemų receptai jų spalvomis, socketai Sockets: N/M. Ankstesnės owned žymos ir apsaugos išlieka.
 
 ### Practical runeword bases / Praktiškos runeword bazės
 
