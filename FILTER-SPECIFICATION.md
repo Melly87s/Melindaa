@@ -2,7 +2,7 @@
 
 ## English
 
-Current policy: **v1.2.100**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
+Current policy: **v1.2.102**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
 
 ### Permanent visibility
 
@@ -28,11 +28,11 @@ Profiles through Farming with Blue keep selected ilvl 85+ Magic bases for Gem Cr
 
 Lower filter levels show a broader selection of compatible runewords when you hover over a base in your inventory. Farming and Endgame focus on advanced recipes.
 
-Grand Matron Bow requires at least 5% ED in Farming. Endgame requires 20% ED and +3 Bow Skills, with either no sockets or a compatible socket count.
+Grand Matron Bow requires at least 5% ED in Farming. An unsocketed Grand Matron Bow requires 20% ED and +3 Bow Skills in Endgame. A socketed one qualifies with the exact socket count for a selected recipe.
 
 From Farming, a base must suit Melindaa's advanced-recipe selection and meet its relevant quality requirements. Advanced recipes here use a Pul-or-later rune; this is a selection boundary, not a market-value claim. Starter-only bases, including those only useful for Lore, no longer qualify. Selected low-requirement caster/buff bases remain useful exceptions, including CTA swords and HOTO flails.
 
-Endgame additionally requires maximum relevant base bonuses and either no sockets or the exact count for an approved recipe. Relevant maxima depend on the item: enhanced damage/defense, class-skill properties or Paladin automagic where applicable. This does not promise a perfect combination of every possible stat. A high item level alone does not qualify a base.
+Endgame shows bases with the exact socket count for an approved recipe. Unsocketed bases need maximum relevant bonuses and enough socket capacity for a selected recipe. Relevant maxima depend on the item: enhanced damage/defense, class-skill properties or Paladin automagic where applicable. This does not promise a perfect combination of every possible stat. A high item level alone does not qualify a base.
 
 Runeword names use Unique gold, with the ordered runes alongside. The inventory shows practical recipes even when Endgame hides the drop. Socketing and Max Sockt share one line. The filter recognizes the character class. Unsocketed bases still need the stated socket count.
 
@@ -48,7 +48,7 @@ Repeated expressions are compiled through shared named formulas; RW eligibility 
 
 ## Lietuviškai
 
-Dabartinė politika: **v1.2.100**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
+Dabartinė politika: **v1.2.102**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
 
 ### Kas visada matoma
 
@@ -74,11 +74,11 @@ Iki Farming with Blue imtinai rodomos atrinktos ilvl 85+ mėlynos bazės Gem Cra
 
 Užvedus pelę ant bazės inventoriuje, žemesni filtro lygiai rodo platesnį tinkamų runeword receptų pasirinkimą. Farming ir Endgame rodo atrinktus pažangesnius receptus.
 
-Grand Matron Bow per Farming reikia bent 5 % ED. Per Endgame reikia 20 % ED ir +3 Bow Skills. Bazė gali būti be lizdų arba turėti receptui tinkamą jų skaičių.
+Grand Matron Bow per Farming reikia bent 5 % ED. Per Endgame bazėms be lizdų reikia 20 % ED ir +3 Bow Skills. Jei lizdai jau yra, pakanka tikslaus skaičiaus atrinktam receptui.
 
 Nuo Farming bazė turi tikti mūsų pažangių receptų atrankai ir atitikti aktualią kokybę. Šiai atrankai pažangus receptas naudoja Pul arba vėlesnę runą; tai atrankos riba, ne rinkos kainos teiginys. Tik starter receptams, pvz., Lore, tinkamos bazės neberodomos. Paliekamos naudingos žemų reikalavimų caster/buff išimtys, įskaitant CTA kardus ir HOTO flailus.
 
-Endgame papildomai reikia maksimalių aktualių bazės bonusų. Tinka bazės be socketų arba su tiksliu atrinktam receptui reikalingu socketų skaičiumi. Aktualūs maksimumai priklauso nuo bazės: enhanced damage/defense, klasės skill ar Paladin automagic. Tai nereiškia tobulo visų galimų savybių derinio. Vien aukštas item level bazės neišsaugo.
+Endgame rodo bazes su tiksliu lizdų skaičiumi atrinktam receptui. Bazėms be lizdų reikia maksimalių aktualių bonusų ir tinkamos lizdų talpos. Aktualūs maksimumai priklauso nuo bazės: enhanced damage/defense, klasės skill ar Paladin automagic. Tai nereiškia tobulo visų galimų savybių derinio. Vien aukštas item level bazės neišsaugo.
 
 Runeword pavadinimai auksiniai kaip Unique, šalia rodoma runų seka. Inventoriuje praktiniai receptai matomi ir tada, kai Endgame paslepia bazę ant žemės. Socketing ir Max Sockt rodomi vienoje eilutėje. Filtras atpažįsta veikėjo klasę. Bazei be socketų vis dar reikia nurodyto jų skaičiaus.
 
@@ -110,9 +110,9 @@ Baltos/pilkos bazės Farming/Endgame lygiuose turi atitikti RW atranką net tur�
 
 ## v1.2.73 current update / Dabartinis atnaujinimas
 
-**English:** Seven profiles; the two Farming modes differ in ordinary blue gear and gold pickup threshold. Both show all Set and completed Craft, plus unidentified Rare equipment subject to the Normal physical weapon exception. Endgame is level 7 with supported identified Rare/selected Set 90% and perfect RW bases (unsocketed or with matching sockets). Prior six-profile Endgame selections migrate once to 7. Gold-only Magic charms have no numeric quote; sparse seller offers are not reliable value evidence. Craft ingredients use Gem Crafting Material, gem recipe lines use their gem colors, socket counts use Sockets: N/M. Existing ownership and protections remain.
+**English:** Seven profiles; the two Farming modes differ in ordinary blue gear and gold pickup threshold. Both show all Set and completed Craft, plus unidentified Rare equipment subject to the Normal physical weapon exception. Endgame is level 7 with supported identified Rare/selected Set 90% and RW bases with matching sockets or perfect unsocketed candidates. Prior six-profile Endgame selections migrate once to 7. Gold-only Magic charms have no numeric quote; sparse seller offers are not reliable value evidence. Craft ingredients use Gem Crafting Material, gem recipe lines use their gem colors, socket counts use Sockets: N/M. Existing ownership and protections remain.
 
-**Lietuviškai:** Septyni profiliai; abu Farming skiriasi įprastos mėlynos įrangos matomumu ir gold riba. Abu rodo visus Set, neidentifikuotus Rare ir pagamintus Craft. Endgame yra 7 lygis su palaikomų identifikuotų Rare/atrinktų Set 90% ir perf RW bazėmis (be socketų arba su tinkamais socketais). Ankstesnis šešių profilių Endgame vieną kartą perkeliamas į 7. Tik Gold turintiems Magic charmams skaitinė kaina nerodoma: keli pardavėjų pasiūlymai neįrodo vertės. Ingredientai žymimi Gem Crafting Material, gemų receptai jų spalvomis, socketai Sockets: N/M. Ankstesnės owned žymos ir apsaugos išlieka.
+**Lietuviškai:** Septyni profiliai; abu Farming skiriasi įprastos mėlynos įrangos matomumu ir gold riba. Abu rodo visus Set, neidentifikuotus Rare ir pagamintus Craft. Endgame yra 7 lygis su palaikomų identifikuotų Rare/atrinktų Set 90% ir RW bazėmis su tinkamais lizdais arba perf bazėmis be lizdų. Ankstesnis šešių profilių Endgame vieną kartą perkeliamas į 7. Tik Gold turintiems Magic charmams skaitinė kaina nerodoma: keli pardavėjų pasiūlymai neįrodo vertės. Ingredientai žymimi Gem Crafting Material, gemų receptai jų spalvomis, socketai Sockets: N/M. Ankstesnės owned žymos ir apsaugos išlieka.
 
 ### Practical runeword bases / Praktiškos runeword bazės
 
@@ -120,9 +120,9 @@ Baltos/pilkos bazės Farming/Endgame lygiuose turi atitikti RW atranką net tur�
 
 **Lietuviškai:** Nuo Farming rekomendacijos remiasi konkrečiu praktinių bazės/RW derinių sąrašu, ne visais techniškai galimais receptais. Pavyzdžiai: CTA Crystal Sword/Flail arba staffmod War Scepter; HOTO Flail; Enigma Mage Plate/Dusk Shroud/Archon Plate; Faith Gorgon Crossbow/atrinktuose lankuose; merc Insight/Infinity/Pride/Obedience atrinktose elite polearm/spear bazėse, kai leidžia receptas; Fortitude/Innocence atrinktuose šarvuose. Caster staff nebesiūlomas Insight. Bendras Wind bet kokiems melee ginklams pašalintas; Fury paliekamas atrinktoms claws. Merc RW žyma ant žemės ir Possible merc RW eilutė apraše yra oranžinės. Socketų žymos žydros, o skaičiai auksiniai. Ankstesnių lygių receptai platesni. Kokybės/socket ribos galioja: populiari bazė nereiškia bet kokio roll/socket varianto. Sąrašas remiasi žaidimo suderinamumu ir ribota dabartinių pagamintų RW prekybos imtimi, ne visų žaidėjų populiarumo statistika. Kitų filtrų taisyklės generatoriui nenaudojamos.
 
-Farming retains selected plain ETH elite merc weapons and low-requirement caster/buff bases even without enhanced damage; Endgame keeps the stricter perfect-bonus requirement; 0 sockets are allowed, existing sockets must match a selected recipe.
+Farming retains selected plain ETH elite merc weapons and low-requirement caster/buff bases even without enhanced damage; Endgame requires perfect relevant bonuses for unsocketed bases. Existing sockets qualify when they match a selected recipe.
 
-Farming palieka atrinktus paprastus ETH elite merc ginklus ir mažų reikalavimų caster/buff bazes net be enhanced damage; Endgame lieka perf bonusų reikalavimas; leidžiami 0 socketų, o esami socketai turi tikti atrinktam receptui.
+Farming palieka atrinktus paprastus ETH elite merc ginklus ir mažų reikalavimų caster/buff bazes net be enhanced damage; Endgame maksimalių bonusų reikia bazėms be lizdų. Jei lizdai jau yra, jų skaičius turi tikti atrinktam receptui.
 
 Ground resistance labels use Fire res / Cold res / Light res / Poison res for clarity.
 

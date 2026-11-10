@@ -8,6 +8,14 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.102 — Ready runeword bases in Endgame
+
+- Endgame shows compatible bases with the exact socket count for a selected runeword, including five-socket Crystal Swords for Call to Arms. Unsocketed bases still need perfect relevant bonuses.
+
+### v1.2.101 — Runeword recipe labels
+
+- Fixed duplicated ground names on socketed bases with class or mercenary runeword recipes. The recipe stays in the tooltip.
+
 ### v1.2.100 — Aetherwing prices
 
 - Aetherwing has its own market samples by lightning pierce band and socket count. Clean listings are matched separately from corrupted or filled quivers.
@@ -368,6 +376,14 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.102 — Paruoštos runeword bazės per Endgame
+
+- Endgame rodo bazes su tiksliu lizdų skaičiumi atrinktam runeword, įskaitant penkių lizdų Crystal Sword, skirtą Call to Arms. Bazėms be lizdų reikia maksimalių aktualių bonusų.
+
+### v1.2.101 — Runeword receptų žymos
+
+- Pataisyti pasikartojantys bazių su lizdais vardai ant žemės. Klasei ar samdiniui skirtas runeword receptas rodomas apraše.
 
 ### v1.2.100 — Aetherwing kainos
 
