@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.95 — Unsocketed Crystal Sword price
+
+- Shows the plain unsocketed Crystal Sword asking price with its listing count, including when only one listing is available. Socketed variants use separate samples.
+
 ### v1.2.94 — Find marker and melee base prices
 
 - Uses ⚜ in ground and inventory names for high runes, map orbs, the four Token essences, strong identified Rare items and high-value Unique/Set items.
@@ -343,6 +347,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.95 — Crystal Sword kaina be lizdų
+
+- Paprasto Crystal Sword be lizdų prašoma kaina rodoma su skelbimų skaičiumi, net kai rastas vienas skelbimas. Variantai su lizdais naudoja atskiras imtis.
 
 ### v1.2.94 — Radinio žyma ir artimos kovos bazių kainos
 

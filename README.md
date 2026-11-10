@@ -1,4 +1,4 @@
-# Melindaa v1.2.92
+# Melindaa v1.2.95
 
 ## English
 
@@ -34,9 +34,13 @@ Every profile shows and labels selected Magic bases for Perfect-gem recipes. An 
 
 Item tooltips show the item’s bonuses and supported ROLL scores without “Good for” or “Useful for” class labels.
 
+The ⚜ find marker highlights high runes, map orbs, Token essences, strong identified Rare items and high-value Unique or Set items. It appears next to the item name on the ground and in inventory.
+
 Prices are dated **asking-price estimates**, not guaranteed sale prices. **Sellers may ask unrealistic amounts, which can distort estimates.** Supported charm/skiller/jewel/base/material/Rare/Crafted samples use a 120-hour listing/bump window. Missing supported samples mean no quote, not proof that no listings exist. Older baseline Unique/Set prices retain their original dates. NPC gold is separate.
 
 Rune prices show a compact estimate on the ground and HR/WSS in the tooltip. El–Gul quotes average per-rune asking prices from the official PD2 market, including stack offers with a known quantity. Quotes require at least three usable listings from two sellers.
+
+Plain unsocketed Crystal Swords show the listing count beside the asking price when the sample is small. Bases with four and five sockets use separate price samples.
 
 ROLL describes supported variable properties, not universal build value.  Ground labels show actual identified bonuses. Socket method labels are light blue, their counts are gold, and class runeword recipes are green. Maximum socket capacity does not guarantee a socketing result. Superior bases do not use the normal-only random socket Cube recipe.
 
@@ -76,7 +80,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.92** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.95** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
 
 ## Lietuviškai
@@ -113,9 +117,13 @@ Visi profiliai rodo atrinktas mėlynas bazes Perfect gemų receptams. Oranžinė
 
 Daiktų aprašuose rodomi jų bonusai ir palaikomi ROLL įverčiai. Klasę žaidėjas pasirenka pagal matomus bonusus.
 
+⚜ radinio žyma išskiria aukštas runas, map orbus, Token esencijas, stiprius identifikuotus Rare ir vertingus Unique ar Set daiktus. Ji rodoma prie daikto vardo ant žemės ir inventoriuje.
+
 Kainos yra datuoti **pardavėjų prašomų kainų įverčiai**, ne garantuota pardavimo vertė. **Pardavėjai gali prašyti nerealių sumų, todėl įverčiai gali būti iškreipti.** Palaikomų charm/skiller/jewel/bazių/medžiagų/Rare/Crafted imtis naudoja 120 val. paskelbimo/atnaujinimo langą. Nepakankama imtis paliekama be kainos; tai nereiškia, kad nėra skelbimų. Senesni baziniai Unique/Set įverčiai išlaiko originalias datas. NPC gold atskiriamas.
 
 Runų įvertis trumpai rodomas ant žemės, o apraše pateikiamas HR ir WSS. El–Gul runų įverčiai yra oficialios PD2 prekyvietės prašomų kainų vidurkiai už vieną runą. Įskaičiuojamos ir krūvelės, kurių kiekis žinomas. Reikia bent trijų tinkamų skelbimų iš dviejų pardavėjų.
+
+Paprasto Crystal Sword be lizdų prašoma kaina rodoma su skelbimų skaičiumi, kai imtis maža. Bazėms su keturiais ar penkiais lizdais naudojamos atskiros kainų imtys.
 
 ROLL vertina palaikomas kintamas savybes, ne universalų tinkamumą build. Ant žemės rašomi tikri identifikuoti bonusai. Socketų metodų žymos žydros, skaičiai auksiniai, o klasės runeword receptai žali. Maksimali socketų talpa negarantuoja socketinimo rezultato. Superior bazėms netaikomas tik normal kokybei skirtas random socket Cube receptas.
 
@@ -155,7 +163,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.92**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.95**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
 
