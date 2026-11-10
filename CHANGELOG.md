@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.88 — Gem Craft Base label
+
+- The orange [Gem Craft Base] label identifies crafting bases. The tooltip names the Perfect Gems required by the recipes.
+
 ### v1.2.87 — Rune prices for singles and stacks
 
 - Improved per-rune estimates by reading explicit bundle sizes and recognizing single-rune Pul–Gul listings. Ambiguous offers are skipped. Rune stacks show the estimate per rune and the tooltip identifies runes with insufficient market data.
@@ -312,6 +316,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.88 — Žyma „Gem Craft Base“
+
+- Oranžinė [Gem Craft Base] žyma nurodo craft bazes. Apraše įvardyti receptams reikalingi Perfect gemai.
 
 ### v1.2.87 — Pavienių runų ir krūvelių kainos
 
