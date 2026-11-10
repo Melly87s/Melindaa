@@ -1,4 +1,4 @@
-# Melindaa v1.2.96
+# Melindaa v1.2.97
 
 ## English
 
@@ -17,8 +17,8 @@ Market price refresh runs every **Friday at 12:00 (Vilnius time)**. Each success
 | 3 | Hell | Broad useful Magic/Rare candidates and cautious unidentified potential. Flawless and Perfect gems. Hides Thawing, Oil and loose ID/TP scrolls. |
 | 4 | Baal Runs | Tighter equipment and plain-base selection than Hell. Flawless and Perfect gems. Useful crafting candidates can still appear. |
 | 5 | Farming with Blue | Selected craft bases, useful Magic combinations and unidentified candidates: skill + speed/cast, socket/block/life and strong weapons. Unidentified throwing knives/axes/javelins require ETH elite bases; non-ETH or normal/exceptional blue throwing drops are hidden. Useful Rare; all Unique/Set/Craft. Good advanced RW bases and CTA/HOTO exceptions. Perfect gems; gold 2,000+. |
-| 6 | Farming Gem Crafting | Shows selected Magic craft bases and hides other Magic equipment and jewelry. Charms, jewels and PD2 specials remain. Same Rare/Set/RW selection as Farming with Blue. Perfect gems; gold 3,000+. |
-| 7 | Endgame | Shows selected Magic craft bases. Stronger identified Rare; selected useful Set; supported Rare/Set roll 90%+. All Unique/Craft and unidentified Rare kept. Perfect relevant RW bonuses; unsocketed or matching existing sockets. Perfect gems; gold 4,000+. |
+| 6 | Farming without Blue | Hides Magic equipment and jewelry, including craft bases. All charms, jewels and PD2 specials remain. Same Rare/Set/RW selection as Farming with Blue. Perfect gems; gold 3,000+. |
+| 7 | Endgame | Hides Magic equipment and jewelry, including craft bases. Stronger identified Rare and selected useful Set with supported rolls of 90%+. All Unique/Craft and unidentified Rare remain. Runeword bases need perfect relevant bonuses and may be unsocketed or have matching sockets. Perfect gems and gold 4,000+. |
 
 **Always visible at every level:** Wirt’s Leg, all Unique items for grail collecting, completed orange Crafted items, runes, charms, jewels, protected PD2 maps/materials/fragments/boss ingredients/socket tools, both Rejuvenation potions and **Antidote potions**. Inventory items remain inspectable.
 
@@ -30,7 +30,7 @@ Farming/Endgame hide ordinary HP/MP potions, cold/gas/fire throwing potions and 
 
 Exact single-mod charm quotes name the roll and count matching listings, e.g. **+40 Life only; 5 listings**. Skillers with Life use a separate price sample.
 
-Every profile shows and labels selected Magic bases for Perfect-gem recipes. An orange **[Gem Crafting Base]** tag appears on the ground and in the inventory tooltip for eligible ilvl 85+ jewelry, circlets, caster weapons, and selected Exceptional/Elite equipment. The tooltip lists the Perfect gem and rune pairs for that item type. Cube the item with a Jewel and one of the listed pairs. The craft roll depends on the base and character level.
+Profiles through level 5 show selected Magic bases for Perfect Gem recipes. An orange **[Gem Crafting Base]** tag appears on eligible drops and in inventory tooltips. The tooltip lists the Perfect Gem and rune pairs for that item type. Cube the item with a Jewel and one of the listed pairs. The craft roll depends on the base and character level.
 
 Item tooltips show the item’s bonuses and supported ROLL scores without “Good for” or “Useful for” class labels.
 
@@ -44,7 +44,7 @@ Plain unsocketed Crystal Swords show the listing count beside the asking price w
 
 ROLL describes supported variable properties, not universal build value.  Ground labels show actual identified bonuses. Socket method labels are light blue, their counts are gold, and class runeword recipes are green. Maximum socket capacity does not guarantee a socketing result. Superior bases do not use the normal-only random socket Cube recipe.
 
-The **[owned grail]** marker appears beside Unique/Set item names both on the ground and in inventory. It uses PD2's current Unique/Set collection state, not discovery history or an independent stash scan. Update timing after selling the last copy still needs in-game verification. Item level appears at the bottom of descriptions.
+Unique and Set items use **[owned grail]** on the ground and **[Owned]** in the inventory title. The marker uses PD2's current collection state. Update timing after selling the last copy still needs in-game verification. Item level appears at the bottom of descriptions.
 
 
 
@@ -62,7 +62,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 ### Owned Grail
 
-**[owned grail]** is a duplicate-collection hint for Unique and Set items. It appears beside the item name **on the ground and in inventory**, with **Owned Grail: owned** in its description. The name, supported ROLL and price details remain available.
+**[owned grail]** on the ground and **[Owned]** in inventory indicate that PD2 counts the Unique or Set item as owned. The tooltip also shows **Owned Grail: owned** alongside supported ROLL and price details.
 
 | Situation | What the marker means |
 | --- | --- |
@@ -80,7 +80,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.96** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.97** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
 
 ## Lietuviškai
@@ -100,8 +100,8 @@ Kainos automatiškai atnaujinamos kiekvieną **penktadienį 12:00 Lietuvos laiku
 | 3 | Hell | Platesnė naudingų Magic/Rare ir neidentifikuotų kandidatų atranka. Flawless ir Perfect gemai. Slepia Thawing, Oil ir palaidus ID/TP scrolls. |
 | 4 | Baal Runs | Griežtesnė įrangos ir paprastų bazių atranka negu Hell. Flawless ir Perfect gemai. Naudingi craft kandidatai dar gali būti rodomi. |
 | 5 | Farming with Blue | Atrinktos craft bazės, naudingi Magic deriniai ir neidentifikuoti kandidatai: skill + speed/cast, socket/block/life bei stiprūs ginklai. Neidentifikuoti mėlyni throwing knives/axes/javelins paliekami tik ETH elite bazėse; ne-ETH bei normal/exceptional throwing slepiami. Naudingi Rare; visi Unique/Set/Craft. Geros pažangių RW bazės ir CTA/HOTO išimtys. Tik Perfect gemai; gold nuo 2 000. |
-| 6 | Farming Gem Crafting | Rodo atrinktas Magic craft bazes, kitą Magic įrangą ir jewelry slepia. Charmai, jewels ir PD2 specialūs daiktai lieka. Rare/Set/RW atranka tokia pati kaip Farming with Blue. Tik Perfect gemai; gold nuo 3 000. |
-| 7 | Endgame | Rodo atrinktas Magic craft bazes, kitą Magic įrangą ir jewelry slepia. Stipresni identifikuoti Rare ir atrinkti naudingi Set; palaikomas Rare/Set roll 90%+. Visi Unique/Craft ir neidentifikuoti Rare lieka. RW: maksimalūs aktualūs bonusai; be socketų arba su tinkamais esamais socketais. Tik Perfect gemai; gold nuo 4 000. |
+| 6 | Farming without Blue | Slepia Magic įrangą ir juvelyriką, įskaitant craft bazes. Visi charmai, jewels ir PD2 specialūs daiktai lieka. Rare/Set/RW atranka tokia pati kaip Farming with Blue. Perfect gemai ir gold nuo 3 000. |
+| 7 | Endgame | Slepia Magic įrangą ir juvelyriką, įskaitant craft bazes. Stipresni identifikuoti Rare ir atrinkti naudingi Set su palaikomu 90 % ar aukštesniu roll. Visi Unique/Craft ir neidentifikuoti Rare lieka. RW bazėms reikia maksimalių aktualių bonusų ir tinkamo lizdų skaičiaus, jei jos jau turi lizdų. Perfect gemai ir gold nuo 4 000. |
 
 **Visuose lygiuose rodomi:** visi Unique grail kolekcijai, jau pagaminti oranžiniai Crafted, runos, charmai, jewels, saugomi PD2 mapai/medžiagos/fragmentai/boss ingredientai/socket įrankiai, abu Rejuvenation ir **Antidote potionai**. Inventoriuje daiktai neslepiami.
 
@@ -113,7 +113,7 @@ Farming/Endgame slepia įprastus HP/MP, cold/gas/fire throwing potionus ir playe
 
 Tiksliame vieno modo charmo įvertyje rodomas modas ir sutampančių skelbimų skaičius, pvz. **+40 Life only; 5 listings**. Charmai su skillų šaka ir Life vertinami atskirai.
 
-Visi profiliai rodo atrinktas mėlynas bazes Perfect gemų receptams. Oranžinė žyma **[Gem Crafting Base]** matoma ant žemės ir inventoriaus apraše prie tinkamos ilvl 85+ juvelyrikos, circletų, caster ginklų ir atrinktos Exceptional/Elite įrangos. Apraše išvardyti tam daikto tipui tinkami Perfect gemo ir runos deriniai. Į Cube dėk daiktą, Jewel ir vieną iš nurodytų porų. Craft roll priklauso nuo bazės ir veikėjo lygio.
+Profiliai iki 5 lygio imtinai rodo atrinktas mėlynas bazes Perfect gemų receptams. Oranžinė **[Gem Crafting Base]** žyma matoma ant tinkamų radinių ir inventoriaus apraše. Apraše išvardytos tam daikto tipui tinkamos Perfect gemo ir runos poros. Į Cube dėk daiktą, Jewel ir vieną iš nurodytų porų. Craft roll priklauso nuo bazės ir veikėjo lygio.
 
 Daiktų aprašuose rodomi jų bonusai ir palaikomi ROLL įverčiai. Klasę žaidėjas pasirenka pagal matomus bonusus.
 
@@ -127,7 +127,7 @@ Paprasto Crystal Sword be lizdų prašoma kaina rodoma su skelbimų skaičiumi, 
 
 ROLL vertina palaikomas kintamas savybes, ne universalų tinkamumą build. Ant žemės rašomi tikri identifikuoti bonusai. Socketų metodų žymos žydros, skaičiai auksiniai, o klasės runeword receptai žali. Maksimali socketų talpa negarantuoja socketinimo rezultato. Superior bazėms netaikomas tik normal kokybei skirtas random socket Cube receptas.
 
-**[owned grail]** rodoma prie Unique/Set daikto vardo ir ant žemės, ir inventoriuje. Ji naudoja dabartinę PD2 Unique/Set kolekcijos turėjimo būseną, ne atradimų istoriją ar savarankišką stash skenavimą. Atnaujinimo laikas pardavus paskutinę kopiją dar tikrinamas žaidime. Item level rašomas aprašymo apačioje.
+Unique ir Set daiktams ant žemės rodoma **[owned grail]**, o inventoriaus varde **[Owned]**. Žyma naudoja dabartinę PD2 kolekcijos turėjimo būseną. Atnaujinimo laikas pardavus paskutinę kopiją dar tikrinamas žaidime. Item level rašomas aprašymo apačioje.
 
 
 ### Socketų suteikimo būdai
@@ -144,7 +144,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 ### Owned Grail
 
-**[owned grail]** padeda atpažinti turimų Unique ir Set kolekcijos kopijas. Žyma rodoma prie vardo **ant žemės ir inventoriuje**, o aprašyme — **Owned Grail: owned**. Išlieka vardas, palaikomas ROLL ir kainų informacija.
+**[owned grail]** ant žemės ir **[Owned]** inventoriuje žymi turimą Unique arba Set daiktą. Apraše **Owned Grail: owned** rodoma šalia ROLL ir kainos informacijos.
 
 | Situacija | Ką reiškia žyma |
 | --- | --- |
@@ -163,7 +163,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.96**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.97**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
 

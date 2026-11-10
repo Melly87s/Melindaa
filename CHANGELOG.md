@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.97 — Blue craft bases through level 5
+
+- Farming without Blue and Endgame hide blue craft bases on the ground. All blue charms and jewels remain visible. Gem Crafting recipes stay available in inventory.
+
 ### v1.2.96 — Grand Matron Bow and Owned label
 
 - Grand Matron Bow requires at least 5% ED in Farming and 20% ED with +3 Bow Skills in Endgame. Market samples separate Bow Skills, ED, attack rating and socket count.
@@ -352,6 +356,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.97 — Mėlynos craft bazės iki 5 lygio
+
+- Farming without Blue ir Endgame ant žemės slepia mėlynas craft bazes. Visi mėlyni charmai ir jewels lieka matomi. Gem Crafting receptai rodomi inventoriuje.
 
 ### v1.2.96 — Grand Matron Bow ir Owned žyma
 

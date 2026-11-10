@@ -2,7 +2,7 @@
 
 ## English
 
-Current policy: **v1.2.96**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming Gem Crafting and Endgame. See the [profile table and installation guide](./README.md).
+Current policy: **v1.2.97**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
 
 ### Permanent visibility
 
@@ -22,11 +22,13 @@ After identification, Farming requires relevant combinations for the equipment s
 
 ### Magic equipment and completed crafts
 
-All profiles keep selected ilvl 85+ Magic bases for Perfect-gem crafting. Orange [Gem Crafting Base] tags appear on the ground and in inventory tooltips. Each tooltip lists the seven Perfect gem and rune pairs for the item type, plus the item and Jewel required for each recipe. Farming with Blue uses Melindaa's independent useful skill/speed, caster, physical and socket/life/block signatures plus unidentified affix-potential candidates. Farming Gem Crafting and Endgame show the tagged craft bases among Magic equipment/jewelry. Charms, jewels and protected PD2 specials remain visible. All completed orange crafts stay visible at every level. The two Farming modes share Rare/Set/RW selection. Gold: 2000 / 3000 / 4000 at levels 5 / 6 / 7.
+Profiles through Farming with Blue keep selected ilvl 85+ Magic bases for Gem Crafting. Orange [Gem Crafting Base] tags appear on eligible drops and in inventory tooltips. Each tooltip lists seven Perfect Gem and rune pairs for the item type. Each recipe uses the item, a Jewel and one pair. Farming with Blue also shows useful Magic equipment and unidentified candidates. Farming without Blue and Endgame hide Magic equipment and jewelry on the ground, including craft bases. Charms, jewels, protected PD2 specials and completed orange crafts stay visible at every level. The two Farming modes share Rare/Set/RW selection. Gold minimums are 2000, 3000 and 4000 at levels 5, 6 and 7.
 
 ### Runeword bases
 
 Lower filter levels show a broader selection of compatible runewords when you hover over a base in your inventory. Farming and Endgame focus on advanced recipes.
+
+Grand Matron Bow requires at least 5% ED in Farming. Endgame requires 20% ED and +3 Bow Skills, with either no sockets or a compatible socket count.
 
 From Farming, a base must suit Melindaa's advanced-recipe selection and meet its relevant quality requirements. Advanced recipes here use a Pul-or-later rune; this is a selection boundary, not a market-value claim. Starter-only bases, including those only useful for Lore, no longer qualify. Selected low-requirement caster/buff bases remain useful exceptions, including CTA swords and HOTO flails.
 
@@ -46,7 +48,7 @@ Repeated expressions are compiled through shared named formulas; RW eligibility 
 
 ## Lietuviškai
 
-Dabartinė politika: **v1.2.96**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming Gem Crafting ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
+Dabartinė politika: **v1.2.97**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
 
 ### Kas visada matoma
 
@@ -66,11 +68,13 @@ Identifikavus Farming vertina kategorijai naudingus derinius, ne universalų sav
 
 ### Magic įranga ir pagaminti craft
 
-Visi profiliai rodo atrinktas ilvl 85+ mėlynas bazes Perfect gemų receptams. Oranžinė [Gem Crafting Base] žyma matoma ant žemės ir inventoriaus apraše. Apraše pateiktos septynios Perfect gemo ir runos poros tam daikto tipui. Kiekvienam receptui dar reikia daikto ir Jewel. Farming with Blue atrenka naudingus Magic derinius ir perspektyvias neidentifikuotas bazes. Farming Gem Crafting ir Endgame iš Magic įrangos bei juvelyrikos rodo pažymėtas craft bazes. Charmai, jewels ir saugomi PD2 daiktai lieka matomi. Abu Farming profiliai naudoja tą pačią Rare, Set ir RW bazių atranką. Visi pagaminti oranžiniai crafted daiktai matomi visuose lygiuose.
+Iki Farming with Blue imtinai rodomos atrinktos ilvl 85+ mėlynos bazės Gem Crafting receptams. Oranžinė [Gem Crafting Base] žyma matoma ant tinkamų radinių ir inventoriaus apraše. Apraše pateiktos septynios Perfect gemo ir runos poros tam daikto tipui. Kiekvienam receptui dar reikia daikto ir Jewel. Farming with Blue papildomai rodo naudingus Magic daiktus ir perspektyvius neidentifikuotus kandidatus. Farming without Blue ir Endgame ant žemės slepia mėlyną įrangą bei juvelyriką, įskaitant craft bazes. Charmai, jewels, saugomi PD2 daiktai ir pagaminti oranžiniai Crafted lieka matomi visuose lygiuose. Abu Farming profiliai naudoja tą pačią Rare, Set ir RW bazių atranką.
 
 ### Runeword bazės
 
 Užvedus pelę ant bazės inventoriuje, žemesni filtro lygiai rodo platesnį tinkamų runeword receptų pasirinkimą. Farming ir Endgame rodo atrinktus pažangesnius receptus.
+
+Grand Matron Bow per Farming reikia bent 5 % ED. Per Endgame reikia 20 % ED ir +3 Bow Skills. Bazė gali būti be lizdų arba turėti receptui tinkamą jų skaičių.
 
 Nuo Farming bazė turi tikti mūsų pažangių receptų atrankai ir atitikti aktualią kokybę. Šiai atrankai pažangus receptas naudoja Pul arba vėlesnę runą; tai atrankos riba, ne rinkos kainos teiginys. Tik starter receptams, pvz., Lore, tinkamos bazės neberodomos. Paliekamos naudingos žemų reikalavimų caster/buff išimtys, įskaitant CTA kardus ir HOTO flailus.
 
@@ -100,9 +104,9 @@ Baltos/pilkos bazės Farming/Endgame lygiuose turi atitikti RW atranką net tur�
 
 ## v1.2.73 ownership labels / Nuosavybės žymos
 
-**English:** Unique/Set names show [owned grail] on the ground and in inventory when native ALLOWNED confirms ownership. Pricing and roll details are preserved. The native ownership flag does not provide the owned copy’s stats/roll, so no automatic better-than-owned percentage is claimed.
+**English:** When native ALLOWNED confirms ownership, Unique and Set names show [owned grail] on the ground and [Owned] in inventory. Pricing and roll details are preserved. The native ownership flag does not provide the owned copy’s stats/roll, so no automatic better-than-owned percentage is claimed.
 
-**Lietuviškai:** Unique/Set vardai žymimi [owned grail] ant žemės ir inventoriuje, kai native ALLOWNED patvirtina turėjimą. Kainos ir roll informacija išsaugomi. Turėjimo žyma negrąžina turimos kopijos statų/roll, todėl automatinis procentinis palyginimas su ja neteikiamas.
+**Lietuviškai:** Kai native ALLOWNED patvirtina turėjimą, Unique ir Set vardai žymimi [owned grail] ant žemės ir [Owned] inventoriuje. Kainos ir roll informacija išsaugomi. Turėjimo žyma negrąžina turimos kopijos statų/roll, todėl automatinis procentinis palyginimas su ja neteikiamas.
 
 ## v1.2.73 current update / Dabartinis atnaujinimas
 
