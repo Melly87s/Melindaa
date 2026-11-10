@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.91 — Io through Lem prices
+
+- Includes single Io–Lem listings that state their currency. The filter shows the per-rune asking average when the sample is sufficient.
+
 ### v1.2.90 — Gem Crafting and compact armor recipes
 
 - Uses Gem Crafting across the base tag, profile 6, ingredients and recipe hints.
@@ -326,6 +330,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.91 — Io–Lem kainos
+
+- Į kainų imtį įtraukiami pavienių Io–Lem runų skelbimai su nurodyta valiuta. Kai skelbimų pakanka, rodomas vienos runos prašomų kainų vidurkis.
 
 ### v1.2.90 — Gem Crafting ir trumpesni šarvų receptai
 
