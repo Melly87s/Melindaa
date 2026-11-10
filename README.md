@@ -1,4 +1,4 @@
-# Melindaa v1.2.98
+# Melindaa v1.2.99
 
 ## English
 
@@ -22,7 +22,7 @@ Market price refresh runs every **Friday at 12:00 (Vilnius time)**. Each success
 
 **Always visible at every level:** Wirt’s Leg, all Unique items for grail collecting, completed orange Crafted items, runes, charms, jewels, protected PD2 maps/materials/fragments/boss ingredients/socket tools, both Rejuvenation potions and **Antidote potions**. Inventory items remain inspectable.
 
-Farming and Endgame show unidentified Rare equipment except Short Bow, Hunter’s Bow, Long Bow and Composite Bow. Once identified, items are selected by relevant combinations for their category. Endgame applies its 90% requirement when the filter can grade the roll reliably.
+Farming and Endgame show unidentified Rare equipment except ordinary Normal physical weapons. Once identified, items are selected by relevant combinations for their category. Endgame applies its 90% requirement when the filter can grade the roll reliably.
 
 Farming/Endgame hide ordinary HP/MP potions, cold/gas/fire throwing potions and player ears. Endgame also hides ordinary chest keys. Both retain protected boss keys and special materials. Farming keeps all Set items; Endgame selects useful higher-tier candidates and handles ambiguous unidentified variants conservatively.
 
@@ -80,7 +80,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.98** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.99** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
 
 ## Lietuviškai
@@ -105,7 +105,7 @@ Kainos automatiškai atnaujinamos kiekvieną **penktadienį 12:00 Lietuvos laiku
 
 **Visuose lygiuose rodomi:** visi Unique grail kolekcijai, jau pagaminti oranžiniai Crafted, runos, charmai, jewels, saugomi PD2 mapai/medžiagos/fragmentai/boss ingredientai/socket įrankiai, abu Rejuvenation ir **Antidote potionai**. Inventoriuje daiktai neslepiami.
 
-Farming ir Endgame rodo neidentifikuotą Rare įrangą, išskyrus Short Bow, Hunter’s Bow, Long Bow ir Composite Bow. Identifikavus atrenkami įrangos kategorijai naudingi bonusų deriniai. Endgame 90 % riba taikoma, kai filtras gali patikimai įvertinti roll.
+Farming ir Endgame rodo neidentifikuotą Rare įrangą, išskyrus paprastus Normal fizinės žalos ginklus. Identifikavus atrenkami įrangos kategorijai naudingi bonusų deriniai. Endgame 90 % riba taikoma, kai filtras gali patikimai įvertinti roll.
 
 Farming/Endgame slepia įprastus HP/MP, cold/gas/fire throwing potionus ir player ears. Endgame papildomai slepia įprastus chest keys. Boss raktai ir saugomos medžiagos išlieka. Farming rodo visus Set; Endgame atrenka naudingus aukštesnio lygio kandidatus, o neaiškius neidentifikuotus variantus vertina atsargiai.
 
@@ -163,7 +163,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.98**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.99**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
 

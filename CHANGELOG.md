@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.99 — Stricter Rare selection while farming
+
+- Farming and Endgame skip unidentified ordinary Normal physical weapons. Unidentified rings and amulets remain visible. Farming requires stronger supporting bonuses on identified Rare jewelry.
+
 ### v1.2.98 — Low damage Normal bows
 
 - Farming and Endgame hide unidentified Rare Short Bows, Hunter’s Bows, Long Bows and Composite Bows. Identified bows are assessed by their bonuses.
@@ -360,6 +364,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.99 — Griežtesnė Rare atranka per Farming
+
+- Farming ir Endgame slepia neidentifikuotus paprastus Normal fizinės žalos ginklus. Neidentifikuoti žiedai ir amuletai lieka matomi. Identifikuotai Rare juvelyrikai per Farming reikia stipresnių papildomų bonusų.
 
 ### v1.2.98 — Silpnos Normal lankų bazės
 
