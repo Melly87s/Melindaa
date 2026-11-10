@@ -192,9 +192,9 @@ Wirt’s Leg and Stamina are visible at every strictness level. Stamina stays vi
 
 Wirt’s Leg ir Stamina matomi visuose strictness lygiuose. Stamina matoma visuose lygiuose ir ant žemės rodoma mėlyna spalva. Identify ir Town Portal scrollai turi skirtingas spalvas. Socketų receptai turi antraštę Socketing. Žyma Possible merc RW rodoma ant žemės ir tinkamoms mišrios paskirties bazėms.
 
-Inventory runeword recipes stay available for eligible bases even when their ground drops are hidden in Endgame. Runeword names use Unique gold, with the rune sequence next to each name. Bind Increase Filter Level and Decrease Filter Level to Numpad + and − to compare recommendations while hovering.
+Hover over an eligible item in your inventory and lower the filter level to see a broader selection of compatible runewords. From Farming onward, the tooltip focuses on advanced recipes. Runeword names are gold and show the rune order. Bind Increase Filter Level and Decrease Filter Level to Numpad + and − to compare recommendations while hovering.
 
-Tinkamos bazės inventoriuje rodo runeword receptus, net jei Endgame jų nerodo ant žemės. Runeword pavadinimas auksinis kaip Unique, o šalia jo rodoma runų seka. Priskirk Increase Filter Level ir Decrease Filter Level prie Numpad + ir −, tada užvedęs pelę keisk lygį ir palygink rekomendacijas.
+Užvesk pelę ant tinkamos bazės inventoriuje ir sumažink filtro griežtumą, kad pamatytum daugiau jai tinkamų runeword receptų. Nuo Farming rodomi atrinkti pažangesni receptai. Runeword pavadinimas auksinis, o šalia jo rodoma runų seka. Priskirk Increase Filter Level ir Decrease Filter Level prie Numpad + ir −, kad galėtum palyginti receptus laikydamas pelę ant daikto.
 
 ### PD2 item guides / PD2 daiktų paskirtis
 

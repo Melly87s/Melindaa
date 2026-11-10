@@ -26,6 +26,8 @@ All profiles keep selected ilvl 85+ Magic bases for Perfect-gem crafting. Orange
 
 ### Runeword bases
 
+Lower filter levels show a broader selection of compatible runewords when you hover over a base in your inventory. Farming and Endgame focus on advanced recipes.
+
 From Farming, a base must suit Melindaa's advanced-recipe selection and meet its relevant quality requirements. Advanced recipes here use a Pul-or-later rune; this is a selection boundary, not a market-value claim. Starter-only bases, including those only useful for Lore, no longer qualify. Selected low-requirement caster/buff bases remain useful exceptions, including CTA swords and HOTO flails.
 
 Endgame additionally requires maximum relevant base bonuses and either no sockets or the exact count for an approved recipe. Relevant maxima depend on the item: enhanced damage/defense, class-skill properties or Paladin automagic where applicable. This does not promise a perfect combination of every possible stat. A high item level alone does not qualify a base.
@@ -67,6 +69,8 @@ Identifikavus Farming vertina kategorijai naudingus derinius, ne universalų sav
 Visi profiliai rodo atrinktas ilvl 85+ mėlynas bazes Perfect gemų receptams. Oranžinė [Gem Crafting Base] žyma matoma ant žemės ir inventoriaus apraše. Apraše pateiktos septynios Perfect gemo ir runos poros tam daikto tipui. Kiekvienam receptui dar reikia daikto ir Jewel. Farming with Blue atrenka naudingus Magic derinius ir perspektyvias neidentifikuotas bazes. Farming Gem Crafting ir Endgame iš Magic įrangos bei juvelyrikos rodo pažymėtas craft bazes. Charmai, jewels ir saugomi PD2 daiktai lieka matomi. Abu Farming profiliai naudoja tą pačią Rare, Set ir RW bazių atranką. Visi pagaminti oranžiniai crafted daiktai matomi visuose lygiuose.
 
 ### Runeword bazės
+
+Užvedus pelę ant bazės inventoriuje, žemesni filtro lygiai rodo platesnį tinkamų runeword receptų pasirinkimą. Farming ir Endgame rodo atrinktus pažangesnius receptus.
 
 Nuo Farming bazė turi tikti mūsų pažangių receptų atrankai ir atitikti aktualią kokybę. Šiai atrankai pažangus receptas naudoja Pul arba vėlesnę runą; tai atrankos riba, ne rinkos kainos teiginys. Tik starter receptams, pvz., Lore, tinkamos bazės neberodomos. Paliekamos naudingos žemų reikalavimų caster/buff išimtys, įskaitant CTA kardus ir HOTO flailus.
 
