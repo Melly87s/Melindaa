@@ -8,6 +8,11 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.94 — Find marker and melee base prices
+
+- Uses ⚜ in ground and inventory names for high runes, map orbs, the four Token essences, strong identified Rare items and high-value Unique/Set items.
+- Melee base price matching accepts the inherent splash modifier. Socketed and unsocketed listings remain separate.
+
 ### v1.2.93 — Essence colors
 
 - The four Token of Absolution essences use their own colors and a ⚜ mark on the ground and in inventory.
@@ -338,6 +343,11 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.94 — Radinio žyma ir artimos kovos bazių kainos
+
+- ⚜ žyma ant žemės ir inventoriuje rodoma prie aukštų runų, map orbų, keturių Token esencijų, stiprių identifikuotų Rare ir vertingų Unique/Set daiktų.
+- Artimos kovos bazių kainoms atpažįstamas įgimtas splash bonusas. Bazės su lizdais ir be jų vertinamos atskirai.
 
 ### v1.2.93 — Esencijų spalvos
 
