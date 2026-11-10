@@ -8,6 +8,11 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.96 — Grand Matron Bow and Owned label
+
+- Grand Matron Bow requires at least 5% ED in Farming and 20% ED with +3 Bow Skills in Endgame. Market samples separate Bow Skills, ED, attack rating and socket count.
+- The inventory title uses a short [Owned] prefix so it stays visible alongside the item name.
+
 ### v1.2.95 — Unsocketed Crystal Sword price
 
 - Shows the plain unsocketed Crystal Sword asking price with its listing count, including when only one listing is available. Socketed variants use separate samples.
@@ -347,6 +352,11 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.96 — Grand Matron Bow ir Owned žyma
+
+- Grand Matron Bow reikia bent 5 % ED per Farming ir 20 % ED su +3 Bow Skills per Endgame. Kainų imtys atskiriamos pagal Bow Skills, ED, Attack Rating ir lizdų skaičių.
+- Inventoriaus pavadinimo pradžioje rodoma trumpa [Owned] žyma, kad ji tilptų šalia daikto vardo.
 
 ### v1.2.95 — Crystal Sword kaina be lizdų
 
