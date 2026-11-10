@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.93 — Essence colors
+
+- The four Token of Absolution essences use their own colors and a ⚜ mark on the ground and in inventory.
+
 ### v1.2.92 — Socket counts beside item names
 
 - Socketed items show their actual socket count beside the inventory name, for example [4].
@@ -334,6 +338,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.93 — Esencijų spalvos
+
+- Keturios Token of Absolution esencijos ant žemės ir inventoriuje rodomos savo spalvomis su ⚜ ženklu.
 
 ### v1.2.92 — Lizdų skaičius prie daikto vardo
 

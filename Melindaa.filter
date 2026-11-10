@@ -1,4 +1,4 @@
-// Melindaa v1.2.92 | softcore ladder
+// Melindaa v1.2.93 | softcore ladder
 // Copyright (c) 2026 Melinda Kiela. Original Melindaa contributions only.
 // Official release: https://github.com/Melly87s/Melindaa
 // Melindaa selection engine; recipes derived from installed PD2 game tables.
@@ -88,7 +88,7 @@ Alias[K95601675FE413E]: %GRAY%%GOLD%[4s]
 Alias[K93D4197CD103C4]: %GRAY%%GOLD%[5s]
 Alias[KE67270F410D1C7]: %GRAY%%GOLD%[6s]
 Alias[K4EE53F763F6EE4]: Match sockets.
-Alias[K587A6DA53AD384]: PD2 Trader | 2026-11-09 | Melindaa v1.2.92
+Alias[K587A6DA53AD384]: PD2 Trader | 2026-11-09 | Melindaa v1.2.93
 ItemDisplayFilterName[]: Normal (all items)
 ItemDisplayFilterName[]: Nightmare (all items)
 ItemDisplayFilterName[]: Hell (Magic/Rare: broad; all Unique/Set; Flawless+Perf gems)
@@ -613,6 +613,10 @@ ItemDisplay[GROUND RARE jew]: %TEAL%⚝ %YELLOW%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[GROUND UNI jew]: %TEAL%⚝ %GOLD%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[GROUND CRAFT jew]: %TEAL%⚝ %ORANGE%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[!GROUND SOCK>0]: %NAME% %TEAL%[%SOCKETS%]{%NAME%}%CONTINUE%
+ItemDisplay[tes]: %BLUE%⚜ %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[ceh]: %YELLOW%⚜ %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[bet]: %RED%⚜ %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[fed]: %GREEN%⚜ %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[GROUND GEM=1 GEMTYPE=1 QTY<2]: %PURPLE%⌑ %PURPLE%Chipped Amethyst{%NAME%}%CONTINUE%
 ItemDisplay[GROUND GEM=1 GEMTYPE=1 QTY>1]: %PURPLE%⌑ %PURPLE%Chipped Amethyst{%NAME%}%CONTINUE%
 ItemDisplay[GROUND GEM=1 GEMTYPE=2 QTY<2]: %WHITE%⌑ %WHITE%Chipped Diamond{%NAME%}%CONTINUE%
@@ -698,8 +702,8 @@ ItemDisplay[GROUND vps]: %BLUE%Stamina{%NAME%}%CONTINUE%
 ItemDisplay[GROUND isc]: %YELLOW%Identify Scroll{%NAME%}%CONTINUE%
 ItemDisplay[GROUND tsc]: %TEAL%Town Portal Scroll{%NAME%}%CONTINUE%
 ItemDisplay[GROUND !(GOLD>0) !(7b8 OR 7bk OR 7gl OR 7ja OR 7pi OR 7s7 OR 7ta OR 7tk OR 7ts OR 9b8 OR 9bk OR 9gl OR 9ja OR 9pi OR 9s9 OR 9ta OR 9tk OR 9ts OR QUIVER OR am5 OR ama OR amf OR aqv OR aqv2 OR aqv3 OR bal OR bkf OR cqv OR cqv2 OR cqv3 OR glv OR jav OR pil OR ssp OR tax OR tkf OR tsp) QTY>1]: %GRAY%%QTY%x %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GOLD%Melindaa filter loaded v1.2.92}%CONTINUE%
-ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GREEN%Filter updated: 2026-11-10 18:08 LT}%CONTINUE%
+ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GOLD%Melindaa filter loaded v1.2.93}%CONTINUE%
+ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GREEN%Filter updated: 2026-11-10 18:12 LT}%CONTINUE%
 ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%WHITE%Baseline prices: 2026-11-09}%CONTINUE%
 ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GRAY%Asking prices may be unrealistic; not guaranteed sales.}%CONTINUE%
 ItemDisplay[box FILTLVL=1]: %NAME%{%NAME%%NL%%GOLD%Profile: 1. Normal}%CONTINUE%
