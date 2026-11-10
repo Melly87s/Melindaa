@@ -2,7 +2,7 @@
 
 ## English
 
-Current policy: **v1.2.91**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming Gem Crafting and Endgame. See the [profile table and installation guide](./README.md).
+Current policy: **v1.2.92**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming Gem Crafting and Endgame. See the [profile table and installation guide](./README.md).
 
 ### Permanent visibility
 
@@ -44,7 +44,7 @@ Repeated expressions are compiled through shared named formulas; RW eligibility 
 
 ## Lietuviškai
 
-Dabartinė politika: **v1.2.91**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming Gem Crafting ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
+Dabartinė politika: **v1.2.92**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming Gem Crafting ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
 
 ### Kas visada matoma
 
