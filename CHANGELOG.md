@@ -8,6 +8,11 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.89 — Clearer Farming profile and charm labels
+
+- Renamed level 6 to Farming Craft Bases. Both Farming profiles keep selected Magic craft bases, while level 5 also shows strong Magic gear.
+- Identified charms show flat Defense and Magic Skill Damage on the ground when present.
+
 ### v1.2.88 — Gem Craft Base label
 
 - The orange [Gem Craft Base] label identifies crafting bases. The tooltip names the Perfect Gems required by the recipes.
@@ -316,6 +321,11 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.89 — Aiškesnis Farming profilis ir charmų žymos
+
+- 6 lygis pervadintas į Farming Craft Bases. Abu Farming profiliai rodo atrinktas Magic craft bazes, o 5 lygis papildomai rodo stiprią Magic įrangą.
+- Identifikuoti charmai ant žemės rodo Defense ir Magic Skill Damage, kai turi šiuos bonusus.
 
 ### v1.2.88 — Žyma „Gem Craft Base“
 
