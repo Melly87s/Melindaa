@@ -8,6 +8,14 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.87 — Rune prices for singles and stacks
+
+- Improved per-rune estimates by reading explicit bundle sizes and recognizing single-rune Pul–Gul listings. Ambiguous offers are skipped. Rune stacks show the estimate per rune and the tooltip identifies runes with insufficient market data.
+
+### v1.2.86 — More rune prices
+
+- Added official-market El–Gul per-rune asking averages when enough usable listings exist. Known stack totals are divided by their quantity. Ground labels use one currency and tooltips show HR and WSS.
+
 ### v1.2.85 — Perfect Gem craft recipes on items
 
 - Renamed the tag to [Perf Gem craft base] and used the orange Crafted color. Item tooltips list the applicable Perfect gem and rune pairs.
@@ -304,6 +312,14 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.87 — Pavienių runų ir krūvelių kainos
+
+- Vienos runos įverčiui naudojamas skelbime nurodytas krūvelės dydis ir pavienių Pul–Gul runų pasiūlymai. Dviprasmiški pasiūlymai praleidžiami. Prie krūvelės rodoma vienos runos kaina, o kai duomenų trūksta, tai nurodoma apraše.
+
+### v1.2.86 — Daugiau runų kainų
+
+- El–Gul runoms rodomas vienos runos prašomų kainų vidurkis, kai pakanka tinkamų oficialios prekyvietės skelbimų. Krūvelės kaina dalijama iš žinomo kiekio. Ant žemės rodoma viena valiuta, apraše pateikiami HR ir WSS.
 
 ### v1.2.85 — Perfect Gem craft receptai ant daiktų
 
