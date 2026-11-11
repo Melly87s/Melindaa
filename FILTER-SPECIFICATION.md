@@ -2,6 +2,8 @@
 
 ## English
 
+Displayed prices round to the nearest whole WSS. Prices below 1 WSS show as <1 WSS.
+
 Grand Charms with only added Lightning Damage require a price sample for the exact roll.
 
 Skiller ground labels start with [GC], followed by the class, skill tree and any additional modifier. Every ethereal item name starts with [ETH] on the ground and in inventory.
@@ -10,7 +12,7 @@ Eligible runeword bases show Perfect RW Base or Perfect Merc RW Base on the grou
 
 Ground labels for identified skillers include the class, skill-tree bonus and any extra modifier.
 
-Current policy: **v1.2.108**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
+Current policy: **v1.2.109**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
 
 ### Permanent visibility
 
@@ -56,6 +58,8 @@ Repeated expressions are compiled through shared named formulas; RW eligibility 
 
 ## Lietuviškai
 
+Rodomos kainos apvalinamos iki artimiausio viso WSS. Mažesnės kainos rodomos kaip <1 WSS.
+
 Grand Charm, kurio vienintelis bonusas yra Lightning Damage, kainos įvertis rodomas tik turint pakankamai to paties rollo skelbimų.
 
 Skilerių užrašai ant žemės prasideda [GC], po jo rodoma klasė, įgūdžių šaka ir papildomas modas, jei yra. Visų ethereal daiktų pavadinimų priekyje ant žemės ir inventoriuje rodoma [ETH].
@@ -64,7 +68,7 @@ Tinkamos runeword bazės ant žemės ir inventoriuje žymimos Perfect RW Base ar
 
 Ant žemės prie identifikuotų skilerių rodoma klasė, įgūdžių šaka ir papildomas modas, jei yra.
 
-Dabartinė politika: **v1.2.108**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
+Dabartinė politika: **v1.2.109**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
 
 ### Kas visada matoma
 

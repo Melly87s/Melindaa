@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.109 — Price display precision
+
+- Displayed prices round to the nearest whole WSS. Prices below 1 WSS show as <1 WSS.
+
 ### v1.2.108 — Stamina Potion visibility
 
 - Stamina Potions show on the ground through Nightmare.
@@ -400,6 +404,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.109 — Kainų rodymo tikslumas
+
+- Rodomos kainos apvalinamos iki artimiausio viso WSS. Mažesnės kainos rodomos kaip <1 WSS.
 
 ### v1.2.108 — Stamina Potion rodymas
 
