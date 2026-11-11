@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.103 — Skiller ground labels
+
+- Identified skillers show their class, skill-tree bonus and any extra modifier on the ground.
+
 ### v1.2.102 — Ready runeword bases in Endgame
 
 - Endgame shows compatible bases with the exact socket count for a selected runeword, including five-socket Crystal Swords for Call to Arms. Unsocketed bases still need perfect relevant bonuses.
@@ -376,6 +380,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.103 — Skilerių užrašai ant žemės
+
+- Ant žemės prie identifikuotų skilerių rodoma klasė, įgūdžių šaka ir papildomas modas, jei yra.
 
 ### v1.2.102 — Paruoštos runeword bazės per Endgame
 
