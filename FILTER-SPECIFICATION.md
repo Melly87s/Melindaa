@@ -2,9 +2,11 @@
 
 ## English
 
+Eligible runeword bases show Perfect RW Base or Perfect Merc RW Base on the ground and in inventory. The grade ignores socket count. Merc bases require ETH and maximum enhanced damage or enhanced defense. Player bases use maximum relevant damage, defense, class skills or shield bonuses. The label grades relevant bonuses; recipe socket requirements still apply.
+
 Ground labels for identified skillers include the class, skill-tree bonus and any extra modifier.
 
-Current policy: **v1.2.104**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
+Current policy: **v1.2.105**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
 
 ### Permanent visibility
 
@@ -50,9 +52,11 @@ Repeated expressions are compiled through shared named formulas; RW eligibility 
 
 ## Lietuviškai
 
+Tinkamos runeword bazės ant žemės ir inventoriuje žymimos Perfect RW Base arba Perfect Merc RW Base. Lizdų skaičius žymos nenulemia. Merc bazėms būtinas ETH ir maksimalus Enhanced Damage arba Enhanced Defense. Žaidėjo bazėms vertinami maksimalūs aktualūs damage, defense, klasės skills arba skydo bonusai. Žyma vertina aktualius bonusus; receptui reikalingi lizdai nurodomi atskirai.
+
 Ant žemės prie identifikuotų skilerių rodoma klasė, įgūdžių šaka ir papildomas modas, jei yra.
 
-Dabartinė politika: **v1.2.104**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
+Dabartinė politika: **v1.2.105**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
 
 ### Kas visada matoma
 

@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.105 — Perfect runeword bases
+
+- Eligible runeword bases show Perfect RW Base or Perfect Merc RW Base on the ground and in inventory. The grade ignores socket count. Merc bases require ETH and maximum enhanced damage or enhanced defense. Player bases use maximum relevant damage, defense, class skills or shield bonuses. The label grades relevant bonuses; recipe socket requirements still apply.
+
 ### v1.2.104 — Ground gold thresholds
 
 - Gold piles show from 2,500 in Hell, 4,000 in Baal Runs, 5,000 in either Farming mode and 10,000 in Endgame.
@@ -384,6 +388,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.105 — Tobulos runeword bazės
+
+- Tinkamos runeword bazės ant žemės ir inventoriuje žymimos Perfect RW Base arba Perfect Merc RW Base. Lizdų skaičius žymos nenulemia. Merc bazėms būtinas ETH ir maksimalus Enhanced Damage arba Enhanced Defense. Žaidėjo bazėms vertinami maksimalūs aktualūs damage, defense, klasės skills arba skydo bonusai. Žyma vertina aktualius bonusus; receptui reikalingi lizdai nurodomi atskirai.
 
 ### v1.2.104 — Aukso krūvų rodymo ribos
 

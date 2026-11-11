@@ -1,6 +1,8 @@
-# Melindaa v1.2.104
+# Melindaa v1.2.105
 
 ## English
+
+Eligible runeword bases show Perfect RW Base or Perfect Merc RW Base on the ground and in inventory. The grade ignores socket count. Merc bases require ETH and maximum enhanced damage or enhanced defense. Player bases use maximum relevant damage, defense, class skills or shield bonuses. The label grades relevant bonuses; recipe socket requirements still apply.
 
 Project Diablo 2 loot filter with our own equipment selection, dated HR/WSS estimates, supported ROLL ratings, actual ground bonuses, crafting help and class-aware runeword recommendations.
 
@@ -82,10 +84,12 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.104** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.105** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
 
 ## Lietuviškai
+
+Tinkamos runeword bazės ant žemės ir inventoriuje žymimos Perfect RW Base arba Perfect Merc RW Base. Lizdų skaičius žymos nenulemia. Merc bazėms būtinas ETH ir maksimalus Enhanced Damage arba Enhanced Defense. Žaidėjo bazėms vertinami maksimalūs aktualūs damage, defense, klasės skills arba skydo bonusai. Žyma vertina aktualius bonusus; receptui reikalingi lizdai nurodomi atskirai.
 
 Project Diablo 2 filtras su mūsų sukurta įrangos atranka, datuotais HR/WSS kainų įverčiais, palaikomais ROLL vertinimais, tikrais bonusais ant žemės, craft pagalba ir klasei pritaikytomis runeword rekomendacijomis.
 
@@ -167,7 +171,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.104**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.105**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
 
