@@ -1,4 +1,4 @@
-# Melindaa v1.2.103
+# Melindaa v1.2.104
 
 ## English
 
@@ -14,11 +14,11 @@ Market price refresh runs every **Friday at 12:00 (Vilnius time)**. Each success
 | --- | --- | --- |
 | 1 | Normal | Shows all items. |
 | 2 | Nightmare | Shows all items. |
-| 3 | Hell | Broad useful Magic/Rare candidates and cautious unidentified potential. Flawless and Perfect gems. Hides Thawing, Oil and loose ID/TP scrolls. |
-| 4 | Baal Runs | Tighter equipment and plain-base selection than Hell. Flawless and Perfect gems. Useful crafting candidates can still appear. |
-| 5 | Farming with Blue | Selected craft bases, useful Magic combinations and unidentified candidates: skill + speed/cast, socket/block/life and strong weapons. Unidentified throwing knives/axes/javelins require ETH elite bases; non-ETH or normal/exceptional blue throwing drops are hidden. Useful Rare; all Unique/Set/Craft. Good advanced RW bases and CTA/HOTO exceptions. Perfect gems; gold 2,000+. |
-| 6 | Farming without Blue | Hides Magic equipment and jewelry, including craft bases. All charms, jewels and PD2 specials remain. Same Rare/Set/RW selection as Farming with Blue. Perfect gems; gold 3,000+. |
-| 7 | Endgame | Hides Magic equipment and jewelry, including craft bases. Stronger identified Rare and selected useful Set with supported rolls of 90%+. All Unique and Crafted items remain. Most unidentified Rare equipment remains. Runeword bases qualify with the exact sockets for a selected recipe or perfect relevant bonuses on an unsocketed base. Perfect gems and gold 4,000+. |
+| 3 | Hell | Broad useful Magic/Rare candidates and cautious unidentified potential. Flawless and Perfect gems. Hides Thawing, Oil and loose ID/TP scrolls. Gold 2,500+. |
+| 4 | Baal Runs | Tighter equipment and plain-base selection than Hell. Flawless and Perfect gems. Useful crafting candidates can still appear. Gold 4,000+. |
+| 5 | Farming with Blue | Selected craft bases, useful Magic combinations and unidentified candidates: skill + speed/cast, socket/block/life and strong weapons. Unidentified throwing knives/axes/javelins require ETH elite bases; non-ETH or normal/exceptional blue throwing drops are hidden. Useful Rare; all Unique/Set/Craft. Good advanced RW bases and CTA/HOTO exceptions. Perfect gems; gold 5,000+. |
+| 6 | Farming without Blue | Hides Magic equipment and jewelry, including craft bases. All charms, jewels and PD2 specials remain. Same Rare/Set/RW selection as Farming with Blue. Perfect gems; gold 5,000+. |
+| 7 | Endgame | Hides Magic equipment and jewelry, including craft bases. Stronger identified Rare and selected useful Set with supported rolls of 90%+. All Unique and Crafted items remain. Most unidentified Rare equipment remains. Runeword bases qualify with the exact sockets for a selected recipe or perfect relevant bonuses on an unsocketed base. Perfect gems and gold 10,000+. |
 
 **Always visible at every level:** Wirt’s Leg, all Unique items for grail collecting, completed orange Crafted items, runes, charms, jewels, protected PD2 maps/materials/fragments/boss ingredients/socket tools, both Rejuvenation potions and **Antidote potions**. Inventory items remain inspectable.
 
@@ -82,7 +82,7 @@ Non-Unique/Set candidates use the eligible **Larzuk's Puzzlepiece** recommendati
 
 1. Extract the latest ZIP/RAR and copy **Melindaa.filter** into **C:\Diablo II\ProjectD2\filters\local** (adjust for your installation).
 2. Choose **Item Filter Profiles → Local Filter → Melindaa.filter → Save** in the PD2 launcher.
-3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.103** in the Horadric Cube description.
+3. Start/restart PD2, or use your configured **Reload Loot Filter** control. Check **v1.2.104** in the Horadric Cube description.
 4. Change strictness with **Increase Filter Level / Decrease Filter Level** under **Esc → Options → Configure Controls**. The filter does not bind keys automatically.
 
 ## Lietuviškai
@@ -99,11 +99,11 @@ Kainos automatiškai atnaujinamos kiekvieną **penktadienį 12:00 Lietuvos laiku
 | --- | --- | --- |
 | 1 | Normal | Rodo visus daiktus. |
 | 2 | Nightmare | Rodo visus daiktus. |
-| 3 | Hell | Platesnė naudingų Magic/Rare ir neidentifikuotų kandidatų atranka. Flawless ir Perfect gemai. Slepia Thawing, Oil ir palaidus ID/TP scrolls. |
-| 4 | Baal Runs | Griežtesnė įrangos ir paprastų bazių atranka negu Hell. Flawless ir Perfect gemai. Naudingi craft kandidatai dar gali būti rodomi. |
-| 5 | Farming with Blue | Atrinktos craft bazės, naudingi Magic deriniai ir neidentifikuoti kandidatai: skill + speed/cast, socket/block/life bei stiprūs ginklai. Neidentifikuoti mėlyni throwing knives/axes/javelins paliekami tik ETH elite bazėse; ne-ETH bei normal/exceptional throwing slepiami. Naudingi Rare; visi Unique/Set/Craft. Geros pažangių RW bazės ir CTA/HOTO išimtys. Tik Perfect gemai; gold nuo 2 000. |
-| 6 | Farming without Blue | Slepia Magic įrangą ir juvelyriką, įskaitant craft bazes. Visi charmai, jewels ir PD2 specialūs daiktai lieka. Rare/Set/RW atranka tokia pati kaip Farming with Blue. Perfect gemai ir gold nuo 3 000. |
-| 7 | Endgame | Slepia Magic įrangą ir juvelyriką, įskaitant craft bazes. Stipresni identifikuoti Rare ir atrinkti naudingi Set su palaikomu 90 % ar aukštesniu roll. Visi Unique ir Crafted bei dauguma neidentifikuotų Rare lieka. RW bazėms tinka tikslus lizdų skaičius atrinktam receptui arba maksimalūs aktualūs bonusai, jei bazė be lizdų. Perfect gemai ir gold nuo 4 000. |
+| 3 | Hell | Platesnė naudingų Magic/Rare ir neidentifikuotų kandidatų atranka. Flawless ir Perfect gemai. Slepia Thawing, Oil ir palaidus ID/TP scrolls. Gold nuo 2 500. |
+| 4 | Baal Runs | Griežtesnė įrangos ir paprastų bazių atranka negu Hell. Flawless ir Perfect gemai. Naudingi craft kandidatai dar gali būti rodomi. Gold nuo 4 000. |
+| 5 | Farming with Blue | Atrinktos craft bazės, naudingi Magic deriniai ir neidentifikuoti kandidatai: skill + speed/cast, socket/block/life bei stiprūs ginklai. Neidentifikuoti mėlyni throwing knives/axes/javelins paliekami tik ETH elite bazėse; ne-ETH bei normal/exceptional throwing slepiami. Naudingi Rare; visi Unique/Set/Craft. Geros pažangių RW bazės ir CTA/HOTO išimtys. Tik Perfect gemai; gold nuo 5 000. |
+| 6 | Farming without Blue | Slepia Magic įrangą ir juvelyriką, įskaitant craft bazes. Visi charmai, jewels ir PD2 specialūs daiktai lieka. Rare/Set/RW atranka tokia pati kaip Farming with Blue. Perfect gemai ir gold nuo 5 000. |
+| 7 | Endgame | Slepia Magic įrangą ir juvelyriką, įskaitant craft bazes. Stipresni identifikuoti Rare ir atrinkti naudingi Set su palaikomu 90 % ar aukštesniu roll. Visi Unique ir Crafted bei dauguma neidentifikuotų Rare lieka. RW bazėms tinka tikslus lizdų skaičius atrinktam receptui arba maksimalūs aktualūs bonusai, jei bazė be lizdų. Perfect gemai ir gold nuo 10 000. |
 
 **Visuose lygiuose rodomi:** visi Unique grail kolekcijai, jau pagaminti oranžiniai Crafted, runos, charmai, jewels, saugomi PD2 mapai/medžiagos/fragmentai/boss ingredientai/socket įrankiai, abu Rejuvenation ir **Antidote potionai**. Inventoriuje daiktai neslepiami.
 
@@ -167,7 +167,7 @@ Ne Unique/Set kandidatams rekomenduojamas tinkamas **Larzuk's Puzzlepiece**. Rez
 
 1. Išarchyvuok naujausią ZIP/RAR ir nukopijuok **Melindaa.filter** į **C:\Diablo II\ProjectD2\filters\local** (arba savo žaidimo vietą).
 2. PD2 launcheryje pasirink **Item Filter Profiles → Local Filter → Melindaa.filter → Save**.
-3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.103**.
+3. Paleisk žaidimą iš naujo arba naudok savo nustatytą **Reload Loot Filter** valdymą. Kubo aprašyme patikrink **v1.2.104**.
 4. Strictness keičiamas **Increase Filter Level / Decrease Filter Level**, esančiais **Esc → Options → Configure Controls**. Filtras pats klavišų nepriskiria.
 
 

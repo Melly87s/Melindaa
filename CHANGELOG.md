@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.104 — Ground gold thresholds
+
+- Gold piles show from 2,500 in Hell, 4,000 in Baal Runs, 5,000 in either Farming mode and 10,000 in Endgame.
+
 ### v1.2.103 — Skiller ground labels
 
 - Identified skillers show their class, skill-tree bonus and any extra modifier on the ground.
@@ -380,6 +384,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.104 — Aukso krūvų rodymo ribos
+
+- Aukso krūvos rodomos nuo 2 500 Hell, nuo 4 000 Baal Runs, nuo 5 000 abiejuose Farming lygiuose ir nuo 10 000 Endgame.
 
 ### v1.2.103 — Skilerių užrašai ant žemės
 

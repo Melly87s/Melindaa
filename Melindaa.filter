@@ -1,4 +1,4 @@
-// Melindaa v1.2.103 | softcore ladder
+// Melindaa v1.2.104 | softcore ladder
 // Copyright (c) 2026 Melinda Kiela. Original Melindaa contributions only.
 // Official release: https://github.com/Melly87s/Melindaa
 // Melindaa selection engine; recipes derived from installed PD2 game tables.
@@ -88,7 +88,7 @@ Alias[K95601675FE413E]: %GRAY%%GOLD%[4s]
 Alias[K93D4197CD103C4]: %GRAY%%GOLD%[5s]
 Alias[KE67270F410D1C7]: %GRAY%%GOLD%[6s]
 Alias[K4EE53F763F6EE4]: Match sockets.
-Alias[K587A6DA53AD384]: PD2 Trader | 2026-11-09 | Melindaa v1.2.103
+Alias[K587A6DA53AD384]: PD2 Trader | 2026-11-09 | Melindaa v1.2.104
 ItemDisplayFilterName[]: Normal (all items)
 ItemDisplayFilterName[]: Nightmare (all items)
 ItemDisplayFilterName[]: Hell (Magic/Rare: broad; all Unique/Set; Flawless+Perf gems)
@@ -127,11 +127,11 @@ ItemDisplay[GROUND FILTLVL~6-7 MAG (WEAPON OR ARMOR OR QUIVER OR rin OR amu OR K
 ItemDisplay[GROUND FILTLVL=5 MAG !KE74E937A810AC0 KA7F4F352BFD53B !((ID KC4778BFA6F3CCA) OR (!ID K0CDF3060D79018)) !K589BDBF30CD7B5]:
 ItemDisplay[GROUND FILTLVL~5-6 RARE KA7F4F352BFD53B ID !KFA6DF37493F5FB !K589BDBF30CD7B5]:
 ItemDisplay[GROUND FILTLVL=7 RARE KA7F4F352BFD53B ID !K6F73E2130E7A13 !K589BDBF30CD7B5]:
-ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL=3 GOLD>0 GOLD<350 !K589BDBF30CD7B5]:
-ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL=4 GOLD>0 GOLD<800 !K589BDBF30CD7B5]:
-ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL=5 GOLD>0 GOLD<2000 !K589BDBF30CD7B5]:
-ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL=6 GOLD>0 GOLD<3000 !K589BDBF30CD7B5]:
-ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL=7 GOLD>0 GOLD<4000 !K589BDBF30CD7B5]:
+ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL=3 GOLD>0 GOLD<2500 !K589BDBF30CD7B5]:
+ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL=4 GOLD>0 GOLD<4000 !K589BDBF30CD7B5]:
+ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL=5 GOLD>0 GOLD<5000 !K589BDBF30CD7B5]:
+ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL=6 GOLD>0 GOLD<5000 !K589BDBF30CD7B5]:
+ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL=7 GOLD>0 GOLD<10000 !K589BDBF30CD7B5]:
 ItemDisplay[GROUND FILTLVL>4 NMAG !RW !UNI !SET (WEAPON OR ARMOR OR QUIVER) !(ass OR bbb OR bkd OR bks OR box OR d33 OR g33 OR g34 OR hdm OR hfh OR hst OR ice OR j34 OR luv OR msf OR mss OR qbr OR qey OR qf1 OR qf2 OR qhr OR tr1 OR tr2 OR vip OR xyz) !KCE3D1F13B157DF !K589BDBF30CD7B5]:
 ItemDisplay[GROUND FILTLVL>2 !UNI !SET !KE526A72C3F17B3 !KD5675A6519D82F !KE74E937A810AC0 !(ass OR bbb OR bkd OR bks OR box OR d33 OR g33 OR g34 OR hdm OR hfh OR hst OR ice OR j34 OR luv OR msf OR mss OR qbr OR qey OR qf1 OR qf2 OR qhr OR tr1 OR tr2 OR vip OR xyz) INF (WEAPON OR ARMOR OR QUIVER) !K589BDBF30CD7B5]:
 ItemDisplay[GROUND FILTLVL>2 !UNI !SET !KE526A72C3F17B3 !KD5675A6519D82F !KE74E937A810AC0 !(ass OR bbb OR bkd OR bks OR box OR d33 OR g33 OR g34 OR hdm OR hfh OR hst OR ice OR j34 OR luv OR msf OR mss OR qbr OR qey OR qf1 OR qf2 OR qhr OR tr1 OR tr2 OR vip OR xyz) FILTLVL=3 NMAG !RW ILVL<30 (WEAPON OR ARMOR OR QUIVER) !K70B9572330B242 !ETH SOCK=0 !K589BDBF30CD7B5]:
@@ -705,8 +705,8 @@ ItemDisplay[GROUND vps]: %BLUE%Stamina{%NAME%}%CONTINUE%
 ItemDisplay[GROUND isc]: %YELLOW%Identify Scroll{%NAME%}%CONTINUE%
 ItemDisplay[GROUND tsc]: %TEAL%Town Portal Scroll{%NAME%}%CONTINUE%
 ItemDisplay[GROUND !(GOLD>0) !(7b8 OR 7bk OR 7gl OR 7ja OR 7pi OR 7s7 OR 7ta OR 7tk OR 7ts OR 9b8 OR 9bk OR 9gl OR 9ja OR 9pi OR 9s9 OR 9ta OR 9tk OR 9ts OR QUIVER OR am5 OR ama OR amf OR aqv OR aqv2 OR aqv3 OR bal OR bkf OR cqv OR cqv2 OR cqv3 OR glv OR jav OR pil OR ssp OR tax OR tkf OR tsp) QTY>1]: %GRAY%%QTY%x %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GOLD%Melindaa filter loaded v1.2.103}%CONTINUE%
-ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GREEN%Filter updated: 2026-11-11 18:03 LT}%CONTINUE%
+ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GOLD%Melindaa filter loaded v1.2.104}%CONTINUE%
+ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GREEN%Filter updated: 2026-11-11 18:14 LT}%CONTINUE%
 ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%WHITE%Baseline prices: 2026-11-09}%CONTINUE%
 ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GRAY%Asking prices may be unrealistic; not guaranteed sales.}%CONTINUE%
 ItemDisplay[box FILTLVL=1]: %NAME%{%NAME%%NL%%GOLD%Profile: 1. Normal}%CONTINUE%
@@ -714,23 +714,23 @@ ItemDisplay[box FILTLVL=1]: %NAME%{%NAME%%NL%%GRAY%All items visible.}%CONTINUE%
 ItemDisplay[box FILTLVL=2]: %NAME%{%NAME%%NL%%GOLD%Profile: 2. Nightmare}%CONTINUE%
 ItemDisplay[box FILTLVL=2]: %NAME%{%NAME%%NL%%GRAY%All items visible.}%CONTINUE%
 ItemDisplay[box FILTLVL=3]: %NAME%{%NAME%%NL%%GOLD%Profile: 3. Hell}%CONTINUE%
-ItemDisplay[box FILTLVL=3]: %NAME%{%NAME%%NL%%GRAY%Broad useful Magic/Rare. Flawless+Perfect gems.}%CONTINUE%
+ItemDisplay[box FILTLVL=3]: %NAME%{%NAME%%NL%%GRAY%Broad useful Magic/Rare. Flawless+Perfect gems. Gold 2500+.}%CONTINUE%
 ItemDisplay[box FILTLVL=4]: %NAME%{%NAME%%NL%%GOLD%Profile: 4. Baal Runs}%CONTINUE%
-ItemDisplay[box FILTLVL=4]: %NAME%{%NAME%%NL%%GRAY%Tighter Magic/Rare. Flawless+Perfect gems.}%CONTINUE%
+ItemDisplay[box FILTLVL=4]: %NAME%{%NAME%%NL%%GRAY%Tighter Magic/Rare. Flawless+Perfect gems. Gold 4000+.}%CONTINUE%
 ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GOLD%Profile: 5. Farming with Blue}%CONTINUE%
 ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GRAY%Strong blues and tagged craft bases; unID throwing: ETH elite only.}%CONTINUE%
 ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GRAY%All Set; useful Rare.}%CONTINUE%
-ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GRAY%Good RW. Perf gems. Gold 2000+.}%CONTINUE%
+ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GRAY%Good RW. Perf gems. Gold 5000+.}%CONTINUE%
 ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GRAY%All Unique/Craft, runes, charms, jewels, PD2 specials and anti kept.}%CONTINUE%
 ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%GRAY%UnID Rare: skip Normal phys. weapons.}%CONTINUE%
 ItemDisplay[box FILTLVL=6]: %NAME%{%NAME%%NL%%GOLD%Profile: 6. Farming without Blue}%CONTINUE%
 ItemDisplay[box FILTLVL=6]: %NAME%{%NAME%%NL%%GRAY%Magic gear hidden. Charms/jewels kept.}%CONTINUE%
-ItemDisplay[box FILTLVL=6]: %NAME%{%NAME%%NL%%GRAY%All Set; useful Rare. Good RW. Perf gems. Gold 3000+.}%CONTINUE%
+ItemDisplay[box FILTLVL=6]: %NAME%{%NAME%%NL%%GRAY%All Set; useful Rare. Good RW. Perf gems. Gold 5000+.}%CONTINUE%
 ItemDisplay[box FILTLVL=6]: %NAME%{%NAME%%NL%%GRAY%All Unique/Craft, runes, charms, jewels, PD2 specials and anti kept.}%CONTINUE%
 ItemDisplay[box FILTLVL=6]: %NAME%{%NAME%%NL%%GRAY%UnID Rare: skip Normal phys. weapons.}%CONTINUE%
 ItemDisplay[box FILTLVL=7]: %NAME%{%NAME%%NL%%GOLD%Profile: 7. Endgame}%CONTINUE%
 ItemDisplay[box FILTLVL=7]: %NAME%{%NAME%%NL%%GRAY%Magic gear hidden.}%CONTINUE%
-ItemDisplay[box FILTLVL=7]: %NAME%{%NAME%%NL%%GRAY%Rare/Set: supported 90%+. RW: exact sockets or perfect unsocketed base. Perf gems. Gold 4000+.}%CONTINUE%
+ItemDisplay[box FILTLVL=7]: %NAME%{%NAME%%NL%%GRAY%Rare/Set: supported 90%+. RW: exact sockets or perfect unsocketed base. Perf gems. Gold 10000+.}%CONTINUE%
 ItemDisplay[box FILTLVL=7]: %NAME%{%NAME%%NL%%GRAY%All Unique/Craft, runes, charms, jewels, PD2 specials and anti kept.}%CONTINUE%
 ItemDisplay[box FILTLVL=7]: %NAME%{%NAME%%NL%%GRAY%UnID Rare: skip Normal phys. weapons.}%CONTINUE%
 ItemDisplay[box FILTLVL=0]: %NAME%{%NAME%%NL%%WHITE%Show all items}%CONTINUE%
