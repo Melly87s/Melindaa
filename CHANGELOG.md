@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.106 — Grand Charm identification
+
+- Skiller ground labels start with [GC], followed by the class, skill tree and any additional modifier. Every ethereal item name starts with [ETH] on the ground and in inventory.
+
 ### v1.2.105 — Perfect runeword bases
 
 - Eligible runeword bases show Perfect RW Base or Perfect Merc RW Base on the ground and in inventory. The grade ignores socket count. Merc bases require ETH and maximum enhanced damage or enhanced defense. Player bases use maximum relevant damage, defense, class skills or shield bonuses. The label grades relevant bonuses; recipe socket requirements still apply.
@@ -388,6 +392,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.106 — Grand Charm žyma
+
+- Skilerių užrašai ant žemės prasideda [GC], po jo rodoma klasė, įgūdžių šaka ir papildomas modas, jei yra. Visų ethereal daiktų pavadinimų priekyje ant žemės ir inventoriuje rodoma [ETH].
 
 ### v1.2.105 — Tobulos runeword bazės
 
