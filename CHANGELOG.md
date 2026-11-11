@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.108 — Stamina Potion visibility
+
+- Stamina Potions show on the ground through Nightmare.
+
 ### v1.2.107 — Lightning charm price matching
 
 - Grand Charms with only added Lightning Damage require a price sample for the exact roll.
@@ -396,6 +400,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.108 — Stamina Potion rodymas
+
+- Stamina Potion ant žemės rodoma iki Nightmare imtinai.
 
 ### v1.2.107 — Lightning charm kainų atranka
 

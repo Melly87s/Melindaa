@@ -1,4 +1,4 @@
-// Melindaa v1.2.107 | softcore ladder
+// Melindaa v1.2.108 | softcore ladder
 // Copyright (c) 2026 Melinda Kiela. Original Melindaa contributions only.
 // Official release: https://github.com/Melly87s/Melindaa
 // Melindaa selection engine; recipes derived from installed PD2 game tables.
@@ -88,7 +88,7 @@ Alias[K95601675FE413E]: %GRAY%%GOLD%[4s]
 Alias[K93D4197CD103C4]: %GRAY%%GOLD%[5s]
 Alias[KE67270F410D1C7]: %GRAY%%GOLD%[6s]
 Alias[K4EE53F763F6EE4]: Match sockets.
-Alias[K587A6DA53AD384]: PD2 Trader | 2026-11-09 | Melindaa v1.2.107
+Alias[K587A6DA53AD384]: PD2 Trader | 2026-11-09 | Melindaa v1.2.108
 ItemDisplayFilterName[]: Normal (all items)
 ItemDisplayFilterName[]: Nightmare (all items)
 ItemDisplayFilterName[]: Hell (Magic/Rare: broad; all Unique/Set; Flawless+Perf gems)
@@ -140,7 +140,7 @@ ItemDisplay[GROUND FILTLVL>2 !UNI !SET !KE526A72C3F17B3 !KD5675A6519D82F !KE74E9
 ItemDisplay[GROUND FILTLVL>2 !UNI !SET !KE526A72C3F17B3 !KD5675A6519D82F !KE74E937A810AC0 !(ass OR bbb OR bkd OR bks OR box OR d33 OR g33 OR g34 OR hdm OR hfh OR hst OR ice OR j34 OR luv OR msf OR mss OR qbr OR qey OR qf1 OR qf2 OR qhr OR tr1 OR tr2 OR vip OR xyz) FILTLVL>4 NMAG !RW (WEAPON OR ARMOR OR QUIVER) !KCE3D1F13B157DF !K589BDBF30CD7B5]:
 ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL>4 GEM>0 GEM<5 !K589BDBF30CD7B5]:
 ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL<5 GEM>0 GEM<4 !K589BDBF30CD7B5]:
-ItemDisplay[GROUND FILTLVL>2 !UNI !SET (wms OR ops) !K589BDBF30CD7B5]:
+ItemDisplay[GROUND FILTLVL>2 !UNI !SET (wms OR ops OR vps) !K589BDBF30CD7B5]:
 ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL>4 (tpcs OR tpcm OR tpcl) !K589BDBF30CD7B5]:
 ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL>4 (bpl OR bps OR hp1 OR hp2 OR hp3 OR hp4 OR hp5 OR hpf OR hpo OR mp1 OR mp2 OR mp3 OR mp4 OR mp5 OR mpf OR mpo OR pvpp OR rpl OR rps) !K589BDBF30CD7B5]:
 ItemDisplay[GROUND FILTLVL>2 !UNI !SET FILTLVL>4 (gps OR gpm OR gpl OR opm OR opl) !K589BDBF30CD7B5]:
@@ -705,8 +705,8 @@ ItemDisplay[GROUND vps]: %BLUE%Stamina{%NAME%}%CONTINUE%
 ItemDisplay[GROUND isc]: %YELLOW%Identify Scroll{%NAME%}%CONTINUE%
 ItemDisplay[GROUND tsc]: %TEAL%Town Portal Scroll{%NAME%}%CONTINUE%
 ItemDisplay[GROUND !(GOLD>0) !(7b8 OR 7bk OR 7gl OR 7ja OR 7pi OR 7s7 OR 7ta OR 7tk OR 7ts OR 9b8 OR 9bk OR 9gl OR 9ja OR 9pi OR 9s9 OR 9ta OR 9tk OR 9ts OR QUIVER OR am5 OR ama OR amf OR aqv OR aqv2 OR aqv3 OR bal OR bkf OR cqv OR cqv2 OR cqv3 OR glv OR jav OR pil OR ssp OR tax OR tkf OR tsp) QTY>1]: %GRAY%%QTY%x %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GOLD%Melindaa filter loaded v1.2.107}%CONTINUE%
-ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GREEN%Filter updated: 2026-11-11 18:45 LT}%CONTINUE%
+ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GOLD%Melindaa filter loaded v1.2.108}%CONTINUE%
+ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GREEN%Filter updated: 2026-11-11 18:56 LT}%CONTINUE%
 ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%WHITE%Baseline prices: 2026-11-09}%CONTINUE%
 ItemDisplay[box OR tbk OR ibk]: %NAME%{%NAME%%NL%%GRAY%Asking prices may be unrealistic; not guaranteed sales.}%CONTINUE%
 ItemDisplay[box FILTLVL=1]: %NAME%{%NAME%%NL%%GOLD%Profile: 1. Normal}%CONTINUE%

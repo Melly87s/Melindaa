@@ -10,7 +10,7 @@ Eligible runeword bases show Perfect RW Base or Perfect Merc RW Base on the grou
 
 Ground labels for identified skillers include the class, skill-tree bonus and any extra modifier.
 
-Current policy: **v1.2.107**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
+Current policy: **v1.2.108**, seven profiles: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue and Endgame. See the [profile table and installation guide](./README.md).
 
 ### Permanent visibility
 
@@ -46,7 +46,7 @@ Runeword names use Unique gold, with the ordered runes alongside. The inventory 
 
 ### Progression and consumables
 
-Normal/Nightmare show all items. Hell/Baal use cautious equipment guidance without a universal item-level-85 cutoff and show Flawless/Perfect gems. Farming/Endgame show only Perfect gems. Gold piles show from 2,500 in Hell, 4,000 in Baal Runs, 5,000 in either Farming mode and 10,000 in Endgame. Hell hides loose ID/TP scrolls, Thawing and Oil. Farming also hides ordinary HP/MP and cold/gas/fire throwing potions. Both Rejuvenation sizes, Antidote and Stamina remain visible.
+Normal/Nightmare show all items. Hell/Baal use cautious equipment guidance without a universal item-level-85 cutoff and show Flawless/Perfect gems. Farming/Endgame show only Perfect gems. Gold piles show from 2,500 in Hell, 4,000 in Baal Runs, 5,000 in either Farming mode and 10,000 in Endgame. Hell hides loose ID/TP scrolls, Thawing, Oil and Stamina Potions. Farming also hides ordinary HP/MP and cold/gas/fire throwing potions. Both Rejuvenation sizes, and Antidote remain visible.
 
 Plain Vita Grand Charms and Shimmering Small Charms use exact one-mod roll samples and display the matching listing count. Item descriptions omit “Good for” and “Useful for” class labels. Stack labels appear only for quantities above one, e.g. `5x Worldstone Shard`. Item level appears as plain text at the bottom of descriptions. Charm/skiller, magic-jewel and supported RW-base quotes use a five-day (120-hour) listing/bump window and five-day snapshot validity at build/update time. Exact matches take priority over approximate pooled-roll mod groups. Supported RW-base quotes distinguish base, socket count, ETH, Normal/Superior and ED/durability bands, pooling base-defense rolls; they do not price filled/corrupted bases. Unknown quotes are stated explicitly, never inferred from NPC gold. Baseline unique/set data retains its original date.
 
@@ -64,7 +64,7 @@ Tinkamos runeword bazės ant žemės ir inventoriuje žymimos Perfect RW Base ar
 
 Ant žemės prie identifikuotų skilerių rodoma klasė, įgūdžių šaka ir papildomas modas, jei yra.
 
-Dabartinė politika: **v1.2.107**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
+Dabartinė politika: **v1.2.108**, septyni profiliai: Normal, Nightmare, Hell, Baal Runs, Farming with Blue, Farming without Blue ir Endgame. [Profilių lentelė ir diegimas](./README.md#lietuviškai).
 
 ### Kas visada matoma
 
@@ -100,7 +100,7 @@ Runeword pavadinimai auksiniai kaip Unique, šalia rodoma runų seka. Inventoriu
 
 ### Progresas ir vartojami daiktai
 
-Normal/Nightmare rodo viską. Hell/Baal naudoja atsargias įrangos gaires be bendros item level 85 ribos; rodo Flawless/Perfect gemus. Farming/Endgame rodo tik Perfect gemus. Aukso krūvos rodomos nuo 2 500 Hell, nuo 4 000 Baal Runs, nuo 5 000 abiejuose Farming lygiuose ir nuo 10 000 Endgame. Hell slepia palaidus ID/TP scrollus, Thawing ir Oil. Farming papildomai slepia įprastus HP/MP ir cold/gas/fire throwing potionus. Abu Rejuvenation dydžiai, Antidote ir Stamina lieka matomi.
+Normal/Nightmare rodo viską. Hell/Baal naudoja atsargias įrangos gaires be bendros item level 85 ribos; rodo Flawless/Perfect gemus. Farming/Endgame rodo tik Perfect gemus. Aukso krūvos rodomos nuo 2 500 Hell, nuo 4 000 Baal Runs, nuo 5 000 abiejuose Farming lygiuose ir nuo 10 000 Endgame. Hell slepia palaidus ID/TP scrollus, Thawing, Oil ir Stamina Potion. Farming papildomai slepia įprastus HP/MP ir cold/gas/fire throwing potionus. Abu Rejuvenation dydžiai ir Antidote lieka matomi.
 
 Vita Grand Charm ir Shimmering Small Charm su vienu modu naudoja tikslaus roll skelbimus ir rodo jų skaičių. Iš daiktų aprašų pašalintos klasę siūlančios „Good for“ ir „Useful for“ žymos. Kiekis rodomas tik krūvelėms nuo 2 vnt., pvz., `5x Worldstone Shard`. Item level rašomas paprastu tekstu aprašymo apačioje. Charmų/skillerių, magic jewels ir palaikomų RW bazių kainos naudoja 5 parų (120 val.) skelbimų/atnaujinimų langą bei 5 parų įverčio galiojimą kūrimo/atnaujinimo metu. Tikslūs deriniai turi pirmenybę prieš apytiksles modų grupes. RW bazėms atskiriama bazė, socketai, ETH, Normal/Superior ir ED/durability ribos, sujungiami defense roll; užpildytoms/corrupted bazėms šis įvertis netaikomas. Nežinomas įvertis pažymimas aiškiai, ne išvedamas iš NPC gold. Bazinės unique/set kainos išlaiko pradinę datą.
 
@@ -165,9 +165,9 @@ Equipment tooltips use Max Sockt with a gold count in brackets. Larzuk quest, Pu
 
 Įrangos apraše Max Sockt skaičius rodomas auksine spalva laužtiniuose skliaustuose. Larzuk užduoties, Puzzlebox arba Puzzlepiece ir Malus rezultatai rodomi vienoje eilutėje. Kai tinka Cube receptas, jo intervalas ir ingredientai rodomi kitoje eilutėje. Tikslus runeword reikalavimas žymimas auksiniu skaičiumi, pvz., [5s].
 
-Wirt’s Leg and Stamina are visible at every strictness level. Stamina stays visible at every level and is blue on the ground. Identify and Town Portal scrolls have distinct ground colors. Socket recipes have a Socketing heading. Ground labels show Possible merc RW for eligible mixed-use bases too.
+Wirt’s Leg is visible at every strictness level. Stamina Potions show in blue on the ground through Nightmare. Identify and Town Portal scrolls have distinct ground colors. Socket recipes have a Socketing heading. Ground labels show Possible merc RW for eligible mixed-use bases too.
 
-Wirt’s Leg ir Stamina matomi visuose strictness lygiuose. Stamina matoma visuose lygiuose ir ant žemės rodoma mėlyna spalva. Identify ir Town Portal scrollai turi skirtingas spalvas. Socketų receptai turi antraštę Socketing. Žyma Possible merc RW rodoma ant žemės ir tinkamoms mišrios paskirties bazėms.
+Wirt’s Leg matoma visuose strictness lygiuose. Stamina Potion ant žemės mėlynai rodoma iki Nightmare imtinai. Identify ir Town Portal scrollai turi skirtingas spalvas. Socketų receptai turi antraštę Socketing. Žyma Possible merc RW rodoma ant žemės ir tinkamoms mišrios paskirties bazėms.
 
 Inventory runeword recipes stay available for eligible bases even when their ground drops are hidden in Endgame. Bind Increase Filter Level and Decrease Filter Level to Numpad + and − to compare recommendations while hovering. Stamina has a blue ground label.
 
