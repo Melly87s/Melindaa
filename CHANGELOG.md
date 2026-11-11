@@ -8,6 +8,10 @@ Melindaa uses our own selection rules and features. This changelog records chang
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
 
+### v1.2.107 — Lightning charm price matching
+
+- Grand Charms with only added Lightning Damage require a price sample for the exact roll.
+
 ### v1.2.106 — Grand Charm identification
 
 - Skiller ground labels start with [GC], followed by the class, skill tree and any additional modifier. Every ethereal item name starts with [ETH] on the ground and in inventory.
@@ -392,6 +396,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
 Įrašai pateikti nuo naujausio. Ankstesnių versijų taisykles gali pakeisti vėlesni atnaujinimai.
+
+### v1.2.107 — Lightning charm kainų atranka
+
+- Grand Charm, kurio vienintelis bonusas yra Lightning Damage, kainos įvertis rodomas tik turint pakankamai to paties rollo skelbimų.
 
 ### v1.2.106 — Grand Charm žyma
 
