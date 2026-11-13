@@ -4,6 +4,10 @@
 
 ## English
 
+### v1.2.110 — Market prices
+
+- Updated HR/WSS estimates from market data collected on **2026-11-13** (Vilnius time).
+
 Melindaa uses our own selection rules and features. This changelog records changes to strictness, prices, ROLL ratings, recipes and item labels.
 
 Newest entries appear first. Later releases may supersede earlier selection rules. This documentation update does not change the filter version.
@@ -400,6 +404,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 ---
 
 ## Lietuviškai
+
+### v1.2.110 — Kainų atnaujinimas
+
+- HR/WSS įverčiai atnaujinti pagal **2026-11-13** surinktus rinkos duomenis (Lietuvos laiku).
 
 Melindaa naudoja mūsų sukurtas atrankos taisykles ir funkcijas. Čia aprašomi strictness, kainų, ROLL vertinimo, receptų ir daiktų žymų pakeitimai.
 
