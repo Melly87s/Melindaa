@@ -4,6 +4,10 @@
 
 ## English
 
+### v1.2.112 — Market prices
+
+- Updated HR/WSS estimates from market data collected on **2026-11-27** (Vilnius time).
+
 ### v1.2.111 — Market prices
 
 - Updated HR/WSS estimates from market data collected on **2026-11-20** (Vilnius time).
@@ -408,6 +412,10 @@ Price dates change only when the price data itself is updated. Documentation-onl
 ---
 
 ## Lietuviškai
+
+### v1.2.112 — Kainų atnaujinimas
+
+- HR/WSS įverčiai atnaujinti pagal **2026-11-27** surinktus rinkos duomenis (Lietuvos laiku).
 
 ### v1.2.111 — Kainų atnaujinimas
 

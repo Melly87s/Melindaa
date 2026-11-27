@@ -1,13 +1,13 @@
 {
-  "version": "1.2.111",
-  "executableLines": 11230,
+  "version": "1.2.112",
+  "executableLines": 11056,
   "aliases": 124,
   "formulas": 1357,
-  "formulaReferences": 18202,
+  "formulaReferences": 18180,
   "renderedFormulaTokens": 2820,
-  "nativeAliasRules": 9742,
-  "bytes": 4397699,
-  "sha256": "3fb85f0e6954287da12b58203b25a6587050f8597d5edbecfc3d0eb9b6a8dc0d",
+  "nativeAliasRules": 9568,
+  "bytes": 4308853,
+  "sha256": "99963d7d5077fb4d9b79bda9a2b8da4778efdddc11e0038dde214d8c6cda92ba",
   "equivalentRules": true,
   "name": "Melindaa",
   "filterFile": "Melindaa.filter",
@@ -18,9 +18,9 @@
   "generatorIncluded": false,
   "engine": "melindaa-original",
   "marketRefresh": {
-    "date": "2026-11-20",
-    "fetchedAt": "2026-11-20T10:54:44.538Z",
+    "date": "2026-11-27",
+    "fetchedAt": "2026-11-27T10:51:24.801Z",
     "generatorVersion": "1.2.109",
-    "baselineQuotes": 342
+    "baselineQuotes": 318
   }
 }
